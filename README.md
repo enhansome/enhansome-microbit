@@ -17,7 +17,7 @@ This embedded board has a Bluetooth capable microcontroller, USB interface, acce
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) ⭐ 1,195 | 🐛 6 | 🌐 HTML | 📅 2026-05-21 "Watch" this repository if you'd like to get notifications when a new entry is added to the list.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Or follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 495,057 | 🐛 100 | 📅 2026-06-30.
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 495,335 | 🐛 99 | 📅 2026-06-30.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
 
@@ -301,12 +301,12 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,410 | 🐛 212 | 🌐 Rust | 📅 2026-08-13 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,410 | 🐛 206 | 🌐 Rust | 📅 2026-08-13 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
 
-* [Ada Drivers](https://github.com/AdaCore/Ada_Drivers_Library/tree/master/examples/MicroBit) ⭐ 282 | 🐛 24 | 🌐 Ada | 📅 2026-07-08 - Drivers for the micro:bit on-board components and instruction on how to setup the Ada development environment.
+* [Ada Drivers](https://github.com/AdaCore/Ada_Drivers_Library/tree/master/examples/MicroBit) ⭐ 283 | 🐛 24 | 🌐 Ada | 📅 2026-07-08 - Drivers for the micro:bit on-board components and instruction on how to setup the Ada development environment.
 * [Ada micro:bit Examples](https://github.com/Fabien-Chouteau/microbit_examples) ⭐ 0 | 🐛 0 | 🌐 Ada | 📅 2020-10-02 - Examples and tutorials for Ada on the BBC micro:bit.
 * [Ada for micro:bit Getting Started](https://www.adacore.com/blog/ada-for-microbit-part-1-getting-started) -  How to setup an Ada development environment for the micro:bit.
 * [Ada for micro:bit articles](https://www.adacore.com/blog/ada-for-microbit-part-2-push-buttons) - ([Part 3](https://www.adacore.com/blog/ada-for-microbit-part-3-pin-output), [Part 4](https://www.adacore.com/blog/ada-for-microbit-part-4-pin-input), [Part 5](https://www.adacore.com/blog/ada-for-microbit-part-5-analog-output), [Part 6](https://www.adacore.com/blog/ada-for-microbit-part-6-analog-input), [Part 7](https://www.adacore.com/blog/ada-for-microbit-part-7-accelerometer), [Part 8](https://www.adacore.com/blog/ada-for-microbit-part-8-music)) A series of articles and tutorials about using Ada on the micro:bit.
@@ -414,7 +414,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 The USB Interface Chip is the microcontroller placed close to the battery connector. It provides all the USB functionality, like the `MICROBIT` USB drive (Mass Storage Device), WebUSB, serial, and HID debugger.
 
-* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,782 | 🐛 140 | 🌐 C | 📅 2026-07-13 - Source code for DAPLink, the firmware running on the Interface Chip.
+* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,783 | 🐛 140 | 🌐 C | 📅 2026-07-13 - Source code for DAPLink, the firmware running on the Interface Chip.
 * [DAP.js](https://github.com/ARMmbed/dapjs) ⭐ 134 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-29 - JavaScript (Node.js and WebUSB) interface to DAP-CMSIS over USB/HID, meant to provide a subset of the PyOCD functionality.
 * [microbit-webusb](https://github.com/bsiever/microbit-webusb) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-23 - A simple WebUSB library implementation to interact with the micro:bit, with a good README explanation, and a demo application.
 * [pyOCD](https://github.com/mbedmicro/pyOCD) ⭐ 1 | 🐛 0 | 📅 2025-08-06 - Python library for programming and debugging ARM Cortex-M microcontrollers, like the one included in the micro:bit, using the CMSIS-DAP provided by the Interface Chip.
@@ -707,7 +707,7 @@ Useful Articles for developing on the micro:bit.
 
 ## 🧑‍🏫 Teaching Resources
 
-* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 795 | 🐛 0 | 🌐 Python | 📅 2026-08-12 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
+* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 795 | 🐛 0 | 🌐 Python | 📅 2026-08-13 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
 * [micro:bit Lessons](https://github.com/PhonicCanine/microbit-lessons) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2021-06-01 - Basic lessons on Python programming with a BBC micro:bit.
 * [Learn micro:bit](https://github.com/LearnToProgramRoanoke/Learn-microbit) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2019-12-04 - Code and materials for learning to program with the BBC micro:bit.
 * [microbit.org Lessons](https://microbit.org/teach/lessons/) - Curriculum-linked units of work and design challenges for planning and teaching computing in primary and secondary schools.
