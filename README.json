@@ -1139,7 +1139,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-27T13:42:17Z",
+            "last_commit": "2026-08-14T11:28:37Z",
             "owner": "microbit-foundation",
             "repo": "microbit-fs",
             "stars": 15
@@ -1153,7 +1153,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-07-27T12:54:20Z",
+            "last_commit": "2026-08-14T11:29:16Z",
             "owner": "microbit-foundation",
             "repo": "microbit-universal-hex",
             "stars": 13
@@ -2012,7 +2012,7 @@
             "last_commit": "2024-07-09T07:19:10Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13243
+            "stars": 13249
           }
         },
         {
@@ -2088,7 +2088,7 @@
             "last_commit": "2026-07-13T14:56:45Z",
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2783
+            "stars": 2784
           }
         },
         {
@@ -2150,7 +2150,7 @@
             "last_commit": "2021-03-29T13:48:51Z",
             "owner": "microbit-foundation",
             "repo": "microbit-reference-design",
-            "stars": 244
+            "stars": 245
           }
         },
         {
@@ -2619,7 +2619,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T11:58:35Z",
+            "last_commit": "2026-08-14T11:49:27Z",
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
             "stars": 795
@@ -2663,7 +2663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T19:15:27.411Z",
+    "last_updated": "2026-08-14T19:07:11.485Z",
     "original_repository": "carlosperate/awesome-microbit",
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
     "enhanced_repository": "enhansome/enhansome-microbit",
