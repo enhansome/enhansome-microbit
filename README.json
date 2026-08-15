@@ -2012,7 +2012,7 @@
             "last_commit": "2024-07-09T07:19:10Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13249
+            "stars": 13252
           }
         },
         {
@@ -2088,7 +2088,7 @@
             "last_commit": "2026-07-13T14:56:45Z",
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2784
+            "stars": 2786
           }
         },
         {
@@ -2619,7 +2619,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T11:49:27Z",
+            "last_commit": "2026-08-15T12:17:48Z",
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
             "stars": 795
@@ -2663,7 +2663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:07:11.485Z",
+    "last_updated": "2026-08-15T18:41:40.089Z",
     "original_repository": "carlosperate/awesome-microbit",
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
     "enhanced_repository": "enhansome/enhansome-microbit",
