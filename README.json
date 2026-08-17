@@ -1471,7 +1471,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-11T05:23:00Z",
+            "last_commit": "2026-08-17T10:32:10Z",
             "owner": "apache",
             "repo": "mynewt-core",
             "stars": 890
@@ -1561,7 +1561,7 @@
             "last_commit": "2026-03-21T19:05:36Z",
             "owner": "rust-embedded",
             "repo": "discovery",
-            "stars": 1601
+            "stars": 1602
           }
         },
         {
@@ -2009,10 +2009,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2024-07-09T07:19:10Z",
+            "last_commit": "2026-08-17T12:23:59Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13283
+            "stars": 13391
           }
         },
         {
@@ -2088,7 +2088,7 @@
             "last_commit": "2026-07-13T14:56:45Z",
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2787
+            "stars": 2788
           }
         },
         {
@@ -2150,7 +2150,7 @@
             "last_commit": "2021-03-29T13:48:51Z",
             "owner": "microbit-foundation",
             "repo": "microbit-reference-design",
-            "stars": 245
+            "stars": 244
           }
         },
         {
@@ -2663,7 +2663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T18:40:45.413Z",
+    "last_updated": "2026-08-17T18:52:42.069Z",
     "original_repository": "carlosperate/awesome-microbit",
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
     "enhanced_repository": "enhansome/enhansome-microbit",
