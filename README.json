@@ -1471,7 +1471,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T10:32:10Z",
+            "last_commit": "2026-08-18T08:04:32Z",
             "owner": "apache",
             "repo": "mynewt-core",
             "stars": 890
@@ -2012,7 +2012,7 @@
             "last_commit": "2026-08-17T12:23:59Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13391
+            "stars": 13419
           }
         },
         {
@@ -2088,7 +2088,7 @@
             "last_commit": "2026-07-13T14:56:45Z",
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2788
+            "stars": 2789
           }
         },
         {
@@ -2663,7 +2663,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T18:52:42.069Z",
+    "last_updated": "2026-08-18T18:51:38.169Z",
     "original_repository": "carlosperate/awesome-microbit",
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
     "enhanced_repository": "enhansome/enhansome-microbit",
