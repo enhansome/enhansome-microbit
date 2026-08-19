@@ -1,1183 +1,1446 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "pyscrlink",
-          "description": "A Scratch-link for Linux to connect Scratch 3.0 to Bluetooth devices such as the micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-09-18T09:35:03Z",
-            "owner": "kawasaki",
-            "repo": "pyscrlink",
-            "stars": 126
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mbit-more",
-          "description": "A third party Scratch extension with extra features, including visualising sensor data and support for V1 and V2 micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-25T05:37:40Z",
-            "owner": "microbit-more",
-            "repo": "mbit-more-v2",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "s2m",
-          "description": "A Python program that acts as a bridge between the Scratch 2 off-line editor and the micro:bit via USB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-08-28T12:49:31Z",
-            "owner": "MrYsLab",
-            "repo": "s2m",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "s2microbit BLE",
-          "description": "Scratch 2 (offline) extension for BBC micro:bit bluetooth connection with a Windows PC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-05-09T00:44:12Z",
-            "owner": "memakura",
-            "repo": "s2microbit-ble",
-            "stars": 9
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "pyscrlink",
+              "description": "A Scratch-link for Linux to connect Scratch 3.0 to Bluetooth devices such as the micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 207799516,
+                "language": "Python",
+                "last_commit": "2023-09-18T09:35:03Z",
+                "owner": "kawasaki",
+                "repo": "pyscrlink",
+                "stars": 126
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mbit-more",
+              "description": "A third party Scratch extension with extra features, including visualising sensor data and support for V1 and V2 micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 319152885,
+                "language": "JavaScript",
+                "last_commit": "2026-01-25T05:37:40Z",
+                "owner": "microbit-more",
+                "repo": "mbit-more-v2",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "s2m",
+              "description": "A Python program that acts as a bridge between the Scratch 2 off-line editor and the micro:bit via USB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110704956,
+                "language": "Python",
+                "last_commit": "2019-08-28T12:49:31Z",
+                "owner": "MrYsLab",
+                "repo": "s2m",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "s2microbit BLE",
+              "description": "Scratch 2 (offline) extension for BBC micro:bit bluetooth connection with a Windows PC.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117997333,
+                "language": "JavaScript",
+                "last_commit": "2024-05-09T00:44:12Z",
+                "owner": "memakura",
+                "repo": "s2microbit-ble",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🆚 Unofficial Scratch Extensions"
         }
       ],
-      "title": "🆚 Unofficial Scratch Extensions"
+      "title": "🆚 Visual Programming"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Micropython-MakeCode compatible Radio",
-          "description": "Class MakeRadio which includes all the functionality of the MicroPython radio module, while being compatible with MakeCode blocks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-05-10T08:51:41Z",
-            "owner": "rhubarbdog",
-            "repo": "microbit-radio",
-            "stars": 10
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Micropython-MakeCode compatible Radio",
+              "description": "Class MakeRadio which includes all the functionality of the MicroPython radio module, while being compatible with MakeCode blocks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 177286338,
+                "language": "Python",
+                "last_commit": "2020-05-10T08:51:41Z",
+                "owner": "rhubarbdog",
+                "repo": "microbit-radio",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Decimal Numbers",
+              "description": "A Class to perform mathematics using actual decimal numbers (not floating point numbers).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 560879003,
+                "language": "Python",
+                "last_commit": "2022-11-08T09:49:40Z",
+                "owner": "rhubarbdog",
+                "repo": "decimal-numbers",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🐍 MicroPython Libraries"
         },
         {
-          "node_type": "item",
-          "title": "Decimal Numbers",
-          "description": "A Class to perform mathematics using actual decimal numbers (not floating point numbers).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-08T09:49:40Z",
-            "owner": "rhubarbdog",
-            "repo": "decimal-numbers",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SSD1306",
+              "description": "Library to control the OLED SSD1306 128x64 I2C with a micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82568470,
+                "language": "Python",
+                "last_commit": "2024-04-19T08:11:30Z",
+                "owner": "fizban99",
+                "repo": "microbit_ssd1306",
+                "stars": 61
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "micro:bit python libs",
+              "description": "Growing collection of modules, including TM1637/TM1650 7-seg LEDs, OLED 128x64, LCD1602, AT24XX EEPROM, DS1302/DS1307/DS3231 RTC, NeoPixel drivers, APDS9930 Digital Proximity and Ambient Light Sensor, BME280 humidity and pressure sensor, BMP280/BMP180 pressure sensors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119242557,
+                "language": "Python",
+                "last_commit": "2019-07-08T03:45:29Z",
+                "owner": "shaoziyang",
+                "repo": "microbit-lib",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ULN2003",
+              "description": "Module to drive stepper motors via ULN2003 darlington transistors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98753203,
+                "language": "Python",
+                "last_commit": "2017-07-29T19:35:48Z",
+                "owner": "IDWizard",
+                "repo": "uln2003",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PCA9685",
+              "description": "Class for using the PCA9685 16-Channel 12-bit PWM/Servo Driver via I2C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80291463,
+                "language": "Python",
+                "last_commit": "2017-01-28T16:02:32Z",
+                "owner": "gingemonster",
+                "repo": "PCA9685-Python-Microbit",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Servo",
+              "description": "Class for controlling servos on the micro:bit via PWM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65727468,
+                "language": "Python",
+                "last_commit": "2016-12-28T01:08:30Z",
+                "owner": "microbit-playground",
+                "repo": "microbit-servo-class",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HC-SR04",
+              "description": "Library to read the distance from a HC-SR04 ultrasonic sensor using the SPI peripheral.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84944783,
+                "language": "Python",
+                "last_commit": "2021-07-24T16:29:23Z",
+                "owner": "fizban99",
+                "repo": "microbit_hcsr04",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TM1637",
+              "description": "Library for quad 7-segment LED display modules using the TM1637 LED driver.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116643887,
+                "language": "Python",
+                "last_commit": "2019-01-23T12:33:46Z",
+                "owner": "mcauser",
+                "repo": "microbit-tm1637",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nokia 5110 PCD8544 LCD",
+              "description": "Fast controller for Nokia 5110 LCDs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89060467,
+                "language": "Python",
+                "last_commit": "2025-03-20T11:19:52Z",
+                "owner": "matneee",
+                "repo": "microbit-nokia5110-PCD8544-lcd",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SSD1306 7seg",
+              "description": "Library to use an SSD1306 OLED display as a 7 segment display.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83931069,
+                "language": "Python",
+                "last_commit": "2021-07-24T16:32:33Z",
+                "owner": "fizban99",
+                "repo": "microbit_ssd1306_7seg",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SSD1306 SPI",
+              "description": "Library to control the OLED SSD1306 128x64 display with a micro:bit via SPI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88179998,
+                "language": "Python",
+                "last_commit": "2021-07-24T16:30:02Z",
+                "owner": "fizban99",
+                "repo": "microbit_ssd1306spi",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "US-100",
+              "description": "Library to read the distance from a US-100 ultrasonic sensor via UART.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84999579,
+                "language": "Python",
+                "last_commit": "2021-07-24T16:32:03Z",
+                "owner": "fizban99",
+                "repo": "microbit_us100",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MAX7219 7-segment",
+              "description": "Module for using a 7-segment display driven by a MAX7219 chip via SPI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77490457,
+                "language": "Python",
+                "last_commit": "2017-06-03T16:19:05Z",
+                "owner": "microbit-playground",
+                "repo": "matrix7seg",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DHT11",
+              "description": "Library for for the DHT11 temperature and humidity sensor over 1 wire.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159582738,
+                "language": "Python",
+                "last_commit": "2022-10-03T12:39:40Z",
+                "owner": "rhubarbdog",
+                "repo": "microbit-dht11",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RAK811",
+              "description": "RAK811 Python library for use with LoRa pHAT & micro:bit Node.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 143285330,
+                "language": "Python",
+                "last_commit": "2019-10-01T00:17:00Z",
+                "owner": "PiSupply",
+                "repo": "rak811-python",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BME280",
+              "description": "Library to interface with a BME280 humidity, pressure, and temperature sensor via I2C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353173846,
+                "language": "Python",
+                "last_commit": "2022-01-24T05:56:30Z",
+                "owner": "CoreElectronics",
+                "repo": "CE-PiicoDev-BME280-MicroPython-Module",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SSD1306",
+              "description": "Library to control the SSD1306 display via I2C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136271093,
+                "language": "Python",
+                "last_commit": "2018-06-06T04:19:23Z",
+                "owner": "Afantor",
+                "repo": "Microbit_SSD1306_OLED",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kitronik Motor Driver Board",
+              "description": "Class to control the Kitronik motor driver board.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117913442,
+                "language": "Python",
+                "last_commit": "2018-01-21T16:36:06Z",
+                "owner": "MrYsLab",
+                "repo": "kitronik_motor_board",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cutebot",
+              "description": "Library providing functions to work with Cutebot kit for BBC micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231423684,
+                "language": "Python",
+                "last_commit": "2020-07-29T06:02:11Z",
+                "owner": "Krakenus",
+                "repo": "microbit-cutebot-micropython",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TMP117",
+              "description": "Library to interface with a TMP117 high precision temperature sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 351312862,
+                "language": "Python",
+                "last_commit": "2022-04-22T07:23:15Z",
+                "owner": "CoreElectronics",
+                "repo": "CE-PiicoDev-TMP117-MicroPython-Module",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bitbotxl",
+              "description": "Module for the 4tronix Bit:Bot XL Robot for BBC micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267300764,
+                "language": "Python",
+                "last_commit": "2020-06-02T06:44:38Z",
+                "owner": "oivron",
+                "repo": "bitbotxl",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DHT12",
+              "description": "Library for interfacing with an Aosong DHT12 temperature and humidity sensor over I2C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121741510,
+                "language": "Python",
+                "last_commit": "2018-08-07T15:42:56Z",
+                "owner": "mcauser",
+                "repo": "microbit-dht12",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VEML6030",
+              "description": "Library for interfacing with a VEML6030 Ambient Light Sensor via I2C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 352464188,
+                "language": "Python",
+                "last_commit": "2021-10-05T04:36:07Z",
+                "owner": "CoreElectronics",
+                "repo": "CE-PiicoDev-VEML6030-MicroPython-Module",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MAX7219 matrix",
+              "description": "Module for using a 8x8 LED Matrix driven by a MAX7219 chip via SPI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71928857,
+                "language": "Python",
+                "last_commit": "2020-07-12T09:31:48Z",
+                "owner": "titimoby",
+                "repo": "microbit4all",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HT16K33",
+              "description": "Library for the HT16K33 LED matrix driver in multiple configurations (16x8, 8x8 or 8x8x2).",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 371569090,
+                "language": "Python",
+                "last_commit": "2021-05-28T03:29:08Z",
+                "owner": "mcauser",
+                "repo": "deshipu-micropython-ht16k33",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KY038",
+              "description": "Library to calibrate and use a sound sensor KY038, including clap counter functionality.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85682703,
+                "language": "Python",
+                "last_commit": "2021-07-24T16:31:30Z",
+                "owner": "fizban99",
+                "repo": "microbit_ky038",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bosch BME280",
+              "description": "Module for Bosch BME280 Pressure, Temperature and Humidity Sensor via I2C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94504202,
+                "language": "C",
+                "last_commit": "2017-06-16T04:38:43Z",
+                "owner": "jemerlia",
+                "repo": "microbit-BoschBME280-P-T-and-H-Sensor",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MY9221",
+              "description": "Library for 10 segment LED bar graph modules using the MY9221 LED driver.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118924061,
+                "language": "Python",
+                "last_commit": "2018-08-07T15:40:29Z",
+                "owner": "mcauser",
+                "repo": "microbit-my9221",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCP3008",
+              "description": "Library to interface with a MCP3008 10-bit Analog-to-Digital Converter (ADC).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139379201,
+                "language": "Python",
+                "last_commit": "2018-07-02T06:57:23Z",
+                "owner": "ti-nspire",
+                "repo": "microbit_MicroPython_MCP3008",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MPR121",
+              "description": "Library for the MPR121 Capacitive Touch Sensor over I2C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161967606,
+                "language": "Python",
+                "last_commit": "2018-12-16T04:32:10Z",
+                "owner": "rhubarbdog",
+                "repo": "microbit-mpr121-keypad",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "24LCxxx EEPROM",
+              "description": "Example micro:bit functions to read and write to a Microchip I2C EEPROM.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89794993,
+                "language": "Python",
+                "last_commit": "2025-03-20T11:20:52Z",
+                "owner": "matneee",
+                "repo": "microbit-I2C-EEPROM-24LCxxx-Read-Write",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AM2320",
+              "description": "Library for interfacing with an Aosong AM2320 temperature and humidity sensor over I2C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121737785,
+                "language": "Python",
+                "last_commit": "2018-08-07T15:43:47Z",
+                "owner": "mcauser",
+                "repo": "microbit-am2320",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTU21D",
+              "description": "Library to interface with a HTU21D digital humidity and temperature sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137531994,
+                "language": "Python",
+                "last_commit": "2018-06-16T00:12:29Z",
+                "owner": "ti-nspire",
+                "repo": "microbit-in-micropython-library-for-HTU21D-sensor",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🐍 MicroPython Libraries - Hardware drivers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bluezero",
+              "description": "Python package to interface with Bluetooth devices, with examples for the micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49202026,
+                "language": "Python",
+                "last_commit": "2025-03-23T13:01:36Z",
+                "owner": "ukBaz",
+                "repo": "python-bluezero",
+                "stars": 421
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bitio",
+              "description": "BBC micro:bit I/O library for Python. It allows you to run code in Python on a PC/Mac/Linux/Raspberry Pi and interact directly with the micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93845009,
+                "language": "Python",
+                "last_commit": "2022-11-26T09:55:07Z",
+                "owner": "whaleygeek",
+                "repo": "bitio",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kasper's micro:bit",
+              "description": "A Python package to connect to the Bluetooth LE GATT services of paired BBC micro:bit devices. Use your micro:bit as a wireless game controller!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 456010272,
+                "language": "Python",
+                "last_commit": "2025-11-11T16:59:57Z",
+                "owner": "janickr",
+                "repo": "kaspersmicrobit",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MicroPeri",
+              "description": "Run Python programs on your computer with the same micro:bit MicroPython API and connecting a micro:bit as an external peripheral device or sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60592934,
+                "language": "Python",
+                "last_commit": "2016-06-07T10:18:55Z",
+                "owner": "ntoll",
+                "repo": "microperi",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🐍 Python Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "uFlash",
+              "description": "Utility for flashing the micro:bit with Python scripts and the MicroPython runtime.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48134598,
+                "language": "Python",
+                "last_commit": "2023-11-27T04:41:24Z",
+                "owner": "ntoll",
+                "repo": "uflash",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MicroFs",
+              "description": "Simple command line tool and module for interacting with the limited file system provided by MicroPython on the micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59915607,
+                "language": "Python",
+                "last_commit": "2023-05-29T18:40:32Z",
+                "owner": "ntoll",
+                "repo": "microfs",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MicroREPL",
+              "description": "A REPL client for MicroPython running on the BBC micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41963572,
+                "language": "Python",
+                "last_commit": "2022-10-11T13:02:32Z",
+                "owner": "ntoll",
+                "repo": "microrepl",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "micro:bit MicroPython stubs",
+              "description": "Type stubs for MicroPython for micro:bit to support the editor autocompletion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 393065215,
+                "language": "Python",
+                "last_commit": "2025-06-26T12:27:42Z",
+                "owner": "microbit-foundation",
+                "repo": "micropython-microbit-stubs",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "micro:bit Stubs",
+              "description": "Python stubs with type hints to provide autocompletion in code editors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383094398,
+                "language": "Python",
+                "last_commit": "2021-10-12T09:05:07Z",
+                "owner": "oivron",
+                "repo": "microbit-stubs",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🐍 Python Tools"
         }
       ],
-      "title": "🐍 MicroPython Libraries"
+      "title": "🐍 Python"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "SSD1306",
-          "description": "Library to control the OLED SSD1306 128x64 I2C with a micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-19T08:11:30Z",
-            "owner": "fizban99",
-            "repo": "microbit_ssd1306",
-            "stars": 61
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bluetooth Keyboard",
+              "description": "MakeCode extension for BLE HID Keyboard module for micro:bit V1.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104811967,
+                "language": "C++",
+                "last_commit": "2017-09-29T04:30:17Z",
+                "owner": "kshoji",
+                "repo": "pxt-bluetooth-keyboard",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "blehid",
+              "description": "Set up the micro:bit V2 as a Bluetooth HID device, like a keyboard, mouse, or gamepad.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430231054,
+                "language": "C++",
+                "last_commit": "2024-04-21T18:14:33Z",
+                "owner": "bsiever",
+                "repo": "microbit-pxt-blehid",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bluetooth Gamepad",
+              "description": "MakeCode extension for BLE HID Gamepad module for micro:bit V1.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122185813,
+                "language": "C++",
+                "last_commit": "2018-03-01T10:50:40Z",
+                "owner": "kshoji",
+                "repo": "pxt-bluetooth-gamepad",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BlueDot",
+              "description": "PXT package to support the BlueDot app - beta.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89922822,
+                "language": "C++",
+                "last_commit": "2025-01-10T00:12:43Z",
+                "owner": "microsoft",
+                "repo": "pxt-bluedot",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "timeanddate",
+              "description": "Software Based Real Time Clock (Time & Date) for the micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 270458189,
+                "language": "TypeScript",
+                "last_commit": "2026-05-25T00:16:10Z",
+                "owner": "bsiever",
+                "repo": "microbit-pxt-timeanddate",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bluetooth Mouse",
+              "description": "MakeCode extension for BLE HID Mouse module for micro:bit V1.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106776461,
+                "language": "C++",
+                "last_commit": "2023-08-30T08:32:16Z",
+                "owner": "kshoji",
+                "repo": "pxt-bluetooth-mouse",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sonic Pi OSC",
+              "description": "Send OpenSound Control (OSC) messages to Sonic Pi from a micro:bit using an ESP8266.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245010334,
+                "language": "TypeScript",
+                "last_commit": "2020-05-10T17:06:43Z",
+                "owner": "RBilsland",
+                "repo": "pxt-sonicpiosc",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bluetooth beacons",
+              "description": "Allows the micro:bit to act as iBeacon / AltBeacon advertiser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113856229,
+                "language": "C++",
+                "last_commit": "2017-12-12T04:21:57Z",
+                "owner": "kshoji",
+                "repo": "pxt-bluetooth-beacons",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Music Helpers",
+              "description": "Modify how tones played by the original music blocks are played, adding interesting capabilities like pentatonics or custom tweaks to simulate other instruments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 489520891,
+                "language": "TypeScript",
+                "last_commit": "2024-08-15T16:05:54Z",
+                "owner": "jaustin",
+                "repo": "pxt-musichelpers",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "micro:bit Timers",
+              "description": "Provides timer based functions for debouncing, throttling, delaying and running code in the background.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 511743317,
+                "language": "TypeScript",
+                "last_commit": "2022-07-09T18:49:07Z",
+                "owner": "robo-technical-group",
+                "repo": "pxt-microbit-timers",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "To add an extension to MakeCode find the \"Extensions\" option in the Settings menu or in the \"Advance\" toolbox category.\nThe link below contains a list of the officially approved extensions, and they can be loaded by by searching for their name in the \"Extensions\" screen.\nThe following extensions can be added into MakeCode by copying the GitHub URL and pasting it into the search box of the \"Extensions\" screen.",
+          "node_type": "group",
+          "title": "🗿 MakeCode Extensions"
         },
         {
-          "node_type": "item",
-          "title": "micro:bit python libs",
-          "description": "Growing collection of modules, including TM1637/TM1650 7-seg LEDs, OLED 128x64, LCD1602, AT24XX EEPROM, DS1302/DS1307/DS3231 RTC, NeoPixel drivers, APDS9930 Digital Proximity and Ambient Light Sensor, BME280 humidity and pressure sensor, BMP280/BMP180 pressure sensors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-07-08T03:45:29Z",
-            "owner": "shaoziyang",
-            "repo": "microbit-lib",
-            "stars": 56
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lego Power Functions",
+              "description": "Control LEGO® Power Functions motors using your micro:bit with an infrared LED.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103754807,
+                "language": "TypeScript",
+                "last_commit": "2020-06-05T09:28:13Z",
+                "owner": "philipphenkel",
+                "repo": "pxt-powerfunctions",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "IR",
+              "description": "Control IR (infrared) transmitter/receiver modules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156637541,
+                "language": "TypeScript",
+                "last_commit": "2018-11-19T03:47:23Z",
+                "owner": "lioujj",
+                "repo": "pxt-IR",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dfplayer",
+              "description": "Play MP3 files with a DFPlayer mini module.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135541709,
+                "language": "TypeScript",
+                "last_commit": "2020-11-08T02:58:55Z",
+                "owner": "lioujj",
+                "repo": "pxt-mp3",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DS18B20",
+              "description": "DFRobot extensions to read the temperature from a DS18B20 sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137976307,
+                "language": "C++",
+                "last_commit": "2023-06-27T01:28:50Z",
+                "owner": "DFRobot",
+                "repo": "pxt-ds18b20",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SmartMatrix",
+              "description": "Easily control LED matrices/displays made from WS2812b/NeoPixel controllable RGB LEDs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 232112174,
+                "language": "TypeScript",
+                "last_commit": "2025-06-19T09:12:41Z",
+                "owner": "Shorts1999",
+                "repo": "pxt-smartmatrix",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CCS811",
+              "description": "Makecode Package for the CCS811 Air Quality Sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101442540,
+                "language": "TypeScript",
+                "last_commit": "2017-09-12T19:19:02Z",
+                "owner": "ADataDate",
+                "repo": "pxt-airQuality",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DSTemp",
+              "description": "Read the temperature from one or multiple DS18B20 sensors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167479796,
+                "language": "C++",
+                "last_commit": "2026-06-27T15:00:53Z",
+                "owner": "bsiever",
+                "repo": "microbit-dstemp",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VL53L0X",
+              "description": "Package to calculate distances using a VL53L0X Time-of-Flight ranging sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133060961,
+                "language": "TypeScript",
+                "last_commit": "2022-02-11T06:35:05Z",
+                "owner": "tinkertanker",
+                "repo": "pxt-range-vl53l0x",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MLX90614",
+              "description": "I2C driver for Infra Red Thermometer MLX90614.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186941860,
+                "language": "TypeScript",
+                "last_commit": "2019-05-20T00:59:56Z",
+                "owner": "DoraLC",
+                "repo": "pxt-MLX90614",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCP23017",
+              "description": "MakeCode driver for the MCP23017 16-Bit I2C I/O Expander.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131839551,
+                "language": "TypeScript",
+                "last_commit": "2021-07-17T23:59:31Z",
+                "owner": "CaptainCredible",
+                "repo": "pxt-MCP23017",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ubirch NB-IoT",
+              "description": "Package for sending signed data messages to the ubirch backend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103318502,
+                "language": "TypeScript",
+                "last_commit": "2018-04-18T20:22:29Z",
+                "owner": "ubirch",
+                "repo": "pxt-ubirch",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LumexOLED",
+              "description": "Package designed for Lumex OLED display.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123135212,
+                "language": "TypeScript",
+                "last_commit": "2019-02-08T09:17:21Z",
+                "owner": "lioujj",
+                "repo": "pxt-oled",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TCS3200",
+              "description": "Control a TCS3200 colour sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 145961809,
+                "language": "TypeScript",
+                "last_commit": "2019-01-28T01:25:09Z",
+                "owner": "DoraLC",
+                "repo": "pxt-tcs3200-color-sensor",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Invent robot",
+              "description": "This library provides a Microsoft PXT package for Invent robot.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109119145,
+                "language": "TypeScript",
+                "last_commit": "2019-03-28T15:09:18Z",
+                "owner": "techcampuk",
+                "repo": "pxt-invent",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DS1307",
+              "description": "Tinkercademy MakeCode package for using the DS1307 RTC (Real-Time Clock).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86546013,
+                "language": "TypeScript",
+                "last_commit": "2020-03-28T00:44:29Z",
+                "owner": "tinkertanker",
+                "repo": "pxt-realtimeclock-ds1307",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HT16K33",
+              "description": "Tinkercademy MakeCode Package for the HT16K33 I2C Alphanumeric Display (beta).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89678668,
+                "language": "TypeScript",
+                "last_commit": "2022-02-16T05:03:56Z",
+                "owner": "tinkertanker",
+                "repo": "pxt-alphanumeric-ht16k33",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SHT2X",
+              "description": "Driver for SHT20, SHT21, SHT25 digital sensor, to measure temperature and relative humidity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119336856,
+                "language": "C++",
+                "last_commit": "2022-02-28T04:16:29Z",
+                "owner": "tinkertanker",
+                "repo": "microDriver_SHT2x",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PCA9685",
+              "description": "Package to control the PCA9685, a 16-channel PWM controller, with included servo support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121192983,
+                "language": "C++",
+                "last_commit": "2018-02-12T03:05:25Z",
+                "owner": "tinkertanker",
+                "repo": "uDriver_PCA9585",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dstemp2wire",
+              "description": "This extension allows the micro:bit to use the Dallas Semiconductor DS18B20 temperature sensor with just two wires (parasitic power mode).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345236937,
+                "language": "C++",
+                "last_commit": "2026-06-27T15:00:24Z",
+                "owner": "bsiever",
+                "repo": "microbit-dstemp-2wire",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HoneyBit",
+              "description": "A Honeycomb kits package for micro:bit MakeCode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108824376,
+                "language": "TypeScript",
+                "last_commit": "2017-11-25T08:26:00Z",
+                "owner": "HoneycombKits",
+                "repo": "pxt-HoneyBit",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BMP085",
+              "description": "Package to control the BMP085 or BMP180 pressure and altitude sensors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 117193403,
+                "language": "TypeScript",
+                "last_commit": "2018-11-12T04:29:16Z",
+                "owner": "sabas1080",
+                "repo": "uBit_BMP085",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeiganMotor",
+              "description": "Controller for KeiganMotor KM-1, an all-in-one brushless gearless electric motor module.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175679017,
+                "language": "TypeScript",
+                "last_commit": "2019-07-12T11:50:38Z",
+                "owner": "keigan-motor",
+                "repo": "pxt-KeiganMotor",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adafruit Motor Driver Board",
+              "description": "Driver to control the DC motors on the Adafruit Motor Shield v1.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190966901,
+                "language": "TypeScript",
+                "last_commit": "2019-06-09T18:55:29Z",
+                "owner": "vijairaj",
+                "repo": "pxt-adafruit-motor-driver",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ESP-01",
+              "description": "Control an ESP8266 module via serial AT commands.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192478009,
+                "language": "TypeScript",
+                "last_commit": "2019-09-05T06:35:16Z",
+                "owner": "51bit",
+                "repo": "esp01",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DS3231",
+              "description": "RTC (Real Time Clock) MakeCode extension for the micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 247766482,
+                "language": "TypeScript",
+                "last_commit": "2020-03-18T01:56:23Z",
+                "owner": "gbraad",
+                "repo": "pxt-rtc-ds3231",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MAX31855",
+              "description": "Driver for the MAX31855 Thermocouple Amplifier.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256993985,
+                "language": "C++",
+                "last_commit": "2020-06-28T14:35:08Z",
+                "owner": "bremoran",
+                "repo": "microDriver_max31855",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🗿 MakeCode Extensions - Hardware drivers"
         },
         {
-          "node_type": "item",
-          "title": "ULN2003",
-          "description": "Module to drive stepper motors via ULN2003 darlington transistors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-07-29T19:35:48Z",
-            "owner": "IDWizard",
-            "repo": "uln2003",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PCA9685",
-          "description": "Class for using the PCA9685 16-Channel 12-bit PWM/Servo Driver via I2C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-01-28T16:02:32Z",
-            "owner": "gingemonster",
-            "repo": "PCA9685-Python-Microbit",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Servo",
-          "description": "Class for controlling servos on the micro:bit via PWM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-12-28T01:08:30Z",
-            "owner": "microbit-playground",
-            "repo": "microbit-servo-class",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HC-SR04",
-          "description": "Library to read the distance from a HC-SR04 ultrasonic sensor using the SPI peripheral.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-24T16:29:23Z",
-            "owner": "fizban99",
-            "repo": "microbit_hcsr04",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TM1637",
-          "description": "Library for quad 7-segment LED display modules using the TM1637 LED driver.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-01-23T12:33:46Z",
-            "owner": "mcauser",
-            "repo": "microbit-tm1637",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nokia 5110 PCD8544 LCD",
-          "description": "Fast controller for Nokia 5110 LCDs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-20T11:19:52Z",
-            "owner": "matneee",
-            "repo": "microbit-nokia5110-PCD8544-lcd",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SSD1306 7seg",
-          "description": "Library to use an SSD1306 OLED display as a 7 segment display.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-24T16:32:33Z",
-            "owner": "fizban99",
-            "repo": "microbit_ssd1306_7seg",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SSD1306 SPI",
-          "description": "Library to control the OLED SSD1306 128x64 display with a micro:bit via SPI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-24T16:30:02Z",
-            "owner": "fizban99",
-            "repo": "microbit_ssd1306spi",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "US-100",
-          "description": "Library to read the distance from a US-100 ultrasonic sensor via UART.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-24T16:32:03Z",
-            "owner": "fizban99",
-            "repo": "microbit_us100",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MAX7219 7-segment",
-          "description": "Module for using a 7-segment display driven by a MAX7219 chip via SPI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-06-03T16:19:05Z",
-            "owner": "microbit-playground",
-            "repo": "matrix7seg",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DHT11",
-          "description": "Library for for the DHT11 temperature and humidity sensor over 1 wire.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-03T12:39:40Z",
-            "owner": "rhubarbdog",
-            "repo": "microbit-dht11",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RAK811",
-          "description": "RAK811 Python library for use with LoRa pHAT & micro:bit Node.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2019-10-01T00:17:00Z",
-            "owner": "PiSupply",
-            "repo": "rak811-python",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BME280",
-          "description": "Library to interface with a BME280 humidity, pressure, and temperature sensor via I2C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-01-24T05:56:30Z",
-            "owner": "CoreElectronics",
-            "repo": "CE-PiicoDev-BME280-MicroPython-Module",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SSD1306",
-          "description": "Library to control the SSD1306 display via I2C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-06-06T04:19:23Z",
-            "owner": "Afantor",
-            "repo": "Microbit_SSD1306_OLED",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kitronik Motor Driver Board",
-          "description": "Class to control the Kitronik motor driver board.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-01-21T16:36:06Z",
-            "owner": "MrYsLab",
-            "repo": "kitronik_motor_board",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cutebot",
-          "description": "Library providing functions to work with Cutebot kit for BBC micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-07-29T06:02:11Z",
-            "owner": "Krakenus",
-            "repo": "microbit-cutebot-micropython",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TMP117",
-          "description": "Library to interface with a TMP117 high precision temperature sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-04-22T07:23:15Z",
-            "owner": "CoreElectronics",
-            "repo": "CE-PiicoDev-TMP117-MicroPython-Module",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bitbotxl",
-          "description": "Module for the 4tronix Bit:Bot XL Robot for BBC micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-06-02T06:44:38Z",
-            "owner": "oivron",
-            "repo": "bitbotxl",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DHT12",
-          "description": "Library for interfacing with an Aosong DHT12 temperature and humidity sensor over I2C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-08-07T15:42:56Z",
-            "owner": "mcauser",
-            "repo": "microbit-dht12",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VEML6030",
-          "description": "Library for interfacing with a VEML6030 Ambient Light Sensor via I2C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-05T04:36:07Z",
-            "owner": "CoreElectronics",
-            "repo": "CE-PiicoDev-VEML6030-MicroPython-Module",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MAX7219 matrix",
-          "description": "Module for using a 8x8 LED Matrix driven by a MAX7219 chip via SPI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-07-12T09:31:48Z",
-            "owner": "titimoby",
-            "repo": "microbit4all",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HT16K33",
-          "description": "Library for the HT16K33 LED matrix driver in multiple configurations (16x8, 8x8 or 8x8x2).",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-05-28T03:29:08Z",
-            "owner": "mcauser",
-            "repo": "deshipu-micropython-ht16k33",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KY038",
-          "description": "Library to calibrate and use a sound sensor KY038, including clap counter functionality.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-07-24T16:31:30Z",
-            "owner": "fizban99",
-            "repo": "microbit_ky038",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bosch BME280",
-          "description": "Module for Bosch BME280 Pressure, Temperature and Humidity Sensor via I2C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2017-06-16T04:38:43Z",
-            "owner": "jemerlia",
-            "repo": "microbit-BoschBME280-P-T-and-H-Sensor",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MY9221",
-          "description": "Library for 10 segment LED bar graph modules using the MY9221 LED driver.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-08-07T15:40:29Z",
-            "owner": "mcauser",
-            "repo": "microbit-my9221",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCP3008",
-          "description": "Library to interface with a MCP3008 10-bit Analog-to-Digital Converter (ADC).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-07-02T06:57:23Z",
-            "owner": "ti-nspire",
-            "repo": "microbit_MicroPython_MCP3008",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MPR121",
-          "description": "Library for the MPR121 Capacitive Touch Sensor over I2C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-12-16T04:32:10Z",
-            "owner": "rhubarbdog",
-            "repo": "microbit-mpr121-keypad",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "24LCxxx EEPROM",
-          "description": "Example micro:bit functions to read and write to a Microchip I2C EEPROM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-20T11:20:52Z",
-            "owner": "matneee",
-            "repo": "microbit-I2C-EEPROM-24LCxxx-Read-Write",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AM2320",
-          "description": "Library for interfacing with an Aosong AM2320 temperature and humidity sensor over I2C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-08-07T15:43:47Z",
-            "owner": "mcauser",
-            "repo": "microbit-am2320",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HTU21D",
-          "description": "Library to interface with a HTU21D digital humidity and temperature sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-06-16T00:12:29Z",
-            "owner": "ti-nspire",
-            "repo": "microbit-in-micropython-library-for-HTU21D-sensor",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "node-bbc-microbit",
+              "description": "Control a micro:bit from Node.js using BLE.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61508670,
+                "language": "JavaScript",
+                "last_commit": "2018-08-05T20:53:26Z",
+                "owner": "sandeepmistry",
+                "repo": "node-bbc-microbit",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microbit-web-bluetooth",
+              "description": "Web Bluetooth library implementing the micro:bit Bluetooth Profile.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 174854056,
+                "language": "TypeScript",
+                "last_commit": "2026-06-16T23:22:02Z",
+                "owner": "thegecko",
+                "repo": "microbit-web-bluetooth",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microBit.js",
+              "description": "JavaScript library to interact with BBC micro:bit using web bluetooth API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97963633,
+                "language": "JavaScript",
+                "last_commit": "2017-07-24T12:30:28Z",
+                "owner": "antefact",
+                "repo": "microBit.js",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node-bbc-microbit-io",
+              "description": "Johnny-Five (JavaScript Robotics and IoT programming framework) micro:bit plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63009995,
+                "language": "JavaScript",
+                "last_commit": "2017-02-16T16:44:20Z",
+                "owner": "sandeepmistry",
+                "repo": "node-bbc-microbit-io",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microbit-web-components",
+              "description": "Web Components for all the micro:bit features exposed via BLE.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175891671,
+                "language": "TypeScript",
+                "last_commit": "2023-05-06T18:45:58Z",
+                "owner": "thegecko",
+                "repo": "microbit-web-components",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microbitFs",
+              "description": "TypeScript library to manipulate files inside a micro:bit MicroPython hex file.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165649886,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T11:28:37Z",
+                "owner": "microbit-foundation",
+                "repo": "microbit-fs",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microbitUh",
+              "description": "TypeScript/JavaScript library to combine micro:bit Hex files into a Universal Hex that works in all versions of the micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 256492896,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T11:29:16Z",
+                "owner": "microbit-foundation",
+                "repo": "microbit-universal-hex",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ubit.js",
+              "description": "Library for Node.js to interact with the on-device MicroPython file system via serial connection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 221596140,
+                "language": "TypeScript",
+                "last_commit": "2022-02-12T18:07:44Z",
+                "owner": "lyneca",
+                "repo": "ubit.js",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🗿 Node.js and Browser"
         }
       ],
-      "title": "🐍 MicroPython Libraries - Hardware drivers"
+      "title": "🗿 JavaScript and MakeCode"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "bluezero",
-          "description": "Python package to interface with Bluetooth devices, with examples for the micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-23T13:01:36Z",
-            "owner": "ukBaz",
-            "repo": "python-bluezero",
-            "stars": 421
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bitio",
-          "description": "BBC micro:bit I/O library for Python. It allows you to run code in Python on a PC/Mac/Linux/Raspberry Pi and interact directly with the micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-11-26T09:55:07Z",
-            "owner": "whaleygeek",
-            "repo": "bitio",
-            "stars": 99
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kasper's micro:bit",
-          "description": "A Python package to connect to the Bluetooth LE GATT services of paired BBC micro:bit devices. Use your micro:bit as a wireless game controller!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-11T16:59:57Z",
-            "owner": "janickr",
-            "repo": "kaspersmicrobit",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MicroPeri",
-          "description": "Run Python programs on your computer with the same micro:bit MicroPython API and connecting a micro:bit as an external peripheral device or sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-06-07T10:18:55Z",
-            "owner": "ntoll",
-            "repo": "microperi",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "🐍 Python Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "uFlash",
-          "description": "Utility for flashing the micro:bit with Python scripts and the MicroPython runtime.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-11-27T04:41:24Z",
-            "owner": "ntoll",
-            "repo": "uflash",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MicroFs",
-          "description": "Simple command line tool and module for interacting with the limited file system provided by MicroPython on the micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-29T18:40:32Z",
-            "owner": "ntoll",
-            "repo": "microfs",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MicroREPL",
-          "description": "A REPL client for MicroPython running on the BBC micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-10-11T13:02:32Z",
-            "owner": "ntoll",
-            "repo": "microrepl",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "micro:bit MicroPython stubs",
-          "description": "Type stubs for MicroPython for micro:bit to support the editor autocompletion.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-06-26T12:27:42Z",
-            "owner": "microbit-foundation",
-            "repo": "micropython-microbit-stubs",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "micro:bit Stubs",
-          "description": "Python stubs with type hints to provide autocompletion in code editors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-12T09:05:07Z",
-            "owner": "oivron",
-            "repo": "microbit-stubs",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "🐍 Python Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Lego Power Functions",
-          "description": "Control LEGO® Power Functions motors using your micro:bit with an infrared LED.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-06-05T09:28:13Z",
-            "owner": "philipphenkel",
-            "repo": "pxt-powerfunctions",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "IR",
-          "description": "Control IR (infrared) transmitter/receiver modules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-11-19T03:47:23Z",
-            "owner": "lioujj",
-            "repo": "pxt-IR",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dfplayer",
-          "description": "Play MP3 files with a DFPlayer mini module.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-11-08T02:58:55Z",
-            "owner": "lioujj",
-            "repo": "pxt-mp3",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DS18B20",
-          "description": "DFRobot extensions to read the temperature from a DS18B20 sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-06-27T01:28:50Z",
-            "owner": "DFRobot",
-            "repo": "pxt-ds18b20",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SmartMatrix",
-          "description": "Easily control LED matrices/displays made from WS2812b/NeoPixel controllable RGB LEDs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-06-19T09:12:41Z",
-            "owner": "Shorts1999",
-            "repo": "pxt-smartmatrix",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CCS811",
-          "description": "Makecode Package for the CCS811 Air Quality Sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-09-12T19:19:02Z",
-            "owner": "ADataDate",
-            "repo": "pxt-airQuality",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DSTemp",
-          "description": "Read the temperature from one or multiple DS18B20 sensors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-27T15:00:53Z",
-            "owner": "bsiever",
-            "repo": "microbit-dstemp",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VL53L0X",
-          "description": "Package to calculate distances using a VL53L0X Time-of-Flight ranging sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-02-11T06:35:05Z",
-            "owner": "tinkertanker",
-            "repo": "pxt-range-vl53l0x",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MLX90614",
-          "description": "I2C driver for Infra Red Thermometer MLX90614.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-05-20T00:59:56Z",
-            "owner": "DoraLC",
-            "repo": "pxt-MLX90614",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCP23017",
-          "description": "MakeCode driver for the MCP23017 16-Bit I2C I/O Expander.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-07-17T23:59:31Z",
-            "owner": "CaptainCredible",
-            "repo": "pxt-MCP23017",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ubirch NB-IoT",
-          "description": "Package for sending signed data messages to the ubirch backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-04-18T20:22:29Z",
-            "owner": "ubirch",
-            "repo": "pxt-ubirch",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LumexOLED",
-          "description": "Package designed for Lumex OLED display.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-02-08T09:17:21Z",
-            "owner": "lioujj",
-            "repo": "pxt-oled",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TCS3200",
-          "description": "Control a TCS3200 colour sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-01-28T01:25:09Z",
-            "owner": "DoraLC",
-            "repo": "pxt-tcs3200-color-sensor",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Invent robot",
-          "description": "This library provides a Microsoft PXT package for Invent robot.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-03-28T15:09:18Z",
-            "owner": "techcampuk",
-            "repo": "pxt-invent",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DS1307",
-          "description": "Tinkercademy MakeCode package for using the DS1307 RTC (Real-Time Clock).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-03-28T00:44:29Z",
-            "owner": "tinkertanker",
-            "repo": "pxt-realtimeclock-ds1307",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HT16K33",
-          "description": "Tinkercademy MakeCode Package for the HT16K33 I2C Alphanumeric Display (beta).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-02-16T05:03:56Z",
-            "owner": "tinkertanker",
-            "repo": "pxt-alphanumeric-ht16k33",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SHT2X",
-          "description": "Driver for SHT20, SHT21, SHT25 digital sensor, to measure temperature and relative humidity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-02-28T04:16:29Z",
-            "owner": "tinkertanker",
-            "repo": "microDriver_SHT2x",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PCA9685",
-          "description": "Package to control the PCA9685, a 16-channel PWM controller, with included servo support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-02-12T03:05:25Z",
-            "owner": "tinkertanker",
-            "repo": "uDriver_PCA9585",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dstemp2wire",
-          "description": "This extension allows the micro:bit to use the Dallas Semiconductor DS18B20 temperature sensor with just two wires (parasitic power mode).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-27T15:00:24Z",
-            "owner": "bsiever",
-            "repo": "microbit-dstemp-2wire",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HoneyBit",
-          "description": "A Honeycomb kits package for micro:bit MakeCode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-11-25T08:26:00Z",
-            "owner": "HoneycombKits",
-            "repo": "pxt-HoneyBit",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BMP085",
-          "description": "Package to control the BMP085 or BMP180 pressure and altitude sensors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-11-12T04:29:16Z",
-            "owner": "sabas1080",
-            "repo": "uBit_BMP085",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KeiganMotor",
-          "description": "Controller for KeiganMotor KM-1, an all-in-one brushless gearless electric motor module.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-07-12T11:50:38Z",
-            "owner": "keigan-motor",
-            "repo": "pxt-KeiganMotor",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Adafruit Motor Driver Board",
-          "description": "Driver to control the DC motors on the Adafruit Motor Shield v1.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-06-09T18:55:29Z",
-            "owner": "vijairaj",
-            "repo": "pxt-adafruit-motor-driver",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ESP-01",
-          "description": "Control an ESP8266 module via serial AT commands.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-09-05T06:35:16Z",
-            "owner": "51bit",
-            "repo": "esp01",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DS3231",
-          "description": "RTC (Real Time Clock) MakeCode extension for the micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-03-18T01:56:23Z",
-            "owner": "gbraad",
-            "repo": "pxt-rtc-ds3231",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MAX31855",
-          "description": "Driver for the MAX31855 Thermocouple Amplifier.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2020-06-28T14:35:08Z",
-            "owner": "bremoran",
-            "repo": "microDriver_max31855",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "🗿 MakeCode Extensions - Hardware drivers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "node-bbc-microbit",
-          "description": "Control a micro:bit from Node.js using BLE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-08-05T20:53:26Z",
-            "owner": "sandeepmistry",
-            "repo": "node-bbc-microbit",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "microbit-web-bluetooth",
-          "description": "Web Bluetooth library implementing the micro:bit Bluetooth Profile.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-16T23:22:02Z",
-            "owner": "thegecko",
-            "repo": "microbit-web-bluetooth",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "microBit.js",
-          "description": "JavaScript library to interact with BBC micro:bit using web bluetooth API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-07-24T12:30:28Z",
-            "owner": "antefact",
-            "repo": "microBit.js",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node-bbc-microbit-io",
-          "description": "Johnny-Five (JavaScript Robotics and IoT programming framework) micro:bit plugin.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2017-02-16T16:44:20Z",
-            "owner": "sandeepmistry",
-            "repo": "node-bbc-microbit-io",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "microbit-web-components",
-          "description": "Web Components for all the micro:bit features exposed via BLE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-05-06T18:45:58Z",
-            "owner": "thegecko",
-            "repo": "microbit-web-components",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "microbitFs",
-          "description": "TypeScript library to manipulate files inside a micro:bit MicroPython hex file.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T11:28:37Z",
-            "owner": "microbit-foundation",
-            "repo": "microbit-fs",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "microbitUh",
-          "description": "TypeScript/JavaScript library to combine micro:bit Hex files into a Universal Hex that works in all versions of the micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-14T11:29:16Z",
-            "owner": "microbit-foundation",
-            "repo": "microbit-universal-hex",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ubit.js",
-          "description": "Library for Node.js to interact with the on-device MicroPython file system via serial connection.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-02-12T18:07:44Z",
-            "owner": "lyneca",
-            "repo": "ubit.js",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "🗿 Node.js and Browser"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1186,6 +1449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53754278,
             "language": "C",
             "last_commit": "2024-05-22T19:54:26Z",
             "owner": "sandeepmistry",
@@ -1200,423 +1464,457 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186435490,
             "language": "C",
             "last_commit": "2022-04-21T16:16:55Z",
             "owner": "microbit-foundation",
             "repo": "mbedos-microbit-v2-starter",
             "stars": 7
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "blehid",
+              "description": "Set up the micro:bit V2 as a Bluetooth HID device, like a keyboard, mouse, or gamepad.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 430231054,
+                "language": "C++",
+                "last_commit": "2024-04-21T18:14:33Z",
+                "owner": "bsiever",
+                "repo": "microbit-pxt-blehid",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nRF51 Radio",
+              "description": "Arduino library based on the micro:bit DAL radio implementation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159845326,
+                "language": "C++",
+                "last_commit": "2022-12-17T14:08:57Z",
+                "owner": "tipih",
+                "repo": "NRF51_Radio_library",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "micro:bit Video",
+              "description": "C++ programs for generating NTSC video from a V1 micro:bit to connect to a TV.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 417914161,
+                "language": "C++",
+                "last_commit": "2021-10-22T18:50:13Z",
+                "owner": "blogmywiki",
+                "repo": "microbit-video",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "micro:bit Screen",
+              "description": "Arduino LED Screen library for micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103862112,
+                "language": "C++",
+                "last_commit": "2017-11-30T05:45:23Z",
+                "owner": "ht-deko",
+                "repo": "microbit_Screen",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MicrobitV2-HHS Arduino Lib",
+              "description": "Arduino library for micro:bit V2 for radio and PWM (including Servo and Tone).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574233644,
+                "language": "C++",
+                "last_commit": "2023-03-30T20:16:43Z",
+                "owner": "Grrtzm",
+                "repo": "MicrobitV2-HHS",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "microbit-dal-ext-kit",
+              "description": "A set of components and utilities for C++ applications using micro:bit DAL (runtime).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175007349,
+                "language": "C++",
+                "last_commit": "2024-12-28T07:24:28Z",
+                "owner": "softgraph",
+                "repo": "microbit-dal-ext-kit",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Distintiva micro:bit library",
+              "description": "Arduino library to code the micro:bit on-board features using the Arduino IDE.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 494600434,
+                "language": null,
+                "last_commit": "2022-05-20T20:35:59Z",
+                "owner": "distintiva",
+                "repo": "distintiva_microbit_lib",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "©️ C/C++ Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Adafruit Arduino micro:bit library",
+              "description": "Wrapper code and examples for using micro:bit with Arduino IDE.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102789222,
+                "language": "C++",
+                "last_commit": "2023-11-15T15:22:47Z",
+                "owner": "adafruit",
+                "repo": "Adafruit_Microbit",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "micro:Maqueen Arduino Lib",
+              "description": "Arduino library for the DF Robot micro:bit Maqueen robot and controller.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 149386729,
+                "language": "C++",
+                "last_commit": "2023-09-06T02:41:43Z",
+                "owner": "kd8bxp",
+                "repo": "micro-Maqueen-Arduino-Library",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OneWire",
+              "description": "BBC micro:bit OneWire Library, based upon Erik Olieman's Mbed DS1820 lib.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78840577,
+                "language": "C++",
+                "last_commit": "2017-01-19T09:44:44Z",
+                "owner": "adamboardman",
+                "repo": "microbit-onewire",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VL53L0X",
+              "description": "Driver for the VL53L0X Time-of-Flight ranging sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133060961,
+                "language": "TypeScript",
+                "last_commit": "2022-02-11T06:35:05Z",
+                "owner": "tinkertanker",
+                "repo": "pxt-range-vl53l0x",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KY-040",
+              "description": "Library for using the KY-040 rotary encoder.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86545464,
+                "language": "TypeScript",
+                "last_commit": "2022-02-28T18:50:55Z",
+                "owner": "tinkertanker",
+                "repo": "pxt-rotary-encoder-ky040",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MMA8653",
+              "description": "This Arduino library brings support for the NXP MMA8653 I2C accelerometer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363691561,
+                "language": "C++",
+                "last_commit": "2021-05-03T15:11:03Z",
+                "owner": "lfhohmann",
+                "repo": "MMA8653",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neopixel",
+              "description": "Library for using NeoPixels with the BBC micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66018104,
+                "language": "C",
+                "last_commit": "2016-08-18T18:17:33Z",
+                "owner": "elmorg",
+                "repo": "uBit_neopixel",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SHT2X",
+              "description": "Driver for SHT20, SHT21, SHT25 temperature and humidity sensors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119336856,
+                "language": "C++",
+                "last_commit": "2022-02-28T04:16:29Z",
+                "owner": "tinkertanker",
+                "repo": "microDriver_SHT2x",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PCA9685",
+              "description": "Driver for the PCA9685, a 16-channel PWM controller, with included servo support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121192983,
+                "language": "C++",
+                "last_commit": "2018-02-12T03:05:25Z",
+                "owner": "tinkertanker",
+                "repo": "uDriver_PCA9585",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTU21D",
+              "description": "Mbed library for the HTU21D digital humidity and temperature sensor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136776384,
+                "language": "C++",
+                "last_commit": "2018-06-15T22:29:02Z",
+                "owner": "ti-nspire",
+                "repo": "microbit-in-mbed-library-for-HTU21D-sensor",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "©️ C/C++ Libraries - Hardware Drivers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mynewt",
+              "description": "Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45165993,
+                "language": "C",
+                "last_commit": "2026-08-19T05:08:26Z",
+                "owner": "apache",
+                "repo": "mynewt-core",
+                "stars": 890
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChibiOS",
+              "description": "A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24814145,
+                "language": "C",
+                "last_commit": "2026-04-08T23:43:33Z",
+                "owner": "ChibiOS",
+                "repo": "ChibiOS-Contrib",
+                "stars": 151
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "©️ C/C++ RTOS targeting micro:bit"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bare metal examples",
+              "description": "C bare metal examples for the BBC micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86024607,
+                "language": "C",
+                "last_commit": "2021-12-31T05:49:44Z",
+                "owner": "dwelch67",
+                "repo": "microbit",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zephyr BBC micro:bit V2",
+              "description": "Various examples for Zephyr RTOS running on the BBC micro:bit V2.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 384406614,
+                "language": "C",
+                "last_commit": "2024-09-23T16:13:47Z",
+                "owner": "fduignan",
+                "repo": "zephyr_bbc_microbit_v2",
+                "stars": 19
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nu-microbit-base",
+              "description": "C bare metal environment using the Nordic SDK with example applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353447874,
+                "language": "C",
+                "last_commit": "2026-05-08T15:08:11Z",
+                "owner": "nu-ce346",
+                "repo": "nu-microbit-base",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "©️ C/C++ Examples"
         }
       ],
       "title": "©️ C/C++"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "blehid",
-          "description": "Set up the micro:bit V2 as a Bluetooth HID device, like a keyboard, mouse, or gamepad.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-04-21T18:14:33Z",
-            "owner": "bsiever",
-            "repo": "microbit-pxt-blehid",
-            "stars": 50
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "The Discovery book",
+              "description": "This book is an introductory course on microcontroller-based embedded systems, using micro:bit, that uses Rust as the teaching language rather than the usual C/C++.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72799153,
+                "language": "Rust",
+                "last_commit": "2026-03-21T19:05:36Z",
+                "owner": "rust-embedded",
+                "repo": "discovery",
+                "stars": 1602
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Running Rust code on a BBC micro:bit",
+              "description": "Article describing the experience and steps of compiling Rust code for the micro:bit with and without interaction with the runtime DAL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64389005,
+                "language": null,
+                "last_commit": "2025-09-02T09:02:23Z",
+                "owner": "SimonSapin",
+                "repo": "rust-on-bbc-microbit",
+                "stars": 195
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🦀 Rust Guides"
         },
         {
-          "node_type": "item",
-          "title": "nRF51 Radio",
-          "description": "Arduino library based on the micro:bit DAL radio implementation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-12-17T14:08:57Z",
-            "owner": "tipih",
-            "repo": "NRF51_Radio_library",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "micro:bit Video",
-          "description": "C++ programs for generating NTSC video from a V1 micro:bit to connect to a TV.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-10-22T18:50:13Z",
-            "owner": "blogmywiki",
-            "repo": "microbit-video",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "micro:bit Screen",
-          "description": "Arduino LED Screen library for micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-11-30T05:45:23Z",
-            "owner": "ht-deko",
-            "repo": "microbit_Screen",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MicrobitV2-HHS Arduino Lib",
-          "description": "Arduino library for micro:bit V2 for radio and PWM (including Servo and Tone).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-03-30T20:16:43Z",
-            "owner": "Grrtzm",
-            "repo": "MicrobitV2-HHS",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "microbit-dal-ext-kit",
-          "description": "A set of components and utilities for C++ applications using micro:bit DAL (runtime).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-12-28T07:24:28Z",
-            "owner": "softgraph",
-            "repo": "microbit-dal-ext-kit",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Distintiva micro:bit library",
-          "description": "Arduino library to code the micro:bit on-board features using the Arduino IDE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-05-20T20:35:59Z",
-            "owner": "distintiva",
-            "repo": "distintiva_microbit_lib",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "micro:bit Rust Demos",
+              "description": "Multiple Rust language demos running on the BBC micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165330084,
+                "language": "Rust",
+                "last_commit": "2022-09-08T05:05:17Z",
+                "owner": "dtcristo",
+                "repo": "microbit-demos",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RGB LED Matrix",
+              "description": "Rust project for the BBC micro:bit controlling a 64x32 matrix panel with some level shifters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 583285529,
+                "language": "Rust",
+                "last_commit": "2026-01-03T10:39:53Z",
+                "owner": "vhiribarren",
+                "repo": "nrf52833-rgb-led-matrix-lib-rust",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🦀 Rust Libraries & Examples"
         }
       ],
-      "title": "©️ C/C++ Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Adafruit Arduino micro:bit library",
-          "description": "Wrapper code and examples for using micro:bit with Arduino IDE.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-11-15T15:22:47Z",
-            "owner": "adafruit",
-            "repo": "Adafruit_Microbit",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "micro:Maqueen Arduino Lib",
-          "description": "Arduino library for the DF Robot micro:bit Maqueen robot and controller.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2023-09-06T02:41:43Z",
-            "owner": "kd8bxp",
-            "repo": "micro-Maqueen-Arduino-Library",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OneWire",
-          "description": "BBC micro:bit OneWire Library, based upon Erik Olieman's Mbed DS1820 lib.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2017-01-19T09:44:44Z",
-            "owner": "adamboardman",
-            "repo": "microbit-onewire",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "VL53L0X",
-          "description": "Driver for the VL53L0X Time-of-Flight ranging sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-02-11T06:35:05Z",
-            "owner": "tinkertanker",
-            "repo": "pxt-range-vl53l0x",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KY-040",
-          "description": "Library for using the KY-040 rotary encoder.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-02-28T18:50:55Z",
-            "owner": "tinkertanker",
-            "repo": "pxt-rotary-encoder-ky040",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MMA8653",
-          "description": "This Arduino library brings support for the NXP MMA8653 I2C accelerometer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-05-03T15:11:03Z",
-            "owner": "lfhohmann",
-            "repo": "MMA8653",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "neopixel",
-          "description": "Library for using NeoPixels with the BBC micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2016-08-18T18:17:33Z",
-            "owner": "elmorg",
-            "repo": "uBit_neopixel",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SHT2X",
-          "description": "Driver for SHT20, SHT21, SHT25 temperature and humidity sensors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-02-28T04:16:29Z",
-            "owner": "tinkertanker",
-            "repo": "microDriver_SHT2x",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PCA9685",
-          "description": "Driver for the PCA9685, a 16-channel PWM controller, with included servo support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-02-12T03:05:25Z",
-            "owner": "tinkertanker",
-            "repo": "uDriver_PCA9585",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HTU21D",
-          "description": "Mbed library for the HTU21D digital humidity and temperature sensor.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-06-15T22:29:02Z",
-            "owner": "ti-nspire",
-            "repo": "microbit-in-mbed-library-for-HTU21D-sensor",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "©️ C/C++ Libraries - Hardware Drivers"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mynewt",
-          "description": "Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T08:04:32Z",
-            "owner": "apache",
-            "repo": "mynewt-core",
-            "stars": 890
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ChibiOS",
-          "description": "A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-04-08T23:43:33Z",
-            "owner": "ChibiOS",
-            "repo": "ChibiOS-Contrib",
-            "stars": 151
-          }
-        }
-      ],
-      "title": "©️ C/C++ RTOS targeting micro:bit"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Bare metal examples",
-          "description": "C bare metal examples for the BBC micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-12-31T05:49:44Z",
-            "owner": "dwelch67",
-            "repo": "microbit",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zephyr BBC micro:bit V2",
-          "description": "Various examples for Zephyr RTOS running on the BBC micro:bit V2.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-09-23T16:13:47Z",
-            "owner": "fduignan",
-            "repo": "zephyr_bbc_microbit_v2",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nu-microbit-base",
-          "description": "C bare metal environment using the Nordic SDK with example applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-08T15:08:11Z",
-            "owner": "nu-ce346",
-            "repo": "nu-microbit-base",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "©️ C/C++ Examples"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "🦀 Rust"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "The Discovery book",
-          "description": "This book is an introductory course on microcontroller-based embedded systems, using micro:bit, that uses Rust as the teaching language rather than the usual C/C++.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-03-21T19:05:36Z",
-            "owner": "rust-embedded",
-            "repo": "discovery",
-            "stars": 1602
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Running Rust code on a BBC micro:bit",
-          "description": "Article describing the experience and steps of compiling Rust code for the micro:bit with and without interaction with the runtime DAL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-09-02T09:02:23Z",
-            "owner": "SimonSapin",
-            "repo": "rust-on-bbc-microbit",
-            "stars": 195
-          }
-        }
-      ],
-      "title": "🦀 Rust Guides"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "micro:bit Rust Demos",
-          "description": "Multiple Rust language demos running on the BBC micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-09-08T05:05:17Z",
-            "owner": "dtcristo",
-            "repo": "microbit-demos",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RGB LED Matrix",
-          "description": "Rust project for the BBC micro:bit controlling a 64x32 matrix panel with some level shifters.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-01-03T10:39:53Z",
-            "owner": "vhiribarren",
-            "repo": "nrf52833-rgb-led-matrix-lib-rust",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "🦀 Rust Libraries & Examples"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1625,8 +1923,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43378137,
             "language": "Ada",
-            "last_commit": "2026-07-08T14:43:25Z",
+            "last_commit": "2026-08-19T11:27:59Z",
             "owner": "AdaCore",
             "repo": "Ada_Drivers_Library",
             "stars": 283
@@ -1639,6 +1938,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300663364,
             "language": "Ada",
             "last_commit": "2020-10-02T16:39:54Z",
             "owner": "Fabien-Chouteau",
@@ -1659,6 +1959,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103600670,
             "language": "C#",
             "last_commit": "2022-06-19T14:05:38Z",
             "owner": "kekyo",
@@ -1673,6 +1974,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220672822,
             "language": "Zig",
             "last_commit": "2021-10-24T00:12:43Z",
             "owner": "markfirmware",
@@ -1687,6 +1989,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 151837114,
             "language": "Go",
             "last_commit": "2022-10-31T20:42:12Z",
             "owner": "tinygo-org",
@@ -1701,6 +2004,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131305675,
             "language": "C++",
             "last_commit": "2018-04-29T13:57:42Z",
             "owner": "thomasdenney",
@@ -1715,6 +2019,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115295802,
             "language": "C++",
             "last_commit": "2020-11-19T09:30:59Z",
             "owner": "Tamakichi",
@@ -1735,6 +2040,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 108159236,
             "language": "C++",
             "last_commit": "2019-03-11T16:34:08Z",
             "owner": "Louismac",
@@ -1749,6 +2055,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113761326,
             "language": "Swift",
             "last_commit": "2018-01-01T14:46:05Z",
             "owner": "phwallen",
@@ -1763,6 +2070,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86105410,
             "language": "Haxe",
             "last_commit": "2017-04-04T13:35:13Z",
             "owner": "MatthijsKamstra",
@@ -1777,6 +2085,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79642851,
             "language": "APL",
             "last_commit": "2025-04-29T12:19:57Z",
             "owner": "APLPi",
@@ -1791,6 +2100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 117086201,
             "language": "Python",
             "last_commit": "2018-06-10T17:48:48Z",
             "owner": "seanmtracey",
@@ -1802,46 +2112,50 @@
       "title": "🎚️ Interaction Languages"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vibrational Anomaly Detection",
+              "description": "This project introduces a statistics-based, time-series Vibrational Anomaly Detection using Tri-Axial accelerometer data on a micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143332265,
+                "language": "Python",
+                "last_commit": "2018-08-03T12:34:30Z",
+                "owner": "Technica-Corporation",
+                "repo": "microbit-ml",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AlpacaML",
+              "description": "Automated Learning and Prototyping for Athletics and Creative Activity with Machine Learning. A wearable micro:bit connected to an app that can graph the data and learn to classify actions based off of the users criteria.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 134770335,
+                "language": "Swift",
+                "last_commit": "2020-04-23T21:45:48Z",
+                "owner": "LaboratoryForPlayfulComputation",
+                "repo": "AlpacaML",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🎓 Machine Learning Resources & Projects"
+        }
+      ],
       "title": "🎓 Machine Learning"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Vibrational Anomaly Detection",
-          "description": "This project introduces a statistics-based, time-series Vibrational Anomaly Detection using Tri-Axial accelerometer data on a micro:bit.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-08-03T12:34:30Z",
-            "owner": "Technica-Corporation",
-            "repo": "microbit-ml",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AlpacaML",
-          "description": "Automated Learning and Prototyping for Athletics and Creative Activity with Machine Learning. A wearable micro:bit connected to an app that can graph the data and learn to classify actions based off of the users criteria.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Swift",
-            "last_commit": "2020-04-23T21:45:48Z",
-            "owner": "LaboratoryForPlayfulComputation",
-            "repo": "AlpacaML",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "🎓 Machine Learning Resources & Projects"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1850,6 +2164,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56334129,
             "language": "Shell",
             "last_commit": "2022-03-28T17:09:06Z",
             "owner": "carlosperate",
@@ -1864,6 +2179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300082968,
             "language": "Shell",
             "last_commit": "2022-06-08T22:52:42Z",
             "owner": "carlosperate",
@@ -1878,6 +2194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529217276,
             "language": "Python",
             "last_commit": "2025-02-21T06:41:53Z",
             "owner": "maehw",
@@ -1889,7 +2206,7 @@
       "title": "🛠️ Programming Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1898,6 +2215,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216463738,
             "language": "JavaScript",
             "last_commit": "2023-01-05T07:22:10Z",
             "owner": "bsiever",
@@ -1912,6 +2230,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 589345510,
             "language": "JavaScript",
             "last_commit": "2023-02-06T20:05:44Z",
             "owner": "JakobST1n",
@@ -1926,6 +2245,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 564743653,
             "language": "Python",
             "last_commit": "2023-04-12T06:01:07Z",
             "owner": "63rabbits",
@@ -1937,7 +2257,7 @@
       "title": "🧰 micro:bit Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1946,6 +2266,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73845611,
             "language": "Java",
             "last_commit": "2017-03-26T09:26:50Z",
             "owner": "microbit-foundation",
@@ -1960,6 +2281,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 136067025,
             "language": "Swift",
             "last_commit": "2021-10-10T17:59:16Z",
             "owner": "microbit-foundation",
@@ -1974,6 +2296,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119838634,
             "language": "Java",
             "last_commit": "2026-07-22T10:27:26Z",
             "owner": "microbit-foundation",
@@ -1988,6 +2311,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126509709,
             "language": "Kotlin",
             "last_commit": "2019-01-27T12:22:35Z",
             "owner": "novucs",
@@ -1999,7 +2323,7 @@
       "title": "📱 Mobile Apps"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2008,11 +2332,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 341208122,
             "language": "Swift",
             "last_commit": "2026-08-17T12:23:59Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13419
+            "stars": 13430
           }
         },
         {
@@ -2022,6 +2347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143916698,
             "language": "Python",
             "last_commit": "2024-08-04T20:31:17Z",
             "owner": "virtualabs",
@@ -2036,6 +2362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 203883338,
             "language": "Python",
             "last_commit": "2025-04-13T13:52:54Z",
             "owner": "RCayre",
@@ -2050,6 +2377,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98619546,
             "language": "C",
             "last_commit": "2022-10-27T14:17:03Z",
             "owner": "virtualabs",
@@ -2064,6 +2392,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20157291,
             "language": "C",
             "last_commit": "2020-12-20T15:28:45Z",
             "owner": "meriac",
@@ -2084,6 +2413,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24571059,
             "language": "C",
             "last_commit": "2026-07-13T14:56:45Z",
             "owner": "ARMmbed",
@@ -2098,6 +2428,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97221346,
             "language": "TypeScript",
             "last_commit": "2026-03-29T23:36:16Z",
             "owner": "ARMmbed",
@@ -2112,6 +2443,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213304216,
             "language": "JavaScript",
             "last_commit": "2023-09-23T13:49:08Z",
             "owner": "bsiever",
@@ -2126,6 +2458,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1033350269,
             "language": null,
             "last_commit": "2025-08-06T17:18:10Z",
             "owner": "mbedmicro",
@@ -2137,7 +2470,7 @@
       "title": "↔️ Interface Chip"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2146,6 +2479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71304171,
             "language": "Scheme",
             "last_commit": "2021-03-29T13:48:51Z",
             "owner": "microbit-foundation",
@@ -2160,6 +2494,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83573581,
             "language": null,
             "last_commit": "2021-03-19T12:45:34Z",
             "owner": "bbcmicrobit",
@@ -2174,6 +2509,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349148973,
             "language": null,
             "last_commit": "2022-08-18T17:11:58Z",
             "owner": "microbit-foundation",
@@ -2188,6 +2524,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88047933,
             "language": null,
             "last_commit": "2021-11-09T22:54:03Z",
             "owner": "anthonykirby",
@@ -2202,6 +2539,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231663190,
             "language": "C",
             "last_commit": "2022-09-27T13:54:22Z",
             "owner": "hansj66",
@@ -2216,6 +2554,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135180664,
             "language": null,
             "last_commit": "2018-05-28T15:53:23Z",
             "owner": "JordanElectronics",
@@ -2230,6 +2569,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86623093,
             "language": null,
             "last_commit": "2020-01-22T20:29:50Z",
             "owner": "sparkfun",
@@ -2244,6 +2584,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 77792607,
             "language": null,
             "last_commit": "2017-02-26T10:03:09Z",
             "owner": "makezurich",
@@ -2258,6 +2599,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85602115,
             "language": null,
             "last_commit": "2020-05-11T09:04:41Z",
             "owner": "sparkfun",
@@ -2272,6 +2614,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84996763,
             "language": "Python",
             "last_commit": "2020-07-14T17:00:56Z",
             "owner": "sparkfun",
@@ -2286,6 +2629,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 149022761,
             "language": null,
             "last_commit": "2021-10-22T05:02:15Z",
             "owner": "mignon-p",
@@ -2300,6 +2644,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63963846,
             "language": "Eagle",
             "last_commit": "2017-09-10T20:17:01Z",
             "owner": "ribbotson",
@@ -2314,6 +2659,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88050174,
             "language": null,
             "last_commit": "2017-04-12T12:39:23Z",
             "owner": "proto-pic",
@@ -2328,6 +2674,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 816495384,
             "language": "Python",
             "last_commit": "2026-07-16T09:11:49Z",
             "owner": "devices-lab",
@@ -2342,6 +2689,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 635728918,
             "language": null,
             "last_commit": "2024-06-26T11:08:59Z",
             "owner": "JohnVidler",
@@ -2356,6 +2704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63098522,
             "language": "Python",
             "last_commit": "2021-06-18T16:01:41Z",
             "owner": "sparkfun",
@@ -2370,6 +2719,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 353226680,
             "language": null,
             "last_commit": "2021-11-01T23:19:34Z",
             "owner": "CoreElectronics",
@@ -2381,7 +2731,7 @@
       "title": "🔩 Hardware"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2390,6 +2740,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101759101,
             "language": null,
             "last_commit": "2021-03-30T13:26:57Z",
             "owner": "microbit-foundation",
@@ -2404,6 +2755,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47325026,
             "language": null,
             "last_commit": "2017-06-26T18:34:29Z",
             "owner": "topshed",
@@ -2418,6 +2770,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115212221,
             "language": null,
             "last_commit": "2021-11-15T16:14:01Z",
             "owner": "simonmonk",
@@ -2438,6 +2791,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113768888,
             "language": "Python",
             "last_commit": "2021-03-02T20:19:57Z",
             "owner": "musabkilic",
@@ -2452,6 +2806,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261628203,
             "language": "Python",
             "last_commit": "2021-04-30T23:43:13Z",
             "owner": "jimbobbennett",
@@ -2466,6 +2821,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273085621,
             "language": "JavaScript",
             "last_commit": "2020-07-28T12:11:28Z",
             "owner": "znuh",
@@ -2480,6 +2836,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107934101,
             "language": "C++",
             "last_commit": "2020-02-12T19:17:35Z",
             "owner": "kshoji",
@@ -2494,6 +2851,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122878470,
             "language": "C++",
             "last_commit": "2018-03-20T20:44:49Z",
             "owner": "linker3000",
@@ -2508,6 +2866,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190135321,
             "language": null,
             "last_commit": "2019-06-11T20:08:26Z",
             "owner": "helenleigh",
@@ -2522,6 +2881,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138578288,
             "language": "TypeScript",
             "last_commit": "2023-09-25T10:17:25Z",
             "owner": "gunhaxxor",
@@ -2536,6 +2896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 222128594,
             "language": "Python",
             "last_commit": "2021-03-02T20:32:40Z",
             "owner": "musabkilic",
@@ -2550,6 +2911,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 516139695,
             "language": "HTML",
             "last_commit": "2022-07-27T15:43:55Z",
             "owner": "RBilsland",
@@ -2564,6 +2926,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95439434,
             "language": "JavaScript",
             "last_commit": "2018-06-04T12:46:58Z",
             "owner": "jrmedd",
@@ -2578,6 +2941,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59113197,
             "language": "Python",
             "last_commit": "2020-10-19T08:27:07Z",
             "owner": "linker3000",
@@ -2592,24 +2956,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185213000,
             "language": "Python",
             "last_commit": "2019-05-06T15:38:55Z",
             "owner": "astrotutor9",
             "repo": "Microbit-Racing-Car-Timing-Gate",
             "stars": 2
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Robot Arm Rover",
-          "description": "A gesture controlled Robot Arm Buggy using the micro:bit accelerometer and radio.",
-          "children": []
         }
       ],
       "title": "🏗️ Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2618,11 +2977,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 296158004,
             "language": "Python",
             "last_commit": "2026-08-16T13:20:00Z",
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
-            "stars": 795
+            "stars": 796
           }
         },
         {
@@ -2632,6 +2992,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176409603,
             "language": "Java",
             "last_commit": "2021-06-01T05:48:34Z",
             "owner": "PhonicCanine",
@@ -2646,6 +3007,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 113568263,
             "language": "Python",
             "last_commit": "2019-12-04T02:52:32Z",
             "owner": "LearnToProgramRoanoke",
@@ -2655,16 +3017,12 @@
         }
       ],
       "title": "🧑‍🏫 Teaching Resources"
-    },
-    {
-      "description": "To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.\nThis projects is not endorsed, sponsored or associated with the BBC. \"BBC\", \"micro:bit\", and their logos are trademarks of the BBC.",
-      "items": [],
-      "title": "⚖️ License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:51:38.169Z",
+    "last_updated": "2026-08-19T12:41:53.361Z",
     "original_repository": "carlosperate/awesome-microbit",
+    "original_repository_id": 65635555,
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
     "enhanced_repository": "enhansome/enhansome-microbit",
     "enhanced_repository_description": null,
