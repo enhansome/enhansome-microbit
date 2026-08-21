@@ -1338,7 +1338,7 @@
                 "last_commit": "2026-06-16T23:22:02Z",
                 "owner": "thegecko",
                 "repo": "microbit-web-bluetooth",
-                "stars": 57
+                "stars": 56
               }
             },
             {
@@ -1752,7 +1752,7 @@
                 "archived": false,
                 "id": 45165993,
                 "language": "C",
-                "last_commit": "2026-08-20T10:48:09Z",
+                "last_commit": "2026-08-21T05:10:10Z",
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 890
@@ -1850,7 +1850,7 @@
                 "last_commit": "2026-03-21T19:05:36Z",
                 "owner": "rust-embedded",
                 "repo": "discovery",
-                "stars": 1602
+                "stars": 1603
               }
             },
             {
@@ -2337,7 +2337,7 @@
             "last_commit": "2026-08-17T12:23:59Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13444
+            "stars": 13448
           }
         },
         {
@@ -2352,7 +2352,7 @@
             "last_commit": "2024-08-04T20:31:17Z",
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2105
+            "stars": 2106
           }
         },
         {
@@ -2415,10 +2415,10 @@
             "archived": false,
             "id": 24571059,
             "language": "C",
-            "last_commit": "2026-08-20T18:39:40Z",
+            "last_commit": "2026-08-20T23:24:18Z",
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2789
+            "stars": 2791
           }
         },
         {
@@ -3020,7 +3020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:53:55.501Z",
+    "last_updated": "2026-08-21T18:50:47.542Z",
     "original_repository": "carlosperate/awesome-microbit",
     "original_repository_id": 65635555,
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
