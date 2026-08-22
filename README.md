@@ -17,7 +17,7 @@ This embedded board has a Bluetooth capable microcontroller, USB interface, acce
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) ⭐ 1,194 | 🐛 6 | 🌐 HTML | 📅 2026-05-21 "Watch" this repository if you'd like to get notifications when a new entry is added to the list.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Or follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 498,588 | 🐛 105 | 📅 2026-08-21.
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 498,926 | 🐛 106 | 📅 2026-08-21.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
 
@@ -301,7 +301,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,417 | 🐛 201 | 🌐 Rust | 📅 2026-08-21 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,416 | 🐛 202 | 🌐 Rust | 📅 2026-08-22 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -404,7 +404,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,448 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,450 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
 * [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,106 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 318 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
@@ -414,7 +414,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 The USB Interface Chip is the microcontroller placed close to the battery connector. It provides all the USB functionality, like the `MICROBIT` USB drive (Mass Storage Device), WebUSB, serial, and HID debugger.
 
-* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,791 | 🐛 140 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
+* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,792 | 🐛 140 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
 * [DAP.js](https://github.com/ARMmbed/dapjs) ⭐ 134 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-29 - JavaScript (Node.js and WebUSB) interface to DAP-CMSIS over USB/HID, meant to provide a subset of the PyOCD functionality.
 * [microbit-webusb](https://github.com/bsiever/microbit-webusb) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-23 - A simple WebUSB library implementation to interact with the micro:bit, with a good README explanation, and a demo application.
 * [pyOCD](https://github.com/mbedmicro/pyOCD) ⭐ 1 | 🐛 0 | 📅 2025-08-06 - Python library for programming and debugging ARM Cortex-M microcontrollers, like the one included in the micro:bit, using the CMSIS-DAP provided by the Interface Chip.
@@ -707,7 +707,7 @@ Useful Articles for developing on the micro:bit.
 
 ## 🧑‍🏫 Teaching Resources
 
-* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 796 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
+* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 796 | 🐛 0 | 🌐 Python | 📅 2026-08-22 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
 * [micro:bit Lessons](https://github.com/PhonicCanine/microbit-lessons) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2021-06-01 - Basic lessons on Python programming with a BBC micro:bit.
 * [Learn micro:bit](https://github.com/LearnToProgramRoanoke/Learn-microbit) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2019-12-04 - Code and materials for learning to program with the BBC micro:bit.
 * [microbit.org Lessons](https://microbit.org/teach/lessons/) - Curriculum-linked units of work and design challenges for planning and teaching computing in primary and secondary schools.
@@ -826,4 +826,4 @@ This projects is not endorsed, sponsored or associated with the BBC. "BBC", "mic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
