@@ -17,7 +17,7 @@ This embedded board has a Bluetooth capable microcontroller, USB interface, acce
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) ⭐ 1,194 | 🐛 6 | 🌐 HTML | 📅 2026-05-21 "Watch" this repository if you'd like to get notifications when a new entry is added to the list.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Or follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 499,260 | 🐛 106 | 📅 2026-08-21.
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 499,514 | 🐛 106 | 📅 2026-08-21.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
 
@@ -56,6 +56,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 
 ## 🆚 Visual Programming
 
+* [OpenBlock](https://github.com/openblockcc/openblock-desktop) ⭐ 297 | 🐛 10 | 🌐 JavaScript | 📅 2025-06-12 - Block programming with hardware device support, including micro:bit, with code generation, compilation, flashing, and serial connection.
 * [MakeCode](https://makecode.microbit.org) - Provides an in-browser emulator and a Blocks interface that generates JavaScript (TypeScript) code (part of Microsoft's PXT).
   * [MakeCode Beta](https://makecode.microbit.org/beta) - Beta version of the MakeCode editor to test the latest features.
   * [MakeCode Offline App](https://makecode.microbit.org/offline-app) - Stand alone offline app (note that MakeCode in the browser also works offline).
@@ -68,7 +69,6 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 * [CodeMao Kitten Editor](https://kitten.codemao.cn) - Block programming platform to create games, includes micro:bit support.
 * [Vittascience](https://vittascience.com/microbit/) - Block programming based on MicroPython for the micro:bit with a built-in simulator.
 * [Tinkercad Circuits](https://www.tinkercad.com/learn/circuits) - Create, code, and simulate electronic designs using common components with the micro:bit or Arduino, [related article](https://www.tinkercad.com/blog/explore-microbit-with-tinkercad).
-* [OpenBlock](https://github.com/openblockcc/openblock-desktop) ⭐ 296 | 🐛 10 | 🌐 JavaScript | 📅 2025-06-12 - Block programming with hardware device support, including micro:bit, with code generation, compilation, flashing, and serial connection.
 * [MicroCode](https://microbit-apps.org/microcode/start/) - MicroCode is an icon-based (minimal text), editor for the micro:bit V2, which can also be used to write programmes directly on the micro:bit with an Arcade Shield. It is suitable for younger learners and users with variable accessibility needs.
 
 ### 🆚 Unofficial Scratch Extensions
@@ -140,7 +140,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 
 ### 🐍 Python Libraries
 
-* [bluezero](https://github.com/ukBaz/python-bluezero) ⭐ 421 | 🐛 28 | 🌐 Python | 📅 2025-03-23 - Python package to interface with Bluetooth devices, with examples for the micro:bit.
+* [bluezero](https://github.com/ukBaz/python-bluezero) ⭐ 422 | 🐛 28 | 🌐 Python | 📅 2025-03-23 - Python package to interface with Bluetooth devices, with examples for the micro:bit.
 * [bitio](https://github.com/whaleygeek/bitio) ⭐ 99 | 🐛 24 | 🌐 Python | 📅 2022-11-26 - BBC micro:bit I/O library for Python. It allows you to run code in Python on a PC/Mac/Linux/Raspberry Pi and interact directly with the micro:bit.
 * [Kasper's micro:bit](https://github.com/janickr/kaspersmicrobit) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2025-11-11 - A Python package to connect to the Bluetooth LE GATT services of paired BBC micro:bit devices. Use your micro:bit as a wireless game controller!
 * [MicroPeri](https://github.com/ntoll/microperi) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2016-06-07 - Run Python programs on your computer with the same micro:bit MicroPython API and connecting a micro:bit as an external peripheral device or sensor.
@@ -269,7 +269,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 890 | 🐛 98 | 🌐 C | 📅 2026-08-21 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 890 | 🐛 99 | 🌐 C | 📅 2026-08-21 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 151 | 🐛 28 | 🌐 C | 📅 2026-04-08 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
@@ -301,7 +301,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,418 | 🐛 202 | 🌐 Rust | 📅 2026-08-22 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,419 | 🐛 201 | 🌐 Rust | 📅 2026-08-22 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -404,7 +404,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,456 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,461 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
 * [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,107 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 318 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
@@ -593,6 +593,7 @@ All these projects contain steps and resources required for reproduction.
 
 Useful Articles for developing on the micro:bit.
 
+* [Read micro:bit data from Linux via Bluetooth (BLE)](https://github.com/alcir/microbit-ble) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2020-11-16 - Random notes and examples about micro:bit BLE and Linux.
 * [Offline C/C++ Development With The micro:bit](https://www.i-programmer.info/programming/hardware/9654-offline-cc-development-with-the-microbit-.html)
 * [Sending 'commands' from a micro:bit over Bluetooth](https://bluetooth-developer.blogspot.com/2016/07/sending-commands-from-microbit-over.html)
 * [Getting Started with the micro:bit Bluetooth IO Pin Service](https://ukbaz.github.io/howto/ubit_ble_profile.html)
@@ -607,7 +608,6 @@ Useful Articles for developing on the micro:bit.
 * [micro:bit Radio Packets](https://ukbaz.github.io/howto/ubit_radio.html) - Explanation of the MakeCode radio packet specification (built on top of the micro:bit DAL spec) and how to communicate between MakeCode and MicroPython programs via radio.
 * [Synchronized Music on micro:bits](http://blog.flowblok.id.au/2018-02/synchronized-music-on-microbits.html) - Building a micro:bit mesh network so they can play music synchronized across a large area.
 * [Using the Built-in Sensors](https://learn.adafruit.com/micro-bit-lesson-1-using-the-built-in-sensors) - Learn how to use the micro:bit's built-in accelerometer and magnetometer.
-* [Read micro:bit data from Linux via Bluetooth (BLE)](https://github.com/alcir/microbit-ble) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2020-11-16 - Random notes and examples about micro:bit BLE and Linux.
 * [Measure pressure with your micro:bit](https://www.instructables.com/Measure-Pressure-With-Your-Microbit/) - An inexpensive and easy to build device to perform pressure measurements and demonstrate Boyle's law with the micro:bit and BMP280 pressure/temperature sensor.
 * [IoT Cloud Access with micro:bit over BLE for Remote Sensing](https://www.hackster.io/PSoC_Rocks/iot-cloud-access-with-micro-bit-over-ble-for-remote-sensing-351938) - Program BBC micro:bit with mbed OS and remotely send data to cloud by utilizing BLE to smartphone/PC IoT cloud gateway.
 * [Network Rivalry: a Low-Latency Game for the BBC micro:bit](https://www.instructables.com/Network-Rivalry-a-Low-Latency-Game-for-the-BBC-Mic/) - Tutorial explaining how to implement a basic multiplayer game on the BBC micro:bit.
@@ -683,14 +683,14 @@ Useful Articles for developing on the micro:bit.
 
 ## 📚 Books
 
+* [Networking with the micro:bit (ebook)](https://github.com/nominetresearch/microbit-networking-book) ⭐ 15 | 🐛 8 | 🌐 Shell | 📅 2020-03-23 - This book presents a series of activities to teach the basics of computer networks with micro:bit.
+  * [Networking with the micro:bit - Python Edition](https://github.com/nominetresearch/microbit-networking-book-python) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2020-07-24 - A version of the book with using the Python language.
+  * [Prácticas de redes con placas micro:bit](https://github.com/jemole/microbit-networking-book) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2021-09-02 - Spanish translation.
 * [micro:bit IoT In C](https://www.iot-programmer.com/index.php/books/micro-bit-iot-in-c) - Using the C langague to gain full access to the micro:bit features and external devices.
 * [Programming with MicroPython](https://www.oreilly.com/library/view/programming-with-micropython/9781491972724/) - Embedded Programming with Microcontrollers and Python.
 * [Getting Started with the micro:bit](https://www.oreilly.com/library/view/getting-started-with/9781680453010/) - Coding and Making with the BBC's Open Development Board.
 * [The Official BBC micro:bit User Guide](https://www.wiley.com/en-gb/The+Official+BBC+micro%3Abit+User+Guide+-p-9781119386735) - The go-to guide to getting started with the BBC micro:bit and exploring all of its amazing capabilities.
 * [Programming the BBC micro:bit](http://simonmonk.org/prog-mb) - Getting Started with MicroPython.
-* [Networking with the micro:bit (ebook)](https://github.com/nominetresearch/microbit-networking-book) ⭐ 15 | 🐛 8 | 🌐 Shell | 📅 2020-03-23 - This book presents a series of activities to teach the basics of computer networks with micro:bit.
-  * [Networking with the micro:bit - Python Edition](https://github.com/nominetresearch/microbit-networking-book-python) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2020-07-24 - A version of the book with using the Python language.
-  * [Prácticas de redes con placas micro:bit](https://github.com/jemole/microbit-networking-book) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2021-09-02 - Spanish translation.
 * [micro:bit in Wonderland](https://www.techagekids.com/2017/11/our-beginner-bbc-microbit-coding-craft-project-book-microbit-in-wonderland.html) - A project book for the BBC micro:bit inspired by the classic story of Alice in Wonderland.
 * [Beginning BBC micro:bit](https://link.springer.com/book/10.1007/978-1-4842-3360-3) - A Practical Introduction to micro:bit Development.
 * [BBC micro:bit Recipes](https://link.springer.com/book/10.1007/978-1-4842-4913-0) - Learn Programming with Microsoft MakeCode Blocks.
@@ -707,7 +707,7 @@ Useful Articles for developing on the micro:bit.
 
 ## 🧑‍🏫 Teaching Resources
 
-* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 796 | 🐛 0 | 🌐 Python | 📅 2026-08-23 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
+* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 796 | 🐛 0 | 🌐 Python | 📅 2026-08-24 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
 * [micro:bit Lessons](https://github.com/PhonicCanine/microbit-lessons) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2021-06-01 - Basic lessons on Python programming with a BBC micro:bit.
 * [Learn micro:bit](https://github.com/LearnToProgramRoanoke/Learn-microbit) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2019-12-04 - Code and materials for learning to program with the BBC micro:bit.
 * [microbit.org Lessons](https://microbit.org/teach/lessons/) - Curriculum-linked units of work and design challenges for planning and teaching computing in primary and secondary schools.
@@ -783,13 +783,13 @@ Useful Articles for developing on the micro:bit.
 
 ## 👪 Community
 
+* [micro:bit Python mailing list (archived)](https://github.com/ntoll/microbit_mailman_archive) ⭐ 0 | 🐛 1 | 📅 2018-04-13
 * [`@microbit_edu` on X (twitter)](https://x.com/microbit_edu)
 * [`@awesomemicrobit.bsky.social` on Bluesky](https://bsky.app/profile/awesomemicrobit.bsky.social)
 * [`microbit_edu` on Instagram](https://www.instagram.com/microbit_edu/)
 * [`microbitfoundation` on Facebook](https://www.facebook.com/microbitfoundation)
 * [Micro:bit Educational Foundation on LinkedIn](https://www.linkedin.com/company/micro-bit-educational-foundation/)
 * [Micro:bit Educational Foundation on YouTube](https://www.youtube.com/@microbit_edu)
-* [micro:bit Python mailing list (archived)](https://github.com/ntoll/microbit_mailman_archive) ⭐ 0 | 🐛 1 | 📅 2018-04-13
 * [MakeCode Forum](https://forum.makecode.com/c/microbit/11)
 * [micro:bit subreddit](https://www.reddit.com/r/microbit/)
 * [micro:bit Champions](https://microbit.org/champions/)
@@ -803,6 +803,7 @@ Do you know about any free online event with micro:bits? Please add them here, P
 
 ## 🤷 Miscellaneous
 
+* [Mewt](https://github.com/dakota-mewt/mewt/blob/main/README_Microbit.md) ⭐ 64 | 🐛 3 | 🌐 C++ | 📅 2021-05-19 - Single button press to mute/unmute all system microphones, shows you status and when the microphone is actively broadcasting.
 * [micro:bit broadcast](https://microbit-broadcast.embeddedlog.com) - (Discontinued, archived) newsletter to stay up-to-date with the latest micro:bit news, articles, projects, and resources.
 * [microbit.org Support](https://support.microbit.org) - The support pages from the micro:bit Foundation is a great source of information, containing an extensive collection of FAQs, articles, and guides.
 * [Micro World Tour](https://microworldtour.github.io) - Before the micro:bit was released a few went on a tour to the world-wide Python community. A lot of interesting content and ideas on these micro:bit adventures.
@@ -810,7 +811,6 @@ Do you know about any free online event with micro:bits? Please add them here, P
 * [micro:bit Out Of Box Experience](https://support.microbit.org/support/solutions/articles/19000021613-reset-the-micro-bit-to-factory-defaults) - The default program running on a brand new micro:bit and its source code.
 * [Accessory Guide](https://microbit.org/buy/accessories/) - A constantly updated list of accessories for the micro:bit.
 * [pin:out](https://microbit.pinout.xyz) - A GPIO pinout interactive reference for the BBC micro:bit and accessories.
-* [Mewt](https://github.com/dakota-mewt/mewt/blob/main/README_Microbit.md) ⭐ 64 | 🐛 3 | 🌐 C++ | 📅 2021-05-19 - Single button press to mute/unmute all system microphones, shows you status and when the microphone is actively broadcasting.
 * [Cardboard Battery Pack Holder](https://microbit.org/get-started/user-guide/battery-pack-holder/) - The new micro:bit comes with a cardboard cut out to hold the micro:bit and battery pack, this is the template to create and customise your own battery holder.
 * [Interactive Lesson](https://cardboard.lofirobot.com/microbit-intro-interactive-lesson/) - An interactive lesson as a web app that communicates with the micro:bit via Web Bluetooth. It showcases the micro:bit features as a multimedia presentation exploring all the sensors, display, and more.
 
@@ -826,4 +826,4 @@ This projects is not endorsed, sponsored or associated with the BBC. "BBC", "mic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

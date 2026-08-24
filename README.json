@@ -4,6 +4,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "OpenBlock",
+          "description": "Block programming with hardware device support, including micro:bit, with code generation, compilation, flashing, and serial connection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 314309549,
+            "language": "JavaScript",
+            "last_commit": "2025-06-12T13:43:37Z",
+            "owner": "openblockcc",
+            "repo": "openblock-desktop",
+            "stars": 297
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -614,7 +629,7 @@
                 "last_commit": "2025-03-23T13:01:36Z",
                 "owner": "ukBaz",
                 "repo": "python-bluezero",
-                "stars": 421
+                "stars": 422
               }
             },
             {
@@ -1909,6 +1924,28 @@
           "description": null,
           "node_type": "group",
           "title": "🦀 Rust Libraries & Examples"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tock",
+              "description": "An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36428094,
+                "language": "Rust",
+                "last_commit": "2026-08-22T16:41:34Z",
+                "owner": "tock",
+                "repo": "tock",
+                "stars": 6419
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🦀 Rust RTOS targeting micro:bit"
         }
       ],
       "title": "🦀 Rust"
@@ -2337,7 +2374,7 @@
             "last_commit": "2026-08-17T12:23:59Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13456
+            "stars": 13461
           }
         },
         {
@@ -2968,6 +3005,79 @@
       "title": "🏗️ Projects"
     },
     {
+      "description": "Useful Articles for developing on the micro:bit.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Read micro:bit data from Linux via Bluetooth (BLE)",
+          "description": "Random notes and examples about micro:bit BLE and Linux.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110753203,
+            "language": "Python",
+            "last_commit": "2020-11-16T19:54:23Z",
+            "owner": "alcir",
+            "repo": "microbit-ble",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "🗞️ Articles"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Networking with the micro:bit (ebook)",
+          "description": "This book presents a series of activities to teach the basics of computer networks with micro:bit.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Networking with the micro:bit - Python Edition",
+              "description": "A version of the book with using the Python language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 197155248,
+                "language": "Python",
+                "last_commit": "2020-07-24T20:05:03Z",
+                "owner": "nominetresearch",
+                "repo": "microbit-networking-book-python",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prácticas de redes con placas micro:bit",
+              "description": "Spanish translation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225207305,
+                "language": "Shell",
+                "last_commit": "2021-09-02T11:35:48Z",
+                "owner": "jemole",
+                "repo": "microbit-networking-book",
+                "stars": 5
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 160529351,
+            "language": "Shell",
+            "last_commit": "2020-03-23T22:37:03Z",
+            "owner": "nominetresearch",
+            "repo": "microbit-networking-book",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "📚 Books"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -2979,7 +3089,7 @@
             "archived": false,
             "id": 296158004,
             "language": "Python",
-            "last_commit": "2026-08-23T13:50:44Z",
+            "last_commit": "2026-08-24T12:58:08Z",
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
             "stars": 796
@@ -3017,10 +3127,52 @@
         }
       ],
       "title": "🧑‍🏫 Teaching Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "micro:bit Python mailing list (archived)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129374744,
+            "language": null,
+            "last_commit": "2018-04-13T08:45:56Z",
+            "owner": "ntoll",
+            "repo": "microbit_mailman_archive",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "👪 Community"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mewt",
+          "description": "Single button press to mute/unmute all system microphones, shows you status and when the microphone is actively broadcasting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 320979569,
+            "language": "C++",
+            "last_commit": "2021-05-19T02:54:34Z",
+            "owner": "dakota-mewt",
+            "repo": "mewt",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "🤷 Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:42:36.718Z",
+    "last_updated": "2026-08-24T14:12:39.944Z",
     "original_repository": "carlosperate/awesome-microbit",
     "original_repository_id": 65635555,
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
