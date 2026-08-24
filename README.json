@@ -1936,7 +1936,7 @@
                 "archived": false,
                 "id": 36428094,
                 "language": "Rust",
-                "last_commit": "2026-08-22T16:41:34Z",
+                "last_commit": "2026-08-24T17:47:27Z",
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6419
@@ -2374,7 +2374,7 @@
             "last_commit": "2026-08-17T12:23:59Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13461
+            "stars": 13462
           }
         },
         {
@@ -3172,7 +3172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:12:39.944Z",
+    "last_updated": "2026-08-24T18:53:15.668Z",
     "original_repository": "carlosperate/awesome-microbit",
     "original_repository_id": 65635555,
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
