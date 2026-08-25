@@ -1936,7 +1936,7 @@
                 "archived": false,
                 "id": 36428094,
                 "language": "Rust",
-                "last_commit": "2026-08-24T22:16:35Z",
+                "last_commit": "2026-08-25T18:40:53Z",
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6420
@@ -2374,7 +2374,7 @@
             "last_commit": "2026-08-17T12:23:59Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13463
+            "stars": 13465
           }
         },
         {
@@ -3089,7 +3089,7 @@
             "archived": false,
             "id": 296158004,
             "language": "Python",
-            "last_commit": "2026-08-24T12:58:08Z",
+            "last_commit": "2026-08-25T13:54:19Z",
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
             "stars": 796
@@ -3172,7 +3172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:24.895Z",
+    "last_updated": "2026-08-25T18:52:04.109Z",
     "original_repository": "carlosperate/awesome-microbit",
     "original_repository_id": 65635555,
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
