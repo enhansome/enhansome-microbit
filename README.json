@@ -1767,7 +1767,7 @@
                 "archived": false,
                 "id": 45165993,
                 "language": "C",
-                "last_commit": "2026-08-21T05:10:10Z",
+                "last_commit": "2026-08-25T05:09:59Z",
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 890
@@ -1936,10 +1936,10 @@
                 "archived": false,
                 "id": 36428094,
                 "language": "Rust",
-                "last_commit": "2026-08-24T17:47:27Z",
+                "last_commit": "2026-08-24T22:16:35Z",
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6419
+                "stars": 6420
               }
             }
           ],
@@ -2374,7 +2374,7 @@
             "last_commit": "2026-08-17T12:23:59Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13462
+            "stars": 13463
           }
         },
         {
@@ -3172,7 +3172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:53:15.668Z",
+    "last_updated": "2026-08-25T06:06:24.895Z",
     "original_repository": "carlosperate/awesome-microbit",
     "original_repository_id": 65635555,
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
