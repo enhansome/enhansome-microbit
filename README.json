@@ -1767,7 +1767,7 @@
                 "archived": false,
                 "id": 45165993,
                 "language": "C",
-                "last_commit": "2026-08-25T05:09:59Z",
+                "last_commit": "2026-08-26T05:10:02Z",
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 890
@@ -1936,10 +1936,10 @@
                 "archived": false,
                 "id": 36428094,
                 "language": "Rust",
-                "last_commit": "2026-08-25T18:40:53Z",
+                "last_commit": "2026-08-26T19:37:37Z",
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6420
+                "stars": 6422
               }
             }
           ],
@@ -1965,7 +1965,7 @@
             "last_commit": "2026-08-19T11:27:59Z",
             "owner": "AdaCore",
             "repo": "Ada_Drivers_Library",
-            "stars": 283
+            "stars": 284
           }
         },
         {
@@ -2374,7 +2374,7 @@
             "last_commit": "2026-08-17T12:23:59Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13465
+            "stars": 13467
           }
         },
         {
@@ -3089,7 +3089,7 @@
             "archived": false,
             "id": 296158004,
             "language": "Python",
-            "last_commit": "2026-08-25T13:54:19Z",
+            "last_commit": "2026-08-26T12:24:39Z",
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
             "stars": 796
@@ -3172,7 +3172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:52:04.109Z",
+    "last_updated": "2026-08-26T19:58:43.044Z",
     "original_repository": "carlosperate/awesome-microbit",
     "original_repository_id": 65635555,
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
