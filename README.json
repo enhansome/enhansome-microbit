@@ -1767,7 +1767,7 @@
                 "archived": false,
                 "id": 45165993,
                 "language": "C",
-                "last_commit": "2026-08-26T05:10:02Z",
+                "last_commit": "2026-08-27T09:01:32Z",
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 890
@@ -1936,10 +1936,10 @@
                 "archived": false,
                 "id": 36428094,
                 "language": "Rust",
-                "last_commit": "2026-08-26T19:37:37Z",
+                "last_commit": "2026-08-27T01:15:48Z",
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6422
+                "stars": 6423
               }
             }
           ],
@@ -2374,7 +2374,7 @@
             "last_commit": "2026-08-17T12:23:59Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13467
+            "stars": 13468
           }
         },
         {
@@ -2455,7 +2455,7 @@
             "last_commit": "2026-08-20T23:24:18Z",
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2793
+            "stars": 2794
           }
         },
         {
@@ -3172,9 +3172,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:58:43.044Z",
-    "original_repository": "carlosperate/awesome-microbit",
-    "original_repository_id": 65635555,
+    "last_updated": "2026-08-27T11:51:47.130Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 65635555,
+      "language": "HTML",
+      "last_commit": "2026-05-21T21:57:24Z",
+      "owner": "carlosperate",
+      "repo": "awesome-microbit",
+      "stars": 1196
+    },
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
     "enhanced_repository": "enhansome/enhansome-microbit",
     "enhanced_repository_description": null,
