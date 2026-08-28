@@ -1936,10 +1936,10 @@
                 "archived": false,
                 "id": 36428094,
                 "language": "Rust",
-                "last_commit": "2026-08-27T01:15:48Z",
+                "last_commit": "2026-08-27T22:26:40Z",
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6423
+                "stars": 6425
               }
             }
           ],
@@ -2389,7 +2389,7 @@
             "last_commit": "2024-08-04T20:31:17Z",
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2107
+            "stars": 2108
           }
         },
         {
@@ -3089,7 +3089,7 @@
             "archived": false,
             "id": 296158004,
             "language": "Python",
-            "last_commit": "2026-08-26T12:24:39Z",
+            "last_commit": "2026-08-27T13:10:54Z",
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
             "stars": 796
@@ -3172,7 +3172,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:51:47.130Z",
+    "last_updated": "2026-08-28T02:08:20.973Z",
     "original_repository_info": {
       "archived": false,
       "id": 65635555,
