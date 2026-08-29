@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Graphic programming software for hardware like: arduino, microbit, esp32, esp8266...",
+            "homepage": null,
             "id": 314309549,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-12T13:43:37Z",
+            "open_issues": 10,
             "owner": "openblockcc",
             "repo": "openblock-desktop",
-            "stars": 298
+            "stars": 298,
+            "topics": [
+              "arduino",
+              "esp32",
+              "esp8266",
+              "hardware",
+              "microbit",
+              "openblock",
+              "scratch",
+              "scratch3"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -28,12 +42,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scratch-link for Linux written in python",
+                "homepage": null,
                 "id": 207799516,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-09-18T09:35:03Z",
+                "open_issues": 16,
                 "owner": "kawasaki",
                 "repo": "pyscrlink",
-                "stars": 126
+                "stars": 126,
+                "topics": [
+                  "bluetooth",
+                  "bluetooth-low-energy",
+                  "lego-boost",
+                  "lego-mindstorms-ev3",
+                  "lego-wedo",
+                  "microbit",
+                  "python3",
+                  "scratch3"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -44,12 +72,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full-functional extension of micro:bit for Scratch3",
+                "homepage": null,
                 "id": 319152885,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-01-25T05:37:40Z",
+                "open_issues": 10,
                 "owner": "microbit-more",
                 "repo": "mbit-more-v2",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -60,12 +93,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scratch to micro:bit bridge.",
+                "homepage": "https://mryslab.github.io/s2m/",
                 "id": 110704956,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2019-08-28T12:49:31Z",
+                "open_issues": 1,
                 "owner": "MrYsLab",
                 "repo": "s2m",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -76,12 +114,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "micro:bitをScratch2からBluetoothで使おう(Win/Mac)",
+                "homepage": "http://memakura.github.io/s2microbit-ble/",
                 "id": 117997333,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-05-09T00:44:12Z",
+                "open_issues": 0,
                 "owner": "memakura",
                 "repo": "s2microbit-ble",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "bluetooth",
+                  "macosx",
+                  "microbit",
+                  "scratch",
+                  "windows10"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -105,12 +154,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Micropython and MakeCode Blocks compatible radio",
+                "homepage": null,
                 "id": 177286338,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-05-10T08:51:41Z",
+                "open_issues": 0,
                 "owner": "rhubarbdog",
                 "repo": "microbit-radio",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "blocky",
+                  "code",
+                  "cross-platform",
+                  "education",
+                  "makecode",
+                  "microbit",
+                  "micropython",
+                  "radio"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -121,12 +184,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Perform mathematics with genuine decimal numbers",
+                "homepage": null,
                 "id": 560879003,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-08T09:49:40Z",
+                "open_issues": 0,
                 "owner": "rhubarbdog",
                 "repo": "decimal-numbers",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -144,12 +212,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple micropython library for the micro:bit to control the SSD1306 display",
+                "homepage": null,
                 "id": 82568470,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-19T08:11:30Z",
+                "open_issues": 6,
                 "owner": "fizban99",
                 "repo": "microbit_ssd1306",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "microbit",
+                  "oled-display-ssd1306",
+                  "python",
+                  "ssd1306"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -160,12 +238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "all kinds of microbit python drives, libs, examples, etc.",
+                "homepage": null,
                 "id": 119242557,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-07-08T03:45:29Z",
+                "open_issues": 6,
                 "owner": "shaoziyang",
                 "repo": "microbit-lib",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -176,12 +259,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micropython code to drive stepper motors via ULN2003",
+                "homepage": null,
                 "id": 98753203,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-07-29T19:35:48Z",
+                "open_issues": 1,
                 "owner": "IDWizard",
                 "repo": "uln2003",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -192,12 +280,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microbit Python Driver for PCA9685 16-Channel 12-bit PWM/Servo Driver - I2C interface",
+                "homepage": null,
                 "id": 80291463,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-01-28T16:02:32Z",
+                "open_issues": 3,
                 "owner": "gingemonster",
                 "repo": "PCA9685-Python-Microbit",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -208,12 +301,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Control servos in python on the microbit",
+                "homepage": null,
                 "id": 65727468,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-12-28T01:08:30Z",
+                "open_issues": 4,
                 "owner": "microbit-playground",
                 "repo": "microbit-servo-class",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -224,12 +322,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "micro:bit library for the HC-SR04 ultrasonic sensor",
+                "homepage": null,
                 "id": 84944783,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-24T16:29:23Z",
+                "open_issues": 2,
                 "owner": "fizban99",
                 "repo": "microbit_hcsr04",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "hcsr04",
+                  "microbit",
+                  "micropython"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -240,12 +347,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MicroPython for micro:bit library for quad 7-segment LED modules using TM1637 LED driver",
+                "homepage": null,
                 "id": 116643887,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-01-23T12:33:46Z",
+                "open_issues": 2,
                 "owner": "mcauser",
                 "repo": "microbit-tm1637",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "7-segment",
+                  "grove",
+                  "microbit",
+                  "microbit-scripts",
+                  "micropython",
+                  "tm1637"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -256,12 +375,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast Micro:bit micropython functions for Nokia 5110 LCDs",
+                "homepage": null,
                 "id": 89060467,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-20T11:19:52Z",
+                "open_issues": 0,
                 "owner": "matneee",
                 "repo": "microbit-nokia5110-PCD8544-lcd",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -272,12 +396,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "micro:bit library to use an ssd1306 OLED display as a 7 segment display.",
+                "homepage": null,
                 "id": 83931069,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-24T16:32:33Z",
+                "open_issues": 1,
                 "owner": "fizban99",
                 "repo": "microbit_ssd1306_7seg",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "microbit",
+                  "micropython",
+                  "oled-display-ssd1306"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -288,12 +421,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple micropython library for the micro:bit to control the SSD1306 display through SPI",
+                "homepage": null,
                 "id": 88179998,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-24T16:30:02Z",
+                "open_issues": 1,
                 "owner": "fizban99",
                 "repo": "microbit_ssd1306spi",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "microbit",
+                  "micropython",
+                  "oled-display-ssd1306",
+                  "ssd1306"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -304,12 +447,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micro:bit library for the ultrasonic sensor us-100 in serial mode",
+                "homepage": null,
                 "id": 84999579,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-24T16:32:03Z",
+                "open_issues": 0,
                 "owner": "fizban99",
                 "repo": "microbit_us100",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "microbit",
+                  "micropython",
+                  "us-100"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -320,12 +472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MAX7219 7-segment python microbit driver",
+                "homepage": null,
                 "id": 77490457,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-06-03T16:19:05Z",
+                "open_issues": 0,
                 "owner": "microbit-playground",
                 "repo": "matrix7seg",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -336,12 +493,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a DHT11 class for microbit",
+                "homepage": null,
                 "id": 159582738,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-10-03T12:39:40Z",
+                "open_issues": 0,
                 "owner": "rhubarbdog",
                 "repo": "microbit-dht11",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "assembler",
+                  "dht11",
+                  "microbit",
+                  "micropython",
+                  "sensor",
+                  "temperature"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -352,12 +521,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "RAK811 Python Library for use with LoRa pHAT & MicroBIT Node",
+                "homepage": null,
                 "id": 143285330,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2019-10-01T00:17:00Z",
+                "open_issues": 7,
                 "owner": "PiSupply",
                 "repo": "rak811-python",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -368,12 +542,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the firmware repo for the Core Electronics PiicoDev® Atmospheric Sensor BME280",
+                "homepage": null,
                 "id": 353173846,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-01-24T05:56:30Z",
+                "open_issues": 3,
                 "owner": "CoreElectronics",
                 "repo": "CE-PiicoDev-BME280-MicroPython-Module",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -384,12 +563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple micropython library for the micro:bit to control the SSD1306 display.",
+                "homepage": null,
                 "id": 136271093,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-06-06T04:19:23Z",
+                "open_issues": 0,
                 "owner": "Afantor",
                 "repo": "Microbit_SSD1306_OLED",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -400,12 +584,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A MicroPython class to control the kitronik motor driver for the micro:bit",
+                "homepage": null,
                 "id": 117913442,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-01-21T16:36:06Z",
+                "open_issues": 0,
                 "owner": "MrYsLab",
                 "repo": "kitronik_motor_board",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -416,12 +605,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library providing functions to work with Cutebot kit for BBC micro:bit board in Python language",
+                "homepage": null,
                 "id": 231423684,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-29T06:02:11Z",
+                "open_issues": 2,
                 "owner": "Krakenus",
                 "repo": "microbit-cutebot-micropython",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -432,12 +626,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firmware repo for the Core Electronics PiicoDev Precision Temperature Sensor TMP117",
+                "homepage": null,
                 "id": 351312862,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-22T07:23:15Z",
+                "open_issues": 0,
                 "owner": "CoreElectronics",
                 "repo": "CE-PiicoDev-TMP117-MicroPython-Module",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -448,12 +647,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python module for the 4tronix Bit:bot XL.",
+                "homepage": null,
                 "id": 267300764,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-06-02T06:44:38Z",
+                "open_issues": 0,
                 "owner": "oivron",
                 "repo": "bitbotxl",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "python",
+                  "python-stubs"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -464,12 +671,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MicroPython for micro:bit library for the Aosong DHT12 temperature and humidity sensor",
+                "homepage": null,
                 "id": 121741510,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-08-07T15:42:56Z",
+                "open_issues": 0,
                 "owner": "mcauser",
                 "repo": "microbit-dht12",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "dht",
+                  "dht12",
+                  "humidity",
+                  "microbit",
+                  "microbit-scripts",
+                  "micropython",
+                  "temperature"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -480,12 +700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MicroPython Firmware repo for the Core Electronics PiicoDev Ambient Light Sensor VEML6030",
+                "homepage": null,
                 "id": 352464188,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-10-05T04:36:07Z",
+                "open_issues": 1,
                 "owner": "CoreElectronics",
                 "repo": "CE-PiicoDev-VEML6030-MicroPython-Module",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -496,12 +721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 71928857,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-12T09:31:48Z",
+                "open_issues": 0,
                 "owner": "titimoby",
                 "repo": "microbit4all",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -512,12 +742,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 371569090,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-05-28T03:29:08Z",
+                "open_issues": 0,
                 "owner": "mcauser",
                 "repo": "deshipu-micropython-ht16k33",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -528,12 +763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micro:bit micropython library to calibrate a sound sensor KY038",
+                "homepage": null,
                 "id": 85682703,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-07-24T16:31:30Z",
+                "open_issues": 1,
                 "owner": "fizban99",
                 "repo": "microbit_ky038",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -544,12 +784,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 94504202,
                 "language": "C",
+                "license": null,
                 "last_commit": "2017-06-16T04:38:43Z",
+                "open_issues": 2,
                 "owner": "jemerlia",
                 "repo": "microbit-BoschBME280-P-T-and-H-Sensor",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "bbc",
+                  "bme280pthsensor",
+                  "bytearray",
+                  "i2c",
+                  "microbit",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -560,12 +812,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MicroPython for micro:bit library for 10 segment LED bar graph modules using the MY9221 LED driver",
+                "homepage": null,
                 "id": 118924061,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-08-07T15:40:29Z",
+                "open_issues": 1,
                 "owner": "mcauser",
                 "repo": "microbit-my9221",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "grove",
+                  "leds",
+                  "microbit",
+                  "microbit-scripts",
+                  "micropython",
+                  "my9221"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -576,12 +840,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MicroPython code to use the MCP3008 analog to digital converter with a micro:bit.",
+                "homepage": null,
                 "id": 139379201,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-07-02T06:57:23Z",
+                "open_issues": 0,
                 "owner": "ti-nspire",
                 "repo": "microbit_MicroPython_MCP3008",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -592,12 +861,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mpr121 capacitive touch keypad",
+                "homepage": null,
                 "id": 161967606,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-12-16T04:32:10Z",
+                "open_issues": 0,
                 "owner": "rhubarbdog",
                 "repo": "microbit-mpr121-keypad",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "keypad",
+                  "microbit",
+                  "micropython"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -608,12 +886,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Example Micro:bit functions to read and write to a Microchip I2C EEPROM",
+                "homepage": null,
                 "id": 89794993,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-20T11:20:52Z",
+                "open_issues": 0,
                 "owner": "matneee",
                 "repo": "microbit-I2C-EEPROM-24LCxxx-Read-Write",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -624,12 +907,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MicroPython for micro:bit library for the Aosong AM2320 temperature and humidity sensor",
+                "homepage": null,
                 "id": 121737785,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-08-07T15:43:47Z",
+                "open_issues": 2,
                 "owner": "mcauser",
                 "repo": "microbit-am2320",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "am2320",
+                  "dht",
+                  "humidity",
+                  "microbit",
+                  "microbit-scripts",
+                  "micropython",
+                  "temperature"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -640,12 +936,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 137531994,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-06-16T00:12:29Z",
+                "open_issues": 0,
                 "owner": "ti-nspire",
                 "repo": "microbit-in-micropython-library-for-HTU21D-sensor",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -663,12 +964,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Python interface to Bluez",
+                "homepage": null,
                 "id": 49202026,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-23T13:01:36Z",
+                "open_issues": 28,
                 "owner": "ukBaz",
                 "repo": "python-bluezero",
-                "stars": 422
+                "stars": 422,
+                "topics": [
+                  "bluetooth",
+                  "bluetooth-low-energy",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -679,12 +989,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A micro:bit I/O device library for Python",
+                "homepage": null,
                 "id": 93845009,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-26T09:55:07Z",
+                "open_issues": 24,
                 "owner": "whaleygeek",
                 "repo": "bitio",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -695,12 +1010,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python package to connect to the Bluetooth LE GATT services of BBC micro:bit devices. Use your micro:bit as a wireless game controller!",
+                "homepage": "https://kaspersmicrobit.readthedocs.io/en/stable/",
                 "id": 456010272,
                 "language": "Python",
+                "license": "MPL-2.0",
                 "last_commit": "2025-11-11T16:59:57Z",
+                "open_issues": 0,
                 "owner": "janickr",
                 "repo": "kaspersmicrobit",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "bbc-microbit",
+                  "ble",
+                  "bluetooth",
+                  "bluetooth-low-energy",
+                  "microbit",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -711,12 +1038,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MicroPeri is a library for using the BBC micro:bit with MicroPython as an external peripheral device or sensor, using an API which closely replicates the micro:bit's MicroPython API.",
+                "homepage": null,
                 "id": 60592934,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2016-06-07T10:18:55Z",
+                "open_issues": 0,
                 "owner": "ntoll",
                 "repo": "microperi",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -734,12 +1066,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A module and command to easily flash Python onto the BBC's micro:bit device.",
+                "homepage": "http://micropython.org/",
                 "id": 48134598,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-11-27T04:41:24Z",
+                "open_issues": 17,
                 "owner": "ntoll",
                 "repo": "uflash",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -750,12 +1087,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple command line tool and module for interacting with the simple filesystem on the BBC micro:bit.",
+                "homepage": null,
                 "id": 59915607,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-29T18:40:32Z",
+                "open_issues": 14,
                 "owner": "ntoll",
                 "repo": "microfs",
-                "stars": 41
+                "stars": 41,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -766,12 +1108,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A REPL client for MicroPython running on the BBC micro:bit.",
+                "homepage": null,
                 "id": 41963572,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-10-11T13:02:32Z",
+                "open_issues": 4,
                 "owner": "ntoll",
                 "repo": "microrepl",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -782,12 +1129,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Type stubs for MicroPython for micro:bit to support the micro:bit Python Editor V3",
+                "homepage": "https://python.microbit.org/",
                 "id": 393065215,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-26T12:27:42Z",
+                "open_issues": 11,
                 "owner": "microbit-foundation",
                 "repo": "micropython-microbit-stubs",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "micropython",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -798,12 +1153,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python type hints for micro:bit",
+                "homepage": null,
                 "id": 383094398,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-12T09:05:07Z",
+                "open_issues": 0,
                 "owner": "oivron",
                 "repo": "microbit-stubs",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "bbc-microbit",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -827,12 +1190,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BLE HID Keyboard module for micro:bit",
+                "homepage": null,
                 "id": 104811967,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-09-29T04:30:17Z",
+                "open_issues": 3,
                 "owner": "kshoji",
                 "repo": "pxt-bluetooth-keyboard",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "ble",
+                  "hid",
+                  "keyboard",
+                  "microbit",
+                  "pxt"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -843,12 +1217,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micro:bit MakeCode support to act as a  Human Interface Devices (keyboard, mouse, etc.) over Bluetooth",
+                "homepage": "https://bsiever.github.io/microbit-pxt-blehid/",
                 "id": 430231054,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-04-21T18:14:33Z",
+                "open_issues": 2,
                 "owner": "bsiever",
                 "repo": "microbit-pxt-blehid",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "hid",
+                  "makecode",
+                  "microbit"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -859,12 +1242,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BLE HID Gamepad module for micro:bit",
+                "homepage": null,
                 "id": 122185813,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2018-03-01T10:50:40Z",
+                "open_issues": 1,
                 "owner": "kshoji",
                 "repo": "pxt-bluetooth-gamepad",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "ble",
+                  "gamepad",
+                  "microbit",
+                  "pxt"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -875,12 +1268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PXT package to support the BlueDot app - beta",
+                "homepage": "https://pxt.microbit.org/pkg/Microsoft/pxt-bluedot",
                 "id": 89922822,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-01-10T00:12:43Z",
+                "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "pxt-bluedot",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -891,12 +1289,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Software Based Real Time Clock (Time & Date) for the Micro:Bit",
+                "homepage": "https://bsiever.github.io/microbit-pxt-timeanddate/",
                 "id": 270458189,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-25T00:16:10Z",
+                "open_issues": 1,
                 "owner": "bsiever",
                 "repo": "microbit-pxt-timeanddate",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "makecode",
+                  "microbit",
+                  "pxt-microbit"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -907,12 +1314,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BLE HID Mouse module for micro:bit",
+                "homepage": null,
                 "id": 106776461,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-08-30T08:32:16Z",
+                "open_issues": 1,
                 "owner": "kshoji",
                 "repo": "pxt-bluetooth-mouse",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "ble",
+                  "hid",
+                  "microbit",
+                  "mouse",
+                  "pxt"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -923,12 +1341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sonic Pi OSC Extension for the micro:bit",
+                "homepage": null,
                 "id": 245010334,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-05-10T17:06:43Z",
+                "open_issues": 0,
                 "owner": "RBilsland",
                 "repo": "pxt-sonicpiosc",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -939,12 +1362,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advertise Bluetooth Beacons for micro:bit",
+                "homepage": null,
                 "id": 113856229,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-12-12T04:21:57Z",
+                "open_issues": 2,
                 "owner": "kshoji",
                 "repo": "pxt-bluetooth-beacons",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "altbeacon",
+                  "bluetooth",
+                  "ibeacon",
+                  "microbit",
+                  "pxt"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -955,12 +1389,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A few useful music and sound functions for Makecode",
+                "homepage": "https://jaustin.github.io/pxt-musichelpers/",
                 "id": 489520891,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-08-15T16:05:54Z",
+                "open_issues": 0,
                 "owner": "jaustin",
                 "repo": "pxt-musichelpers",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -971,12 +1410,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Port of pxt-arcade-timers to the micro:bit platform",
+                "homepage": "https://robo-technical-group.github.io/pxt-microbit-timers/",
                 "id": 511743317,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-07-09T18:49:07Z",
+                "open_issues": 0,
                 "owner": "robo-technical-group",
                 "repo": "pxt-microbit-timers",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -994,12 +1438,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MakeCode extension for controlling your LEGO Power Functions devices with an IR-emitting LED",
+                "homepage": "https://www.hackster.io/philipp-henkel/lego-power-functions-ir-sender-for-micro-bit-aecc10",
                 "id": 103754807,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-06-05T09:28:13Z",
+                "open_issues": 1,
                 "owner": "philipphenkel",
                 "repo": "pxt-powerfunctions",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "lego",
+                  "makecode",
+                  "microbit",
+                  "pxt-microbit",
+                  "remote-control"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1010,12 +1465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 156637541,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2018-11-19T03:47:23Z",
+                "open_issues": 1,
                 "owner": "lioujj",
                 "repo": "pxt-IR",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1026,12 +1486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 135541709,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2020-11-08T02:58:55Z",
+                "open_issues": 1,
                 "owner": "lioujj",
                 "repo": "pxt-mp3",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1042,12 +1507,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://dfrobot.github.io/pxt-ds18b20/",
                 "id": 137976307,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-06-27T01:28:50Z",
+                "open_issues": 2,
                 "owner": "DFRobot",
                 "repo": "pxt-ds18b20",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "makecode"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1058,12 +1530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Makecode extension for ws2812b matrices",
+                "homepage": "https://shorts1999.github.io/pxt-smartmatrix/",
                 "id": 232112174,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-06-19T09:12:41Z",
+                "open_issues": 1,
                 "owner": "Shorts1999",
                 "repo": "pxt-smartmatrix",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1074,12 +1551,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Makecode Package for the CCS811 Air Quality Sensor ",
+                "homepage": null,
                 "id": 101442540,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-09-12T19:19:02Z",
+                "open_issues": 1,
                 "owner": "ADataDate",
                 "repo": "pxt-airQuality",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1090,12 +1572,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micro:bit DS18B20 Temp Sensor Blocks",
+                "homepage": "https://bsiever.github.io/microbit-dstemp/",
                 "id": 167479796,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-27T15:00:53Z",
+                "open_issues": 4,
                 "owner": "bsiever",
                 "repo": "microbit-dstemp",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "microbit",
+                  "pxt-microbit"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1106,12 +1596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tinkercademy Makecode Package for the VL53L0X Time-of-Flight Range Sensor. (beta)",
+                "homepage": null,
                 "id": 133060961,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-02-11T06:35:05Z",
+                "open_issues": 0,
                 "owner": "tinkertanker",
                 "repo": "pxt-range-vl53l0x",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1122,12 +1617,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Driver for Infra Red Thermometer MLX90614",
+                "homepage": null,
                 "id": 186941860,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-05-20T00:59:56Z",
+                "open_issues": 0,
                 "owner": "DoraLC",
                 "repo": "pxt-MLX90614",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "microbit",
+                  "mlx90614",
+                  "pxt"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1138,12 +1642,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "blocks for MCP23017 on micro:bit",
+                "homepage": "https://captaincredible.github.io/pxt-MCP23017/",
                 "id": 131839551,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-07-17T23:59:31Z",
+                "open_issues": 0,
                 "owner": "CaptainCredible",
                 "repo": "pxt-MCP23017",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1154,12 +1663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ubirch NB-IoT message module",
+                "homepage": null,
                 "id": 103318502,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2018-04-18T20:22:29Z",
+                "open_issues": 0,
                 "owner": "ubirch",
                 "repo": "pxt-ubirch",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1170,12 +1684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 123135212,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2019-02-08T09:17:21Z",
+                "open_issues": 0,
                 "owner": "lioujj",
                 "repo": "pxt-oled",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1186,12 +1705,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "For makecode.microbit V1 only",
+                "homepage": null,
                 "id": 145961809,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-01-28T01:25:09Z",
+                "open_issues": 0,
                 "owner": "DoraLC",
                 "repo": "pxt-tcs3200-color-sensor",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "color-sensor",
+                  "microbit",
+                  "pxt",
+                  "tcs3200"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1202,12 +1731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Invent Library for Micro:bit Make Code",
+                "homepage": null,
                 "id": 109119145,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-28T15:09:18Z",
+                "open_issues": 0,
                 "owner": "techcampuk",
                 "repo": "pxt-invent",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1218,12 +1752,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tinkercademy MakeCode package for using the DS1307 real-time clock with the BBC micro:bit (beta)",
+                "homepage": null,
                 "id": 86546013,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2020-03-28T00:44:29Z",
+                "open_issues": 1,
                 "owner": "tinkertanker",
                 "repo": "pxt-realtimeclock-ds1307",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1234,12 +1773,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tinkercademy MakeCode Package for the HT16K33 Alphanumeric Display (beta)",
+                "homepage": null,
                 "id": 89678668,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-02-16T05:03:56Z",
+                "open_issues": 0,
                 "owner": "tinkertanker",
                 "repo": "pxt-alphanumeric-ht16k33",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1250,12 +1794,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SHT20, SHT21, SHT25 driver for the Microbit",
+                "homepage": null,
                 "id": 119336856,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-02-28T04:16:29Z",
+                "open_issues": 1,
                 "owner": "tinkertanker",
                 "repo": "microDriver_SHT2x",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1266,12 +1815,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MicroDriver PCA9685 Makecode Package/Library for the MicroBit",
+                "homepage": null,
                 "id": 121192983,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2018-02-12T03:05:25Z",
+                "open_issues": 2,
                 "owner": "tinkertanker",
                 "repo": "uDriver_PCA9585",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1282,12 +1836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micro:bit support for the Dallas DS18B20 in Parasitic Power mode (2 wires)",
+                "homepage": "https://bsiever.github.io/microbit-dstemp-2wire/",
                 "id": 345236937,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-27T15:00:24Z",
+                "open_issues": 0,
                 "owner": "bsiever",
                 "repo": "microbit-dstemp-2wire",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1298,12 +1857,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Honeycomb kits package for pxt-microbit",
+                "homepage": null,
                 "id": 108824376,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2017-11-25T08:26:00Z",
+                "open_issues": 0,
                 "owner": "HoneycombKits",
                 "repo": "pxt-HoneyBit",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1314,12 +1878,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MakeCode package for the BMP085 or BMP180 sensor - beta",
+                "homepage": null,
                 "id": 117193403,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2018-11-12T04:29:16Z",
+                "open_issues": 0,
                 "owner": "sabas1080",
                 "repo": "uBit_BMP085",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "bmp085",
+                  "bmp180",
+                  "makecode",
+                  "microbit",
+                  "pxt"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1330,12 +1905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MakeCode Extension to control KeiganMotor by micro:bit",
+                "homepage": null,
                 "id": 175679017,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-07-12T11:50:38Z",
+                "open_issues": 0,
                 "owner": "keigan-motor",
                 "repo": "pxt-KeiganMotor",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1346,12 +1926,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Makecode extension for Adafruit V1 Motor Driver Board - beta",
+                "homepage": null,
                 "id": 190966901,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2019-06-09T18:55:29Z",
+                "open_issues": 0,
                 "owner": "vijairaj",
                 "repo": "pxt-adafruit-motor-driver",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "adafruit-motor-shield",
+                  "makecode-extension",
+                  "microbit"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1362,12 +1951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "esp01 makecode extension for micro:bit",
+                "homepage": null,
                 "id": 192478009,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-09-05T06:35:16Z",
+                "open_issues": 0,
                 "owner": "51bit",
                 "repo": "esp01",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1378,12 +1972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time clock extension for the Micro:bit; DS3231",
+                "homepage": null,
                 "id": 247766482,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2020-03-18T01:56:23Z",
+                "open_issues": 0,
                 "owner": "gbraad",
                 "repo": "pxt-rtc-ds3231",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1394,12 +1993,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "micro:bit Makecode extension for MAX31855 thermocouple readers",
+                "homepage": null,
                 "id": 256993985,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2020-06-28T14:35:08Z",
+                "open_issues": 0,
                 "owner": "bremoran",
                 "repo": "microDriver_max31855",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -1417,12 +2021,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Control a BBC micro:bit from Node.js using BLE",
+                "homepage": null,
                 "id": 61508670,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2018-08-05T20:53:26Z",
+                "open_issues": 5,
                 "owner": "sandeepmistry",
                 "repo": "node-bbc-microbit",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1433,12 +2042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Bluetooth library for micro:bit",
+                "homepage": "https://thegecko.github.io/microbit-web-bluetooth/",
                 "id": 174854056,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-16T23:22:02Z",
+                "open_issues": 7,
                 "owner": "thegecko",
                 "repo": "microbit-web-bluetooth",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1449,12 +2063,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A javascript library to interact with BBC micro:bit using web bluetooth API",
+                "homepage": "https://antefact.github.io/microBit.js/",
                 "id": 97963633,
                 "language": "JavaScript",
+                "license": "LGPL-2.1",
                 "last_commit": "2017-07-24T12:30:28Z",
+                "open_issues": 4,
                 "owner": "antefact",
                 "repo": "microBit.js",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1465,12 +2084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Johnny-Five IO Plugin for the BBC micro:bit",
+                "homepage": null,
                 "id": 63009995,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-02-16T16:44:20Z",
+                "open_issues": 2,
                 "owner": "sandeepmistry",
                 "repo": "node-bbc-microbit-io",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1481,12 +2105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Components library for micro:bit",
+                "homepage": "https://thegecko.github.io/microbit-web-components/",
                 "id": 175891671,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-05-06T18:45:58Z",
+                "open_issues": 3,
                 "owner": "thegecko",
                 "repo": "microbit-web-components",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1497,12 +2126,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript package to manipulate the micro:bit MicroPython filesystem",
+                "homepage": "https://microbit-foundation.github.io/microbit-fs/",
                 "id": 165649886,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-14T11:28:37Z",
+                "open_issues": 10,
                 "owner": "microbit-foundation",
                 "repo": "microbit-fs",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "microbit"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1513,12 +2149,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript/JavaScript library to create micro:bit Universal Hex files.",
+                "homepage": "https://microbit-foundation.github.io/microbit-universal-hex/",
                 "id": 256492896,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-14T11:29:16Z",
+                "open_issues": 15,
                 "owner": "microbit-foundation",
                 "repo": "microbit-universal-hex",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "microbit"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1529,12 +2172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microbit FS library for NodeJS",
+                "homepage": "https://www.npmjs.com/package/ubit",
                 "id": 221596140,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-02-12T18:07:44Z",
+                "open_issues": 6,
                 "owner": "lyneca",
                 "repo": "ubit.js",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -1556,12 +2204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Arduino Core for Nordic Semiconductor nRF5 based boards",
+            "homepage": null,
             "id": 53754278,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-22T19:54:26Z",
+            "open_issues": 130,
             "owner": "sandeepmistry",
             "repo": "arduino-nRF5",
-            "stars": 953
+            "stars": 953,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -1572,12 +2225,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Starter project for Mbed OS with the micro:bit V2",
+            "homepage": null,
             "id": 186435490,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-21T16:16:55Z",
+            "open_issues": 3,
             "owner": "microbit-foundation",
             "repo": "mbedos-microbit-v2-starter",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "microbit"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -1590,12 +2250,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Micro:bit MakeCode support to act as a  Human Interface Devices (keyboard, mouse, etc.) over Bluetooth",
+                "homepage": "https://bsiever.github.io/microbit-pxt-blehid/",
                 "id": 430231054,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-04-21T18:14:33Z",
+                "open_issues": 2,
                 "owner": "bsiever",
                 "repo": "microbit-pxt-blehid",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "hid",
+                  "makecode",
+                  "microbit"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1606,12 +2275,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NRF51 Radio library, This library is working with the Microbit runtime implementation from Landcaster University",
+                "homepage": null,
                 "id": 159845326,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-12-17T14:08:57Z",
+                "open_issues": 2,
                 "owner": "tipih",
                 "repo": "NRF51_Radio_library",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1622,12 +2296,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ programs for generating video from a micro:bit",
+                "homepage": null,
                 "id": 417914161,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-10-22T18:50:13Z",
+                "open_issues": 0,
                 "owner": "blogmywiki",
                 "repo": "microbit-video",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1638,12 +2317,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LED Screen library for micro:bit (for \"Arduino Core for Nordic Semiconductor nRF5 based boards\")",
+                "homepage": null,
                 "id": 103862112,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-11-30T05:45:23Z",
+                "open_issues": 1,
                 "owner": "ht-deko",
                 "repo": "microbit_Screen",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "arduino",
+                  "microbit"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1654,12 +2341,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microbit V2 library and example code supporting NRF52 Radio and pwm (Tone, Servo).",
+                "homepage": null,
                 "id": 574233644,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-03-30T20:16:43Z",
+                "open_issues": 0,
                 "owner": "Grrtzm",
                 "repo": "MicrobitV2-HHS",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1670,12 +2362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The set of components and utilities for C++ applications using microbit-dal",
+                "homepage": null,
                 "id": 175007349,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-12-28T07:24:28Z",
+                "open_issues": 0,
                 "owner": "softgraph",
                 "repo": "microbit-dal-ext-kit",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1686,12 +2383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BBC micro:bit library for Arduino",
+                "homepage": null,
                 "id": 494600434,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-20T20:35:59Z",
+                "open_issues": 0,
                 "owner": "distintiva",
                 "repo": "distintiva_microbit_lib",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -1709,12 +2411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "example code for using microbit with arduino IDE",
+                "homepage": null,
                 "id": 102789222,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-11-15T15:22:47Z",
+                "open_issues": 5,
                 "owner": "adafruit",
                 "repo": "Adafruit_Microbit",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1725,12 +2432,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Simple Library for use with the DF Robot micro:Maqueen Robot and the BBC Micro:Bit",
+                "homepage": null,
                 "id": 149386729,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-06T02:41:43Z",
+                "open_issues": 0,
                 "owner": "kd8bxp",
                 "repo": "micro-Maqueen-Arduino-Library",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1741,12 +2453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 78840577,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2017-01-19T09:44:44Z",
+                "open_issues": 0,
                 "owner": "adamboardman",
                 "repo": "microbit-onewire",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1757,12 +2474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tinkercademy Makecode Package for the VL53L0X Time-of-Flight Range Sensor. (beta)",
+                "homepage": null,
                 "id": 133060961,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-02-11T06:35:05Z",
+                "open_issues": 0,
                 "owner": "tinkertanker",
                 "repo": "pxt-range-vl53l0x",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1773,12 +2495,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tinkercademy MakeCode package for using the KY-040 rotary encoder with the BBC micro:bit",
+                "homepage": null,
                 "id": 86545464,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-02-28T18:50:55Z",
+                "open_issues": 1,
                 "owner": "tinkertanker",
                 "repo": "pxt-rotary-encoder-ky040",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1789,12 +2516,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arduino library for accelerometer MMA8653 used in the BBC MicroBit",
+                "homepage": null,
                 "id": 363691561,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2021-05-03T15:11:03Z",
+                "open_issues": 0,
                 "owner": "lfhohmann",
                 "repo": "MMA8653",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "accelerometer",
+                  "arduino",
+                  "bbc-microbit",
+                  "imu",
+                  "mma8653"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1805,12 +2543,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for using neopixels with the BBC micro:bit",
+                "homepage": null,
                 "id": 66018104,
                 "language": "C",
+                "license": null,
                 "last_commit": "2016-08-18T18:17:33Z",
+                "open_issues": 2,
                 "owner": "elmorg",
                 "repo": "uBit_neopixel",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1821,12 +2564,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SHT20, SHT21, SHT25 driver for the Microbit",
+                "homepage": null,
                 "id": 119336856,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-02-28T04:16:29Z",
+                "open_issues": 1,
                 "owner": "tinkertanker",
                 "repo": "microDriver_SHT2x",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1837,12 +2585,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MicroDriver PCA9685 Makecode Package/Library for the MicroBit",
+                "homepage": null,
                 "id": 121192983,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2018-02-12T03:05:25Z",
+                "open_issues": 2,
                 "owner": "tinkertanker",
                 "repo": "uDriver_PCA9585",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1853,12 +2606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 136776384,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2018-06-15T22:29:02Z",
+                "open_issues": 0,
                 "owner": "ti-nspire",
                 "repo": "microbit-in-mbed-library-for-HTU21D-sensor",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -1876,12 +2634,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OS to build, deploy and securely manage billions of devices",
+                "homepage": "https://mynewt.apache.org/",
                 "id": 45165993,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T10:47:22Z",
+                "open_issues": 97,
                 "owner": "apache",
                 "repo": "mynewt-core",
-                "stars": 890
+                "stars": 890,
+                "topics": [
+                  "mynewt"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1892,12 +2657,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community contributed code (ports, drivers, etc).",
+                "homepage": null,
                 "id": 24814145,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-04-08T23:43:33Z",
+                "open_issues": 28,
                 "owner": "ChibiOS",
                 "repo": "ChibiOS-Contrib",
-                "stars": 151
+                "stars": 151,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -1915,12 +2685,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "baremetal examples for the BBC micro:bit",
+                "homepage": null,
                 "id": 86024607,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-12-31T05:49:44Z",
+                "open_issues": 1,
                 "owner": "dwelch67",
                 "repo": "microbit",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1931,12 +2706,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various examples for Zephyr OS running on the BBC Microbit Version 2",
+                "homepage": null,
                 "id": 384406614,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2024-09-23T16:13:47Z",
+                "open_issues": 0,
                 "owner": "fduignan",
                 "repo": "zephyr_bbc_microbit_v2",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1947,12 +2727,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Starter code for Northwestern course CE346 based on Microbit v2",
+                "homepage": null,
                 "id": 353447874,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-05-08T15:08:11Z",
+                "open_issues": 0,
                 "owner": "nu-ce346",
                 "repo": "nu-microbit-base",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -1976,12 +2761,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Discover the world of microcontrollers through Rust!",
+                "homepage": "https://docs.rust-embedded.org/discovery/",
                 "id": 72799153,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-21T19:05:36Z",
+                "open_issues": 108,
                 "owner": "rust-embedded",
                 "repo": "discovery",
-                "stars": 1605
+                "stars": 1605,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -1992,12 +2782,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Running Rust code on a BBC micro:bit micro-controller",
+                "homepage": null,
                 "id": 64389005,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-02T09:02:23Z",
+                "open_issues": 3,
                 "owner": "SimonSapin",
                 "repo": "rust-on-bbc-microbit",
-                "stars": 195
+                "stars": 195,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -2015,12 +2810,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust demos running on the BBC micro:bit",
+                "homepage": null,
                 "id": 165330084,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-08T05:05:17Z",
+                "open_issues": 0,
                 "owner": "dtcristo",
                 "repo": "microbit-demos",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -2031,12 +2831,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Toy project using a Cortex-M4 nRF52833 (e.g. BBC Microbit v2), Rust and a 64x32 LED panel",
+                "homepage": null,
                 "id": 583285529,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-01-03T10:39:53Z",
+                "open_issues": 0,
                 "owner": "vhiribarren",
                 "repo": "nrf52833-rgb-led-matrix-lib-rust",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "cortex-m4",
+                  "embedded",
+                  "led-matrix",
+                  "led-matrix-panel",
+                  "microbit",
+                  "nrf52833",
+                  "rust",
+                  "toy-project"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -2054,12 +2868,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A secure embedded operating system for microcontrollers",
+                "homepage": "https://www.tockos.org",
                 "id": 36428094,
                 "language": "Rust",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:58:41Z",
+                "open_issues": 200,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6428
+                "stars": 6428,
+                "topics": [
+                  "arm",
+                  "cortex-m",
+                  "embedded",
+                  "iot",
+                  "kernel",
+                  "mcu",
+                  "microcontroller",
+                  "operating-system",
+                  "risc-v",
+                  "rust",
+                  "secure-operating-system",
+                  "tock"
+                ]
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -2081,12 +2913,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ada source code and complete sample GNAT projects for selected bare-board platforms supported by GNAT.",
+            "homepage": null,
             "id": 43378137,
             "language": "Ada",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T11:27:59Z",
+            "open_issues": 23,
             "owner": "AdaCore",
             "repo": "Ada_Drivers_Library",
-            "stars": 284
+            "stars": 284,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2097,12 +2934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Examples and tutorials for Ada on the BBC micro:bit (https://microbit.org/)",
+            "homepage": null,
             "id": 300663364,
             "language": "Ada",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-10-02T16:39:54Z",
+            "open_issues": 0,
             "owner": "Fabien-Chouteau",
             "repo": "microbit_examples",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -2119,12 +2961,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IL2C - A translator for ECMA-335 CIL/MSIL to C language.",
+            "homepage": null,
             "id": 103600670,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-19T14:05:38Z",
+            "open_issues": 43,
             "owner": "kekyo",
             "repo": "IL2C",
-            "stars": 449
+            "stars": 449,
+            "topics": [
+              "aot",
+              "arduino",
+              "c",
+              "cil",
+              "csharp",
+              "dotnet",
+              "ecma335",
+              "fsharp",
+              "intermediate-language",
+              "msil",
+              "systems-programming",
+              "translator",
+              "transpiler",
+              "uefi",
+              "wdm"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2135,12 +2998,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bare metal microbit program written in zig",
+            "homepage": null,
             "id": 220672822,
             "language": "Zig",
+            "license": "MIT",
             "last_commit": "2021-10-24T00:12:43Z",
+            "open_issues": 4,
             "owner": "markfirmware",
             "repo": "zig-bare-metal-microbit",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "bare-metal",
+              "microbit",
+              "zig"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2151,12 +3023,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various apps using TinyGo",
+            "homepage": null,
             "id": 151837114,
             "language": "Go",
+            "license": null,
             "last_commit": "2022-10-31T20:42:12Z",
+            "open_issues": 5,
             "owner": "tinygo-org",
             "repo": "tinygo-zoo",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2167,12 +3044,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JIT compiler for the BBC micro:bit",
+            "homepage": null,
             "id": 131305675,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2018-04-29T13:57:42Z",
+            "open_issues": 0,
             "owner": "thomasdenney",
             "repo": "microjit",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "c-plus-plus",
+              "compiler",
+              "jit",
+              "microbit"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2183,12 +3070,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "豊四季Tiny Basic for micro:bit",
+            "homepage": null,
             "id": 115295802,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-11-19T09:30:59Z",
+            "open_issues": 0,
             "owner": "Tamakichi",
             "repo": "ttbasic_microbit",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -2205,12 +3097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Wrapper round CoreBluetooth to easily get Micro:Bit button and accelerometer data into applications running on OSX that accept OSC (e.g. Max/MSP, Supercollider, Processing) or into C++ projects",
+            "homepage": null,
             "id": 108159236,
             "language": "C++",
+            "license": null,
             "last_commit": "2019-03-11T16:34:08Z",
+            "open_issues": 3,
             "owner": "Louismac",
             "repo": "CBMicroBit",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2221,12 +3118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Swift implementation for bluetooth communication with the micro:bit",
+            "homepage": null,
             "id": 113761326,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2018-01-01T14:46:05Z",
+            "open_issues": 1,
             "owner": "phwallen",
             "repo": "microbit-swift",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2237,12 +3139,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Control a BBC micro:bit from Node.js using BLE and Haxe",
+            "homepage": null,
             "id": 86105410,
             "language": "Haxe",
+            "license": null,
             "last_commit": "2017-04-04T13:35:13Z",
+            "open_issues": 0,
             "owner": "MatthijsKamstra",
             "repo": "hx-node-bbc-microbit",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "bbc-microbit",
+              "haxe",
+              "microbit",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2253,12 +3165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for using the micro:bit with Dyalog APL on the Pi",
+            "homepage": null,
             "id": 79642851,
             "language": "APL",
+            "license": null,
             "last_commit": "2025-04-29T12:19:57Z",
+            "open_issues": 0,
             "owner": "APLPi",
             "repo": "microbit",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2269,12 +3186,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A node-red module with limited capabilities to interface with Micro:bits (by wrapping the Bitio library)",
+            "homepage": null,
             "id": 117086201,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-06-10T17:48:48Z",
+            "open_issues": 0,
             "owner": "seanmtracey",
             "repo": "node-red-contrib-bitio-wrapper",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -2293,12 +3215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IoT Machine Learning: Vibrational Anomaly Detection using Tri-Axial Accelerometer Data",
+                "homepage": null,
                 "id": 143332265,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-03T12:34:30Z",
+                "open_issues": 0,
                 "owner": "Technica-Corporation",
                 "repo": "microbit-ml",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -2309,12 +3236,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This is all of the code for the wearable toolkit, including code from the microbit output device, and the ios app",
+                "homepage": null,
                 "id": 134770335,
                 "language": "Swift",
+                "license": null,
                 "last_commit": "2020-04-23T21:45:48Z",
+                "open_issues": 0,
                 "owner": "LaboratoryForPlayfulComputation",
                 "repo": "AlpacaML",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
@@ -2336,12 +3268,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily install and configure a development environment for the BBC micro:bit in C/C++, MakeCode, and MicroPython using Vagrant (virtual machine).",
+            "homepage": null,
             "id": 56334129,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-03-28T17:09:06Z",
+            "open_issues": 0,
             "owner": "carlosperate",
             "repo": "microbit-dev-env",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "developer-tools",
+              "microbit",
+              "vagrant",
+              "virtual-machine"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2352,12 +3294,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Docker image with the BBC micro:bit C/C++ toolchain 🐳",
+            "homepage": null,
             "id": 300082968,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-06-08T22:52:42Z",
+            "open_issues": 3,
             "owner": "carlosperate",
             "repo": "docker-microbit-toolchain",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "docker",
+              "docker-image",
+              "microbit",
+              "toolchain"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2368,12 +3320,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract code from Universal Hex files generated by the PXT-based Microsoft MakeCode IDE for micro:bit",
+            "homepage": null,
             "id": 529217276,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-21T06:41:53Z",
+            "open_issues": 0,
             "owner": "maehw",
             "repo": "microbit-pxt-code-extractor",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "bbc-microbit",
+              "intelhex",
+              "makecode",
+              "makecode-graphical-programming",
+              "makecode-programming",
+              "makecode-project",
+              "microbit",
+              "microsoft-makecode",
+              "pxt",
+              "pxt-microbit"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -2390,12 +3358,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WebPage/Site that can graph data collected on the micro:bit. ",
+            "homepage": null,
             "id": 216463738,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-05T07:22:10Z",
+            "open_issues": 33,
             "owner": "bsiever",
             "repo": "microbit-usb-grapher",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2406,12 +3379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PWA for sending DPAD events to micro:bit devices over bluetooth.",
+            "homepage": "https://jakobst1n.github.io/microbit-gamepad/",
             "id": 589345510,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-06T20:05:44Z",
+            "open_issues": 0,
             "owner": "JakobST1n",
             "repo": "microbit-gamepad",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2422,12 +3400,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert MIDI notes to notes-string for micro:bit.",
+            "homepage": null,
             "id": 564743653,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-12T06:01:07Z",
+            "open_issues": 0,
             "owner": "63rabbits",
             "repo": "midi2ubit",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "microbit",
+              "midi",
+              "music"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -2444,12 +3431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This application contains a series of demonstrations which use the BBC micro:bit Bluetooth profile in various ways. It's purpose is both to act as a demo and to provide a source of example code which shows how to use the Bluetooth profile from Android",
+            "homepage": null,
             "id": 73845611,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-03-26T09:26:50Z",
+            "open_issues": 1,
             "owner": "microbit-foundation",
             "repo": "microbit-blue",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2460,12 +3452,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "We've built a Swift Playground that lets you program the micro:bit. This also includes a Swift API for interacting with the micro:bit.",
+            "homepage": "https://microbit.org/guide/swift-playgrounds/",
             "id": 136067025,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2021-10-10T17:59:16Z",
+            "open_issues": 0,
             "owner": "microbit-foundation",
             "repo": "microbit-swift-playgrounds",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2476,12 +3473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " micro:bit official Android application code. The application is free to download from https://play.google.com/store/apps/details?id=com.samsung.microbit",
+            "homepage": null,
             "id": 119838634,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-22T10:27:26Z",
+            "open_issues": 34,
             "owner": "microbit-foundation",
             "repo": "microbit-android",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2492,12 +3494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multiplayer snake game. Controlled via bluetooth on micro:bits, and hosted on an Android device.",
+            "homepage": null,
             "id": 126509709,
             "language": "Kotlin",
+            "license": null,
             "last_commit": "2019-01-27T12:22:35Z",
+            "open_issues": 0,
             "owner": "novucs",
             "repo": "microbit-slither",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -2514,12 +3521,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
+            "homepage": "https://owlink.org",
             "id": 341208122,
             "language": "Swift",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-17T12:23:59Z",
+            "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13469
+            "stars": 13469,
+            "topics": [
+              "airtag",
+              "apple",
+              "bluetooth",
+              "find-my",
+              "location-tracker",
+              "macos",
+              "microbit",
+              "offline-finding",
+              "reverse-engineering"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2530,12 +3552,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bluetooth Low Energy Swiss-army knife",
+            "homepage": null,
             "id": 143916698,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-04T20:31:17Z",
+            "open_issues": 28,
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2108
+            "stars": 2108,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2546,12 +3573,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "  Mirage is a powerful and modular framework dedicated to the security analysis of wireless communications.",
+            "homepage": "https://homepages.laas.fr/rcayre/mirage-documentation",
             "id": 203883338,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-13T13:52:54Z",
+            "open_issues": 21,
             "owner": "RCayre",
             "repo": "mirage",
-            "stars": 318
+            "stars": 318,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2562,12 +3594,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Micro:Bit Radio framework",
+            "homepage": null,
             "id": 98619546,
             "language": "C",
+            "license": null,
             "last_commit": "2022-10-27T14:17:03Z",
+            "open_issues": 8,
             "owner": "virtualabs",
             "repo": "radiobit",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2578,12 +3615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenBeacon.org Active 2.4 GHz RFID tracking for nRF51822",
+            "homepage": "https://www.openbeacon.org",
             "id": 20157291,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-20T15:28:45Z",
+            "open_issues": 2,
             "owner": "meriac",
             "repo": "openbeacon-ng",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -2600,12 +3642,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://daplink.io",
             "id": 24571059,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T23:24:18Z",
+            "open_issues": 140,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2794
+            "stars": 2794,
+            "topics": [
+              "arm",
+              "cmsis-dap",
+              "cortex-m",
+              "debug",
+              "embedded",
+              "firmware",
+              "mbed",
+              "mcu",
+              "microcontroller"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2616,12 +3673,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript interface to CMSIS-DAP",
+            "homepage": "https://armmbed.github.io/dapjs",
             "id": 97221346,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-29T23:36:16Z",
+            "open_issues": 10,
             "owner": "ARMmbed",
             "repo": "dapjs",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2632,12 +3694,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebUSB Utils for Micro:bit",
+            "homepage": null,
             "id": 213304216,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-09-23T13:49:08Z",
+            "open_issues": 2,
             "owner": "bsiever",
             "repo": "microbit-webusb",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2648,12 +3715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Taken Over By Shad0w For Responsible Disclosure ",
+            "homepage": null,
             "id": 1033350269,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-06T17:18:10Z",
+            "open_issues": 0,
             "owner": "mbedmicro",
             "repo": "pyOCD",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -2670,12 +3742,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "micro:bit Reference Design",
+            "homepage": "http://tech.microbit.org/hardware/reference-design",
             "id": 71304171,
             "language": "Scheme",
+            "license": null,
             "last_commit": "2021-03-29T13:48:51Z",
+            "open_issues": 10,
             "owner": "microbit-foundation",
             "repo": "microbit-reference-design",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2686,12 +3763,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hardware designs for the BBC micro:bit",
+            "homepage": "http://tech.microbit.org/",
             "id": 83573581,
             "language": null,
+            "license": null,
             "last_commit": "2021-03-19T12:45:34Z",
+            "open_issues": 1,
             "owner": "bbcmicrobit",
             "repo": "hardware",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2702,12 +3784,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The schematic and Bill of Material for the BBC micro:bit V2",
+            "homepage": null,
             "id": 349148973,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2022-08-18T17:11:58Z",
+            "open_issues": 2,
             "owner": "microbit-foundation",
             "repo": "microbit-v2-hardware",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2718,12 +3805,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KiCad component library and footprint library for micro:bit edge connector",
+            "homepage": null,
             "id": 88047933,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-11-09T22:54:03Z",
+            "open_issues": 0,
             "owner": "anthonykirby",
             "repo": "kicad_microbit_connector",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2734,12 +3826,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Firmware for BBC Micro:bit sumo bot",
+            "homepage": null,
             "id": 231663190,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-27T13:54:22Z",
+            "open_issues": 3,
             "owner": "hansj66",
             "repo": "micro-bot",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2750,12 +3847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BBC Microbit Edge Connector component library and PCB footprint for Kicad",
+            "homepage": null,
             "id": 135180664,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-05-28T15:53:23Z",
+            "open_issues": 1,
             "owner": "JordanElectronics",
             "repo": "kicad-microbit-edge-connector",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2766,12 +3868,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The SparkFun moto:bit is a fully loaded “carrier” board for the micro:bit that, when combined with the micro:bit, provides you with a fully functional robotics platform.",
+            "homepage": "https://www.sparkun.com",
             "id": 86623093,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2020-01-22T20:29:50Z",
+            "open_issues": 1,
             "owner": "sparkfun",
             "repo": "Micro_Bit_Moto_Bit",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "microbit",
+              "motor-driver",
+              "robotics",
+              "sparkfun",
+              "sparkfun-products"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2782,12 +3895,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A hardware badge for a hardware hackathon",
+            "homepage": "https://now.makezurich.ch/project/31",
             "id": 77792607,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2017-02-26T10:03:09Z",
+            "open_issues": 0,
             "owner": "makezurich",
             "repo": "micro-bit-badge",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2798,12 +3916,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add on weather station module for the micro:bit ecosystem. ",
+            "homepage": null,
             "id": 85602115,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2020-05-11T09:04:41Z",
+            "open_issues": 4,
             "owner": "sparkfun",
             "repo": "Micro_Bit_Weather_Bit",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "microbit",
+              "sparkfun",
+              "sparkfun-products"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2814,12 +3941,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Micro:Bit game controller expansion board.",
+            "homepage": "https://www.sparkfun.com",
             "id": 84996763,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-14T17:00:56Z",
+            "open_issues": 1,
             "owner": "sparkfun",
             "repo": "Micro_Bit_Controller_Bit",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "microbit",
+              "sparkfun",
+              "sparkfun-products"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2830,12 +3966,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KiCad files for a board that lets you hook up NeoPixels to a BBC micro:bit.  The board also has a couple of slide potentiometers for input.",
+            "homepage": null,
             "id": 149022761,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2021-10-22T05:02:15Z",
+            "open_issues": 0,
             "owner": "mignon-p",
             "repo": "NeoBit",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "kicad",
+              "microbit",
+              "neopixel",
+              "oshw",
+              "potentiometer"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2846,12 +3993,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LoRaWAN interface for BBC Microbit including power control timer",
+            "homepage": null,
             "id": 63963846,
             "language": "Eagle",
+            "license": null,
             "last_commit": "2017-09-10T20:17:01Z",
+            "open_issues": 0,
             "owner": "ribbotson",
             "repo": "LoRaWAN_MicroBit",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2862,12 +4014,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eagle libraries for the microbit edge connectors",
+            "homepage": null,
             "id": 88050174,
             "language": null,
+            "license": null,
             "last_commit": "2017-04-12T12:39:23Z",
+            "open_issues": 0,
             "owner": "proto-pic",
             "repo": "micro-bit-eagle-libraries",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2878,12 +4035,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn-to-solder kit for the BBC micro:bit",
+            "homepage": null,
             "id": 816495384,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-16T09:11:49Z",
+            "open_issues": 0,
             "owner": "devices-lab",
             "repo": "solderbit-gamepad",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "microbit",
+              "pcb",
+              "soldering"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2894,12 +4060,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reproduction of the Micro:bit v2 PCB edge connector for KiCAD",
+            "homepage": null,
             "id": 635728918,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-06-26T11:08:59Z",
+            "open_issues": 1,
             "owner": "JohnVidler",
             "repo": "kicad-microbit-v2-edge-connector",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2910,12 +4081,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Breakout board for the extra pins on the BBC micro:bit",
+            "homepage": null,
             "id": 63098522,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-06-18T16:01:41Z",
+            "open_issues": 0,
             "owner": "sparkfun",
             "repo": "Micro_Bit_Breakout",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "microbit",
+              "sparkfun",
+              "sparkfun-products"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2926,12 +4106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The hardware repo for the Core Electronics PiicoDev adapter for Micro:bit",
+            "homepage": null,
             "id": 353226680,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-11-01T23:19:34Z",
+            "open_issues": 0,
             "owner": "CoreElectronics",
             "repo": "CE-PiicoDev-Adapter-for-Microbit",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -2948,12 +4133,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An SVG of the micro:bit",
+            "homepage": null,
             "id": 101759101,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-03-30T13:26:57Z",
+            "open_issues": 0,
             "owner": "microbit-foundation",
             "repo": "microbit-svg",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2964,12 +4154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 47325026,
             "language": null,
+            "license": null,
             "last_commit": "2017-06-26T18:34:29Z",
+            "open_issues": 0,
             "owner": "topshed",
             "repo": "FritzingParts",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -2980,12 +4175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An SVG file template for drawing BBC micro:bit wiring diagrams using alligator clips.",
+            "homepage": null,
             "id": 115212221,
             "language": null,
+            "license": "MIT",
             "last_commit": "2021-11-15T16:14:01Z",
+            "open_issues": 0,
             "owner": "simonmonk",
             "repo": "mm_mb_diagramming_kit",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -3002,12 +4202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn your micro:bit into a Game Controller",
+            "homepage": "https://musab.netlify.com/projects/MicroBike",
             "id": 113768888,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-03-02T20:19:57Z",
+            "open_issues": 0,
             "owner": "musabkilic",
             "repo": "MicroBike",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3018,12 +4223,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The smart garden ornaments project! 🦩🌱🤖",
+            "homepage": null,
             "id": 261628203,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-04-30T23:43:13Z",
+            "open_issues": 3,
             "owner": "jimbobbennett",
             "repo": "smart-garden-ornaments",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "blocks",
+              "gnomes",
+              "microbit",
+              "python",
+              "raspberrypi"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3034,12 +4250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "micro:bit scanner for COVID-19 BLE Exposure Notifications",
+            "homepage": null,
             "id": 273085621,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-28T12:11:28Z",
+            "open_issues": 0,
             "owner": "znuh",
             "repo": "microbit-corona-scanner",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3050,12 +4271,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The micro:bit finds various of BLE Beacons, and display the ID to LEDs.",
+            "homepage": null,
             "id": 107934101,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-12T19:17:35Z",
+            "open_issues": 2,
             "owner": "kshoji",
             "repo": "microbit-beacon-finder",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "altbeacon",
+              "beacon",
+              "eddystone",
+              "ibeacon",
+              "microbit"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3066,12 +4298,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Play the classic Pong game on a TV - using BBC Microbits as paddles. Bluetooth also supported!",
+            "homepage": null,
             "id": 122878470,
             "language": "C++",
+            "license": null,
             "last_commit": "2018-03-20T20:44:49Z",
+            "open_issues": 0,
             "owner": "linker3000",
             "repo": "Microbit-TVPong",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3082,12 +4319,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gesture controlled robot unicorn made of cardboard, glitter and microbits",
+            "homepage": null,
             "id": 190135321,
             "language": null,
+            "license": null,
             "last_commit": "2019-06-11T20:08:26Z",
+            "open_issues": 0,
             "owner": "helenleigh",
             "repo": "robot-unicorn",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3098,12 +4340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code base for an an app controlling a microbit over bluetooth and communicating with webrtc",
+            "homepage": null,
             "id": 138578288,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-09-25T10:17:25Z",
+            "open_issues": 24,
             "owner": "gunhaxxor",
             "repo": "robbit",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3114,12 +4361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LightBit is a little Python script that let's you do cool stuff by sliding your hand left and right, just like in a Sci-Fi movie!",
+            "homepage": "https://musab.netlify.app/projects/lightbit/",
             "id": 222128594,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-03-02T20:32:40Z",
+            "open_issues": 0,
             "owner": "musabkilic",
             "repo": "lightbit",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3130,12 +4382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using Micro:bits as educational sensors that will wirelessly talk back to a Raspberry Pi via a Micro:bit gateway.",
+            "homepage": null,
             "id": 516139695,
             "language": "HTML",
+            "license": null,
             "last_commit": "2022-07-27T15:43:55Z",
+            "open_issues": 0,
             "owner": "RBilsland",
             "repo": "Microbit-Sensor-Network",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3146,12 +4403,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remotely-triggered speaker-grid for Manchester Science Festival, using tablets and micro:bits",
+            "homepage": null,
             "id": 95439434,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-06-04T12:46:58Z",
+            "open_issues": 0,
             "owner": "jrmedd",
             "repo": "SonicPixels",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "microbit",
+              "midi",
+              "osc",
+              "speakers"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3162,12 +4429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Circuit and code to display an audio spectrum bar chart on the BBC micro bit. ",
+            "homepage": null,
             "id": 59113197,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-19T08:27:07Z",
+            "open_issues": 0,
             "owner": "linker3000",
             "repo": "micro-bit_spectrum",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3178,12 +4450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create a speed trap for toy cars with three Microbits, torches, radio and REPL in Python.",
+            "homepage": null,
             "id": 185213000,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-05-06T15:38:55Z",
+            "open_issues": 0,
             "owner": "astrotutor9",
             "repo": "Microbit-Racing-Car-Timing-Gate",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -3200,12 +4477,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Read data from micro:bit using Bluetooth from Linux",
+            "homepage": null,
             "id": 110753203,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-16T19:54:23Z",
+            "open_issues": 0,
             "owner": "alcir",
             "repo": "microbit-ble",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "bluepy",
+              "bluetooth",
+              "linux",
+              "microbit",
+              "microbit-ble",
+              "python",
+              "uart"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -3227,12 +4517,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microbit networking book in python",
+                "homepage": null,
                 "id": 197155248,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-24T20:05:03Z",
+                "open_issues": 1,
                 "owner": "nominetresearch",
                 "repo": "microbit-networking-book-python",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -3243,24 +4538,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 225207305,
                 "language": "Shell",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2021-09-02T11:35:48Z",
+                "open_issues": 0,
                 "owner": "jemole",
                 "repo": "microbit-networking-book",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 160529351,
             "language": "Shell",
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2020-03-23T22:37:03Z",
+            "open_issues": 8,
             "owner": "nominetresearch",
             "repo": "microbit-networking-book",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -3277,12 +4582,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A FREE comprehensive online Python development tutorial FOR KIDS utilizing an official BBC micro:bit Development Board going step-by-step into the world of Python for microcontrollers.",
+            "homepage": null,
             "id": 296158004,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:23:31Z",
+            "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
-            "stars": 796
+            "stars": 796,
+            "topics": [
+              "article",
+              "educator",
+              "educators",
+              "kids",
+              "kids-utilizing",
+              "kidscancode",
+              "linkedin",
+              "microbit",
+              "microcontroller",
+              "microcontrollers",
+              "micropython",
+              "mu",
+              "python",
+              "pythonforbeginner",
+              "pythonforeverybody",
+              "pythonforkids",
+              "pythonlearning",
+              "stem",
+              "step-lessons",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3293,12 +4624,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Basic lessons on programming with a BBC micro:bit in Python",
+            "homepage": null,
             "id": 176409603,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-06-01T05:48:34Z",
+            "open_issues": 0,
             "owner": "PhonicCanine",
             "repo": "microbit-lessons",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -3309,12 +4645,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and materials for learning to program with the BBC micro:bit",
+            "homepage": null,
             "id": 113568263,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2019-12-04T02:52:32Z",
+            "open_issues": 0,
             "owner": "LearnToProgramRoanoke",
             "repo": "Learn-microbit",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "microbit",
+              "microbit-scripts",
+              "micropython",
+              "python",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -3331,12 +4678,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An archive of all the emails sent to the now defunct microbit@python.org mailing list.",
+            "homepage": null,
             "id": 129374744,
             "language": null,
+            "license": null,
             "last_commit": "2018-04-13T08:45:56Z",
+            "open_issues": 1,
             "owner": "ntoll",
             "repo": "microbit_mailman_archive",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -3353,12 +4705,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Single button press to mute/unmute all system microphones, using a microcontroller (Arduino/Microbit)",
+            "homepage": null,
             "id": 320979569,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-05-19T02:54:34Z",
+            "open_issues": 3,
             "owner": "dakota-mewt",
             "repo": "mewt",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         }
@@ -3367,15 +4724,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:43:15.300Z",
+    "last_updated": "2026-08-29T04:35:10.656Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of BBC micro:bit resources.",
+      "homepage": "https://bsky.app/profile/awesomemicrobit.bsky.social",
       "id": 65635555,
       "language": "HTML",
+      "license": "CC0-1.0",
       "last_commit": "2026-05-21T21:57:24Z",
+      "open_issues": 6,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
-      "stars": 1196
+      "stars": 1196,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "microbit"
+      ]
     },
     "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
     "enhanced_repository": "enhansome/enhansome-microbit",
