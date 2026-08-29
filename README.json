@@ -15,8 +15,9 @@
             "last_commit": "2025-06-12T13:43:37Z",
             "owner": "openblockcc",
             "repo": "openblock-desktop",
-            "stars": 297
-          }
+            "stars": 298
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "children": [
@@ -33,7 +34,8 @@
                 "owner": "kawasaki",
                 "repo": "pyscrlink",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "microbit-more",
                 "repo": "mbit-more-v2",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "MrYsLab",
                 "repo": "s2m",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "memakura",
                 "repo": "s2microbit-ble",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -106,7 +111,8 @@
                 "owner": "rhubarbdog",
                 "repo": "microbit-radio",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -121,7 +127,8 @@
                 "owner": "rhubarbdog",
                 "repo": "decimal-numbers",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -143,7 +150,8 @@
                 "owner": "fizban99",
                 "repo": "microbit_ssd1306",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -158,7 +166,8 @@
                 "owner": "shaoziyang",
                 "repo": "microbit-lib",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -173,7 +182,8 @@
                 "owner": "IDWizard",
                 "repo": "uln2003",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -187,8 +197,9 @@
                 "last_commit": "2017-01-28T16:02:32Z",
                 "owner": "gingemonster",
                 "repo": "PCA9685-Python-Microbit",
-                "stars": 27
-              }
+                "stars": 26
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "microbit-playground",
                 "repo": "microbit-servo-class",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "fizban99",
                 "repo": "microbit_hcsr04",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -233,7 +246,8 @@
                 "owner": "mcauser",
                 "repo": "microbit-tm1637",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -248,7 +262,8 @@
                 "owner": "matneee",
                 "repo": "microbit-nokia5110-PCD8544-lcd",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -263,7 +278,8 @@
                 "owner": "fizban99",
                 "repo": "microbit_ssd1306_7seg",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -278,7 +294,8 @@
                 "owner": "fizban99",
                 "repo": "microbit_ssd1306spi",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -293,7 +310,8 @@
                 "owner": "fizban99",
                 "repo": "microbit_us100",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -308,7 +326,8 @@
                 "owner": "microbit-playground",
                 "repo": "matrix7seg",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -323,7 +342,8 @@
                 "owner": "rhubarbdog",
                 "repo": "microbit-dht11",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -338,7 +358,8 @@
                 "owner": "PiSupply",
                 "repo": "rak811-python",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -353,7 +374,8 @@
                 "owner": "CoreElectronics",
                 "repo": "CE-PiicoDev-BME280-MicroPython-Module",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -368,7 +390,8 @@
                 "owner": "Afantor",
                 "repo": "Microbit_SSD1306_OLED",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -383,7 +406,8 @@
                 "owner": "MrYsLab",
                 "repo": "kitronik_motor_board",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -398,7 +422,8 @@
                 "owner": "Krakenus",
                 "repo": "microbit-cutebot-micropython",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -413,7 +438,8 @@
                 "owner": "CoreElectronics",
                 "repo": "CE-PiicoDev-TMP117-MicroPython-Module",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -428,7 +454,8 @@
                 "owner": "oivron",
                 "repo": "bitbotxl",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -443,7 +470,8 @@
                 "owner": "mcauser",
                 "repo": "microbit-dht12",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -458,7 +486,8 @@
                 "owner": "CoreElectronics",
                 "repo": "CE-PiicoDev-VEML6030-MicroPython-Module",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -473,7 +502,8 @@
                 "owner": "titimoby",
                 "repo": "microbit4all",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -488,7 +518,8 @@
                 "owner": "mcauser",
                 "repo": "deshipu-micropython-ht16k33",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -503,7 +534,8 @@
                 "owner": "fizban99",
                 "repo": "microbit_ky038",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -518,7 +550,8 @@
                 "owner": "jemerlia",
                 "repo": "microbit-BoschBME280-P-T-and-H-Sensor",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -533,7 +566,8 @@
                 "owner": "mcauser",
                 "repo": "microbit-my9221",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -548,7 +582,8 @@
                 "owner": "ti-nspire",
                 "repo": "microbit_MicroPython_MCP3008",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -563,7 +598,8 @@
                 "owner": "rhubarbdog",
                 "repo": "microbit-mpr121-keypad",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -578,7 +614,8 @@
                 "owner": "matneee",
                 "repo": "microbit-I2C-EEPROM-24LCxxx-Read-Write",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -593,7 +630,8 @@
                 "owner": "mcauser",
                 "repo": "microbit-am2320",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -608,7 +646,8 @@
                 "owner": "ti-nspire",
                 "repo": "microbit-in-micropython-library-for-HTU21D-sensor",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -630,7 +669,8 @@
                 "owner": "ukBaz",
                 "repo": "python-bluezero",
                 "stars": 422
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -645,7 +685,8 @@
                 "owner": "whaleygeek",
                 "repo": "bitio",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -660,7 +701,8 @@
                 "owner": "janickr",
                 "repo": "kaspersmicrobit",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -675,7 +717,8 @@
                 "owner": "ntoll",
                 "repo": "microperi",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -697,7 +740,8 @@
                 "owner": "ntoll",
                 "repo": "uflash",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -712,7 +756,8 @@
                 "owner": "ntoll",
                 "repo": "microfs",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -727,7 +772,8 @@
                 "owner": "ntoll",
                 "repo": "microrepl",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -742,7 +788,8 @@
                 "owner": "microbit-foundation",
                 "repo": "micropython-microbit-stubs",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -757,7 +804,8 @@
                 "owner": "oivron",
                 "repo": "microbit-stubs",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -785,7 +833,8 @@
                 "owner": "kshoji",
                 "repo": "pxt-bluetooth-keyboard",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -800,7 +849,8 @@
                 "owner": "bsiever",
                 "repo": "microbit-pxt-blehid",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -815,7 +865,8 @@
                 "owner": "kshoji",
                 "repo": "pxt-bluetooth-gamepad",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -830,7 +881,8 @@
                 "owner": "microsoft",
                 "repo": "pxt-bluedot",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -845,7 +897,8 @@
                 "owner": "bsiever",
                 "repo": "microbit-pxt-timeanddate",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -860,7 +913,8 @@
                 "owner": "kshoji",
                 "repo": "pxt-bluetooth-mouse",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -875,7 +929,8 @@
                 "owner": "RBilsland",
                 "repo": "pxt-sonicpiosc",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -890,7 +945,8 @@
                 "owner": "kshoji",
                 "repo": "pxt-bluetooth-beacons",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -905,7 +961,8 @@
                 "owner": "jaustin",
                 "repo": "pxt-musichelpers",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -920,7 +977,8 @@
                 "owner": "robo-technical-group",
                 "repo": "pxt-microbit-timers",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": "To add an extension to MakeCode find the \"Extensions\" option in the Settings menu or in the \"Advance\" toolbox category.\nThe link below contains a list of the officially approved extensions, and they can be loaded by by searching for their name in the \"Extensions\" screen.\nThe following extensions can be added into MakeCode by copying the GitHub URL and pasting it into the search box of the \"Extensions\" screen.",
@@ -942,7 +1000,8 @@
                 "owner": "philipphenkel",
                 "repo": "pxt-powerfunctions",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -957,7 +1016,8 @@
                 "owner": "lioujj",
                 "repo": "pxt-IR",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -972,7 +1032,8 @@
                 "owner": "lioujj",
                 "repo": "pxt-mp3",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -987,7 +1048,8 @@
                 "owner": "DFRobot",
                 "repo": "pxt-ds18b20",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1002,7 +1064,8 @@
                 "owner": "Shorts1999",
                 "repo": "pxt-smartmatrix",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1017,7 +1080,8 @@
                 "owner": "ADataDate",
                 "repo": "pxt-airQuality",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1032,7 +1096,8 @@
                 "owner": "bsiever",
                 "repo": "microbit-dstemp",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1047,7 +1112,8 @@
                 "owner": "tinkertanker",
                 "repo": "pxt-range-vl53l0x",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1062,7 +1128,8 @@
                 "owner": "DoraLC",
                 "repo": "pxt-MLX90614",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1077,7 +1144,8 @@
                 "owner": "CaptainCredible",
                 "repo": "pxt-MCP23017",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1092,7 +1160,8 @@
                 "owner": "ubirch",
                 "repo": "pxt-ubirch",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1107,7 +1176,8 @@
                 "owner": "lioujj",
                 "repo": "pxt-oled",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1122,7 +1192,8 @@
                 "owner": "DoraLC",
                 "repo": "pxt-tcs3200-color-sensor",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1137,7 +1208,8 @@
                 "owner": "techcampuk",
                 "repo": "pxt-invent",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1152,7 +1224,8 @@
                 "owner": "tinkertanker",
                 "repo": "pxt-realtimeclock-ds1307",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1167,7 +1240,8 @@
                 "owner": "tinkertanker",
                 "repo": "pxt-alphanumeric-ht16k33",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1182,7 +1256,8 @@
                 "owner": "tinkertanker",
                 "repo": "microDriver_SHT2x",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1197,7 +1272,8 @@
                 "owner": "tinkertanker",
                 "repo": "uDriver_PCA9585",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1212,7 +1288,8 @@
                 "owner": "bsiever",
                 "repo": "microbit-dstemp-2wire",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1227,7 +1304,8 @@
                 "owner": "HoneycombKits",
                 "repo": "pxt-HoneyBit",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1242,7 +1320,8 @@
                 "owner": "sabas1080",
                 "repo": "uBit_BMP085",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1257,7 +1336,8 @@
                 "owner": "keigan-motor",
                 "repo": "pxt-KeiganMotor",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1272,7 +1352,8 @@
                 "owner": "vijairaj",
                 "repo": "pxt-adafruit-motor-driver",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1287,7 +1368,8 @@
                 "owner": "51bit",
                 "repo": "esp01",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1302,7 +1384,8 @@
                 "owner": "gbraad",
                 "repo": "pxt-rtc-ds3231",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1317,7 +1400,8 @@
                 "owner": "bremoran",
                 "repo": "microDriver_max31855",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -1339,7 +1423,8 @@
                 "owner": "sandeepmistry",
                 "repo": "node-bbc-microbit",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1354,7 +1439,8 @@
                 "owner": "thegecko",
                 "repo": "microbit-web-bluetooth",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1369,7 +1455,8 @@
                 "owner": "antefact",
                 "repo": "microBit.js",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1384,7 +1471,8 @@
                 "owner": "sandeepmistry",
                 "repo": "node-bbc-microbit-io",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1399,7 +1487,8 @@
                 "owner": "thegecko",
                 "repo": "microbit-web-components",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1414,7 +1503,8 @@
                 "owner": "microbit-foundation",
                 "repo": "microbit-fs",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1429,7 +1519,8 @@
                 "owner": "microbit-foundation",
                 "repo": "microbit-universal-hex",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1444,7 +1535,8 @@
                 "owner": "lyneca",
                 "repo": "ubit.js",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -1470,7 +1562,8 @@
             "owner": "sandeepmistry",
             "repo": "arduino-nRF5",
             "stars": 953
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -1485,7 +1578,8 @@
             "owner": "microbit-foundation",
             "repo": "mbedos-microbit-v2-starter",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "children": [
@@ -1502,7 +1596,8 @@
                 "owner": "bsiever",
                 "repo": "microbit-pxt-blehid",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1517,7 +1612,8 @@
                 "owner": "tipih",
                 "repo": "NRF51_Radio_library",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1532,7 +1628,8 @@
                 "owner": "blogmywiki",
                 "repo": "microbit-video",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1547,7 +1644,8 @@
                 "owner": "ht-deko",
                 "repo": "microbit_Screen",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1562,7 +1660,8 @@
                 "owner": "Grrtzm",
                 "repo": "MicrobitV2-HHS",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1577,7 +1676,8 @@
                 "owner": "softgraph",
                 "repo": "microbit-dal-ext-kit",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1592,7 +1692,8 @@
                 "owner": "distintiva",
                 "repo": "distintiva_microbit_lib",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -1614,7 +1715,8 @@
                 "owner": "adafruit",
                 "repo": "Adafruit_Microbit",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1629,7 +1731,8 @@
                 "owner": "kd8bxp",
                 "repo": "micro-Maqueen-Arduino-Library",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1644,7 +1747,8 @@
                 "owner": "adamboardman",
                 "repo": "microbit-onewire",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1659,7 +1763,8 @@
                 "owner": "tinkertanker",
                 "repo": "pxt-range-vl53l0x",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1674,7 +1779,8 @@
                 "owner": "tinkertanker",
                 "repo": "pxt-rotary-encoder-ky040",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1689,7 +1795,8 @@
                 "owner": "lfhohmann",
                 "repo": "MMA8653",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1704,7 +1811,8 @@
                 "owner": "elmorg",
                 "repo": "uBit_neopixel",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1719,7 +1827,8 @@
                 "owner": "tinkertanker",
                 "repo": "microDriver_SHT2x",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1734,7 +1843,8 @@
                 "owner": "tinkertanker",
                 "repo": "uDriver_PCA9585",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1749,7 +1859,8 @@
                 "owner": "ti-nspire",
                 "repo": "microbit-in-mbed-library-for-HTU21D-sensor",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -1767,11 +1878,12 @@
                 "archived": false,
                 "id": 45165993,
                 "language": "C",
-                "last_commit": "2026-08-27T09:01:32Z",
+                "last_commit": "2026-08-28T10:47:22Z",
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 890
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1786,7 +1898,8 @@
                 "owner": "ChibiOS",
                 "repo": "ChibiOS-Contrib",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -1808,7 +1921,8 @@
                 "owner": "dwelch67",
                 "repo": "microbit",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1823,7 +1937,8 @@
                 "owner": "fduignan",
                 "repo": "zephyr_bbc_microbit_v2",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1838,7 +1953,8 @@
                 "owner": "nu-ce346",
                 "repo": "nu-microbit-base",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -1865,8 +1981,9 @@
                 "last_commit": "2026-03-21T19:05:36Z",
                 "owner": "rust-embedded",
                 "repo": "discovery",
-                "stars": 1603
-              }
+                "stars": 1605
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1881,7 +1998,8 @@
                 "owner": "SimonSapin",
                 "repo": "rust-on-bbc-microbit",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -1903,7 +2021,8 @@
                 "owner": "dtcristo",
                 "repo": "microbit-demos",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -1918,7 +2037,8 @@
                 "owner": "vhiribarren",
                 "repo": "nrf52833-rgb-led-matrix-lib-rust",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -1936,11 +2056,12 @@
                 "archived": false,
                 "id": 36428094,
                 "language": "Rust",
-                "last_commit": "2026-08-27T22:26:40Z",
+                "last_commit": "2026-08-28T20:58:41Z",
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6425
-              }
+                "stars": 6428
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -1966,7 +2087,8 @@
             "owner": "AdaCore",
             "repo": "Ada_Drivers_Library",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -1981,7 +2103,8 @@
             "owner": "Fabien-Chouteau",
             "repo": "microbit_examples",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "🐦 Ada"
@@ -2002,7 +2125,8 @@
             "owner": "kekyo",
             "repo": "IL2C",
             "stars": 449
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2017,7 +2141,8 @@
             "owner": "markfirmware",
             "repo": "zig-bare-metal-microbit",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2032,7 +2157,8 @@
             "owner": "tinygo-org",
             "repo": "tinygo-zoo",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2047,7 +2173,8 @@
             "owner": "thomasdenney",
             "repo": "microjit",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2062,7 +2189,8 @@
             "owner": "Tamakichi",
             "repo": "ttbasic_microbit",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "🚩 Other Languages"
@@ -2083,7 +2211,8 @@
             "owner": "Louismac",
             "repo": "CBMicroBit",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2098,7 +2227,8 @@
             "owner": "phwallen",
             "repo": "microbit-swift",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2113,7 +2243,8 @@
             "owner": "MatthijsKamstra",
             "repo": "hx-node-bbc-microbit",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2128,7 +2259,8 @@
             "owner": "APLPi",
             "repo": "microbit",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2143,7 +2275,8 @@
             "owner": "seanmtracey",
             "repo": "node-red-contrib-bitio-wrapper",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "🎚️ Interaction Languages"
@@ -2166,7 +2299,8 @@
                 "owner": "Technica-Corporation",
                 "repo": "microbit-ml",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -2181,7 +2315,8 @@
                 "owner": "LaboratoryForPlayfulComputation",
                 "repo": "AlpacaML",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "description": null,
@@ -2207,7 +2342,8 @@
             "owner": "carlosperate",
             "repo": "microbit-dev-env",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2222,7 +2358,8 @@
             "owner": "carlosperate",
             "repo": "docker-microbit-toolchain",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2237,7 +2374,8 @@
             "owner": "maehw",
             "repo": "microbit-pxt-code-extractor",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "🛠️ Programming Tools"
@@ -2258,7 +2396,8 @@
             "owner": "bsiever",
             "repo": "microbit-usb-grapher",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2273,7 +2412,8 @@
             "owner": "JakobST1n",
             "repo": "microbit-gamepad",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2288,7 +2428,8 @@
             "owner": "63rabbits",
             "repo": "midi2ubit",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "🧰 micro:bit Tools"
@@ -2309,7 +2450,8 @@
             "owner": "microbit-foundation",
             "repo": "microbit-blue",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2324,7 +2466,8 @@
             "owner": "microbit-foundation",
             "repo": "microbit-swift-playgrounds",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2339,7 +2482,8 @@
             "owner": "microbit-foundation",
             "repo": "microbit-android",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2354,7 +2498,8 @@
             "owner": "novucs",
             "repo": "microbit-slither",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "📱 Mobile Apps"
@@ -2374,8 +2519,9 @@
             "last_commit": "2026-08-17T12:23:59Z",
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13468
-          }
+            "stars": 13469
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2390,7 +2536,8 @@
             "owner": "virtualabs",
             "repo": "btlejack",
             "stars": 2108
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2405,7 +2552,8 @@
             "owner": "RCayre",
             "repo": "mirage",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2420,7 +2568,8 @@
             "owner": "virtualabs",
             "repo": "radiobit",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2435,7 +2584,8 @@
             "owner": "meriac",
             "repo": "openbeacon-ng",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "♻️ Projects Using micro:bit as a Dev Board"
@@ -2456,7 +2606,8 @@
             "owner": "ARMmbed",
             "repo": "DAPLink",
             "stars": 2794
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2471,7 +2622,8 @@
             "owner": "ARMmbed",
             "repo": "dapjs",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2486,7 +2638,8 @@
             "owner": "bsiever",
             "repo": "microbit-webusb",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2501,7 +2654,8 @@
             "owner": "mbedmicro",
             "repo": "pyOCD",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "↔️ Interface Chip"
@@ -2522,7 +2676,8 @@
             "owner": "microbit-foundation",
             "repo": "microbit-reference-design",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2536,8 +2691,9 @@
             "last_commit": "2021-03-19T12:45:34Z",
             "owner": "bbcmicrobit",
             "repo": "hardware",
-            "stars": 157
-          }
+            "stars": 156
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2552,7 +2708,8 @@
             "owner": "microbit-foundation",
             "repo": "microbit-v2-hardware",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2567,7 +2724,8 @@
             "owner": "anthonykirby",
             "repo": "kicad_microbit_connector",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2582,7 +2740,8 @@
             "owner": "hansj66",
             "repo": "micro-bot",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2597,7 +2756,8 @@
             "owner": "JordanElectronics",
             "repo": "kicad-microbit-edge-connector",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2612,7 +2772,8 @@
             "owner": "sparkfun",
             "repo": "Micro_Bit_Moto_Bit",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2627,7 +2788,8 @@
             "owner": "makezurich",
             "repo": "micro-bit-badge",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2642,7 +2804,8 @@
             "owner": "sparkfun",
             "repo": "Micro_Bit_Weather_Bit",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2657,7 +2820,8 @@
             "owner": "sparkfun",
             "repo": "Micro_Bit_Controller_Bit",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2672,7 +2836,8 @@
             "owner": "mignon-p",
             "repo": "NeoBit",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2687,7 +2852,8 @@
             "owner": "ribbotson",
             "repo": "LoRaWAN_MicroBit",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2702,7 +2868,8 @@
             "owner": "proto-pic",
             "repo": "micro-bit-eagle-libraries",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2717,7 +2884,8 @@
             "owner": "devices-lab",
             "repo": "solderbit-gamepad",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2732,7 +2900,8 @@
             "owner": "JohnVidler",
             "repo": "kicad-microbit-v2-edge-connector",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2747,7 +2916,8 @@
             "owner": "sparkfun",
             "repo": "Micro_Bit_Breakout",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2762,7 +2932,8 @@
             "owner": "CoreElectronics",
             "repo": "CE-PiicoDev-Adapter-for-Microbit",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "🔩 Hardware"
@@ -2783,7 +2954,8 @@
             "owner": "microbit-foundation",
             "repo": "microbit-svg",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2798,7 +2970,8 @@
             "owner": "topshed",
             "repo": "FritzingParts",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2813,7 +2986,8 @@
             "owner": "simonmonk",
             "repo": "mm_mb_diagramming_kit",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "🎨 2D Design"
@@ -2834,7 +3008,8 @@
             "owner": "musabkilic",
             "repo": "MicroBike",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2849,7 +3024,8 @@
             "owner": "jimbobbennett",
             "repo": "smart-garden-ornaments",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2864,7 +3040,8 @@
             "owner": "znuh",
             "repo": "microbit-corona-scanner",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2879,7 +3056,8 @@
             "owner": "kshoji",
             "repo": "microbit-beacon-finder",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2894,7 +3072,8 @@
             "owner": "linker3000",
             "repo": "Microbit-TVPong",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2909,7 +3088,8 @@
             "owner": "helenleigh",
             "repo": "robot-unicorn",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2924,7 +3104,8 @@
             "owner": "gunhaxxor",
             "repo": "robbit",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2939,7 +3120,8 @@
             "owner": "musabkilic",
             "repo": "lightbit",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2954,7 +3136,8 @@
             "owner": "RBilsland",
             "repo": "Microbit-Sensor-Network",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2969,7 +3152,8 @@
             "owner": "jrmedd",
             "repo": "SonicPixels",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2984,7 +3168,8 @@
             "owner": "linker3000",
             "repo": "micro-bit_spectrum",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -2999,7 +3184,8 @@
             "owner": "astrotutor9",
             "repo": "Microbit-Racing-Car-Timing-Gate",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "🏗️ Projects"
@@ -3020,7 +3206,8 @@
             "owner": "alcir",
             "repo": "microbit-ble",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "🗞️ Articles"
@@ -3046,7 +3233,8 @@
                 "owner": "nominetresearch",
                 "repo": "microbit-networking-book-python",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             },
             {
               "node_type": "item",
@@ -3061,7 +3249,8 @@
                 "owner": "jemole",
                 "repo": "microbit-networking-book",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
             }
           ],
           "repo_info": {
@@ -3072,7 +3261,8 @@
             "owner": "nominetresearch",
             "repo": "microbit-networking-book",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "📚 Books"
@@ -3089,11 +3279,12 @@
             "archived": false,
             "id": 296158004,
             "language": "Python",
-            "last_commit": "2026-08-27T13:10:54Z",
+            "last_commit": "2026-08-28T12:23:31Z",
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
             "stars": 796
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -3108,7 +3299,8 @@
             "owner": "PhonicCanine",
             "repo": "microbit-lessons",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         },
         {
           "node_type": "item",
@@ -3123,7 +3315,8 @@
             "owner": "LearnToProgramRoanoke",
             "repo": "Learn-microbit",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "🧑‍🏫 Teaching Resources"
@@ -3144,7 +3337,8 @@
             "owner": "ntoll",
             "repo": "microbit_mailman_archive",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "👪 Community"
@@ -3165,14 +3359,15 @@
             "owner": "dakota-mewt",
             "repo": "mewt",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
         }
       ],
       "title": "🤷 Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:08:20.973Z",
+    "last_updated": "2026-08-29T01:43:15.300Z",
     "original_repository_info": {
       "archived": false,
       "id": 65635555,

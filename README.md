@@ -17,7 +17,7 @@ This embedded board has a Bluetooth capable microcontroller, USB interface, acce
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) ⭐ 1,196 | 🐛 6 | 🌐 HTML | 📅 2026-05-21 "Watch" this repository if you'd like to get notifications when a new entry is added to the list.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Or follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 500,564 | 🐛 105 | 📅 2026-08-21.
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 500,866 | 🐛 105 | 📅 2026-08-21.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
 
@@ -56,7 +56,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 
 ## 🆚 Visual Programming
 
-* [OpenBlock](https://github.com/openblockcc/openblock-desktop) ⭐ 297 | 🐛 10 | 🌐 JavaScript | 📅 2025-06-12 - Block programming with hardware device support, including micro:bit, with code generation, compilation, flashing, and serial connection.
+* [OpenBlock](https://github.com/openblockcc/openblock-desktop) ⭐ 298 | 🐛 10 | 🌐 JavaScript | 📅 2025-06-12 - Block programming with hardware device support, including micro:bit, with code generation, compilation, flashing, and serial connection.
 * [MakeCode](https://makecode.microbit.org) - Provides an in-browser emulator and a Blocks interface that generates JavaScript (TypeScript) code (part of Microsoft's PXT).
   * [MakeCode Beta](https://makecode.microbit.org/beta) - Beta version of the MakeCode editor to test the latest features.
   * [MakeCode Offline App](https://makecode.microbit.org/offline-app) - Stand alone offline app (note that MakeCode in the browser also works offline).
@@ -108,7 +108,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 * [SSD1306](https://github.com/fizban99/microbit_ssd1306) ⭐ 61 | 🐛 6 | 🌐 Python | 📅 2024-04-19 - Library to control the OLED SSD1306 128x64 I2C with a micro:bit.
 * [micro:bit python libs](https://github.com/shaoziyang/microbit-lib) ⭐ 56 | 🐛 6 | 🌐 Python | 📅 2019-07-08 - Growing collection of modules, including TM1637/TM1650 7-seg LEDs, OLED 128x64, LCD1602, AT24XX EEPROM, DS1302/DS1307/DS3231 RTC, NeoPixel drivers, APDS9930 Digital Proximity and Ambient Light Sensor, BME280 humidity and pressure sensor, BMP280/BMP180 pressure sensors.
 * [ULN2003](https://github.com/IDWizard/uln2003) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2017-07-29 - Module to drive stepper motors via ULN2003 darlington transistors.
-* [PCA9685](https://github.com/gingemonster/PCA9685-Python-Microbit) ⭐ 27 | 🐛 3 | 🌐 Python | 📅 2017-01-28 - Class for using the PCA9685 16-Channel 12-bit PWM/Servo Driver via I2C.
+* [PCA9685](https://github.com/gingemonster/PCA9685-Python-Microbit) ⭐ 26 | 🐛 3 | 🌐 Python | 📅 2017-01-28 - Class for using the PCA9685 16-Channel 12-bit PWM/Servo Driver via I2C.
 * [Servo](https://github.com/microbit-playground/microbit-servo-class) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2016-12-28 - Class for controlling servos on the micro:bit via PWM.
 * [HC-SR04](https://github.com/fizban99/microbit_hcsr04) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2021-07-24 - Library to read the distance from a HC-SR04 ultrasonic sensor using the SPI peripheral.
 * [TM1637](https://github.com/mcauser/microbit-tm1637) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2019-01-23 - Library for quad 7-segment LED display modules using the TM1637 LED driver.
@@ -269,7 +269,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 890 | 🐛 99 | 🌐 C | 📅 2026-08-27 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 890 | 🐛 97 | 🌐 C | 📅 2026-08-28 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 151 | 🐛 28 | 🌐 C | 📅 2026-04-08 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
@@ -286,7 +286,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust Guides
 
-* [The Discovery book](https://github.com/rust-embedded/discovery/) ⭐ 1,603 | 🐛 108 | 🌐 Rust | 📅 2026-03-21 - This book is an introductory course on microcontroller-based embedded systems, using micro:bit, that uses Rust as the teaching language rather than the usual C/C++.
+* [The Discovery book](https://github.com/rust-embedded/discovery/) ⭐ 1,605 | 🐛 108 | 🌐 Rust | 📅 2026-03-21 - This book is an introductory course on microcontroller-based embedded systems, using micro:bit, that uses Rust as the teaching language rather than the usual C/C++.
 * [Running Rust code on a BBC micro:bit](https://github.com/SimonSapin/rust-on-bbc-microbit) ⭐ 195 | 🐛 3 | 📅 2025-09-02 - Article describing the experience and steps of compiling Rust code for the micro:bit with and without interaction with the runtime DAL.
 * [Rust on the micro:bit 101](https://www.eggers-club.de/blog/2018/05/31/rust-on-the-microbit-101-part-1/) - How to get started using the board support crate and start programming the BBC micro:bit in Rust.
 * [Rust on the BBC micro:bit](https://blog.drogue.io/rust-and-microbit/) - How to get started using Rust and BLE on the micro:bit, exposing temperature data as a Bluetooth Environment Sensing Service, and publishing it to the Drogue Cloud via a Bluetooth gateway.
@@ -301,7 +301,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,425 | 🐛 200 | 🌐 Rust | 📅 2026-08-27 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,428 | 🐛 200 | 🌐 Rust | 📅 2026-08-28 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -404,7 +404,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,468 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,469 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
 * [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,108 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 318 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
@@ -425,7 +425,7 @@ The USB Interface Chip is the microcontroller placed close to the battery connec
 ## 🔩 Hardware
 
 * [micro:bit V1 Reference Design](https://github.com/microbit-foundation/microbit-reference-design) ⭐ 244 | 🐛 10 | 🌐 Scheme | 📅 2021-03-29 - Hardware design files for a board 100% binary compatible with the micro:bit. Created to help make your own micro:bit derived designs.
-* [micro:bit V1 Hardware Design](https://github.com/bbcmicrobit/hardware) ⭐ 157 | 🐛 1 | 📅 2021-03-19 - Schematics and bill of materials for the BBC micro:bit.
+* [micro:bit V1 Hardware Design](https://github.com/bbcmicrobit/hardware) ⭐ 156 | 🐛 1 | 📅 2021-03-19 - Schematics and bill of materials for the BBC micro:bit.
 * [micro:bit V2 Hardware Design](https://github.com/microbit-foundation/microbit-v2-hardware) ⭐ 96 | 🐛 2 | 📅 2022-08-18 - Schematics and bill of materials for the BBC micro:bit V2.
 * [Kicad micro:bit Edge Connector Socket](https://github.com/anthonykirby/kicad_microbit_connector) ⭐ 18 | 🐛 0 | 📅 2021-11-09 - KiCad component library and footprint library for a micro:bit edge-connector socket.
 * [Sumo Robot](https://github.com/hansj66/micro-bot) ⭐ 13 | 🐛 3 | 🌐 C | 📅 2022-09-27 - Firmware and hardware design files for the TimeExpander.com micro:bit robot with 2 motor bridges, 3 time of flight sensors, 4 reflective object sensors, and a GPIO expander.
@@ -707,7 +707,7 @@ Useful Articles for developing on the micro:bit.
 
 ## 🧑‍🏫 Teaching Resources
 
-* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 796 | 🐛 0 | 🌐 Python | 📅 2026-08-27 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
+* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 796 | 🐛 0 | 🌐 Python | 📅 2026-08-28 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
 * [micro:bit Lessons](https://github.com/PhonicCanine/microbit-lessons) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2021-06-01 - Basic lessons on Python programming with a BBC micro:bit.
 * [Learn micro:bit](https://github.com/LearnToProgramRoanoke/Learn-microbit) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2019-12-04 - Code and materials for learning to program with the BBC micro:bit.
 * [microbit.org Lessons](https://microbit.org/teach/lessons/) - Curriculum-linked units of work and design challenges for planning and teaching computing in primary and secondary schools.
@@ -826,4 +826,4 @@ This projects is not endorsed, sponsored or associated with the BBC. "BBC", "mic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
