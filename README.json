@@ -2131,8 +2131,8 @@
                 "id": 165649886,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-14T11:28:37Z",
-                "open_issues": 10,
+                "last_commit": "2026-08-29T15:37:56Z",
+                "open_issues": 7,
                 "owner": "microbit-foundation",
                 "repo": "microbit-fs",
                 "stars": 15,
@@ -2154,8 +2154,8 @@
                 "id": 256492896,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-14T11:29:16Z",
-                "open_issues": 15,
+                "last_commit": "2026-08-29T15:38:25Z",
+                "open_issues": 16,
                 "owner": "microbit-foundation",
                 "repo": "microbit-universal-hex",
                 "stars": 13,
@@ -2639,7 +2639,7 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T10:47:22Z",
+                "last_commit": "2026-08-29T05:03:36Z",
                 "open_issues": 97,
                 "owner": "apache",
                 "repo": "mynewt-core",
@@ -2770,7 +2770,7 @@
                 "open_issues": 108,
                 "owner": "rust-embedded",
                 "repo": "discovery",
-                "stars": 1605,
+                "stars": 1606,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
@@ -2874,7 +2874,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-28T20:58:41Z",
-                "open_issues": 200,
+                "open_issues": 201,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6428,
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13469,
+            "stars": 13470,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 140,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2794,
+            "stars": 2796,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -3793,7 +3793,7 @@
             "open_issues": 2,
             "owner": "microbit-foundation",
             "repo": "microbit-v2-hardware",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T12:23:31Z",
+            "last_commit": "2026-08-29T13:01:43Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:35:10.656Z",
+    "last_updated": "2026-08-29T20:51:52.188Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
