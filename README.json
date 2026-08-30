@@ -2877,7 +2877,7 @@
                 "open_issues": 201,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6428,
+                "stars": 6429,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13470,
+            "stars": 13475,
             "topics": [
               "airtag",
               "apple",
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T13:01:43Z",
+            "last_commit": "2026-08-30T12:24:01Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T20:51:52.188Z",
+    "last_updated": "2026-08-30T20:57:50.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
