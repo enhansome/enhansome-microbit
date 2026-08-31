@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "openblockcc",
             "repo": "openblock-desktop",
-            "stars": 298,
+            "stars": 299,
             "topics": [
               "arduino",
               "esp32",
@@ -2640,7 +2640,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T05:03:36Z",
-                "open_issues": 97,
+                "open_issues": 98,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 890,
@@ -2666,7 +2666,7 @@
                 "open_issues": 28,
                 "owner": "ChibiOS",
                 "repo": "ChibiOS-Contrib",
-                "stars": 151,
+                "stars": 152,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T20:58:41Z",
-                "open_issues": 201,
+                "last_commit": "2026-08-31T19:44:02Z",
+                "open_issues": 203,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6429,
+                "stars": 6432,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13475,
+            "stars": 13480,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 140,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2796,
+            "stars": 2798,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T12:24:01Z",
+            "last_commit": "2026-08-31T13:16:47Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T20:57:50.738Z",
+    "last_updated": "2026-08-31T22:45:30.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
