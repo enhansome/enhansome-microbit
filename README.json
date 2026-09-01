@@ -2131,7 +2131,7 @@
                 "id": 165649886,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T15:37:56Z",
+                "last_commit": "2026-09-01T18:31:49Z",
                 "open_issues": 7,
                 "owner": "microbit-foundation",
                 "repo": "microbit-fs",
@@ -2154,8 +2154,8 @@
                 "id": 256492896,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-29T15:38:25Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-01T18:18:36Z",
+                "open_issues": 14,
                 "owner": "microbit-foundation",
                 "repo": "microbit-universal-hex",
                 "stars": 13,
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T05:03:36Z",
-                "open_issues": 98,
+                "last_commit": "2026-09-01T10:55:55Z",
+                "open_issues": 99,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 890,
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T19:44:02Z",
-                "open_issues": 203,
+                "last_commit": "2026-09-01T19:38:05Z",
+                "open_issues": 200,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6432,
+                "stars": 6434,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -2970,7 +2970,7 @@
             "open_issues": 43,
             "owner": "kekyo",
             "repo": "IL2C",
-            "stars": 449,
+            "stars": 448,
             "topics": [
               "aot",
               "arduino",
@@ -3303,7 +3303,7 @@
             "open_issues": 3,
             "owner": "carlosperate",
             "repo": "docker-microbit-toolchain",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "docker",
               "docker-image",
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13480,
+            "stars": 13481,
             "topics": [
               "airtag",
               "apple",
@@ -3582,7 +3582,7 @@
             "open_issues": 21,
             "owner": "RCayre",
             "repo": "mirage",
-            "stars": 318,
+            "stars": 319,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T13:16:47Z",
+            "last_commit": "2026-09-01T12:11:47Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T22:45:30.961Z",
+    "last_updated": "2026-09-01T20:57:42.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4736,7 +4736,7 @@
       "open_issues": 6,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
-      "stars": 1196,
+      "stars": 1197,
       "topics": [
         "awesome",
         "awesome-list",
