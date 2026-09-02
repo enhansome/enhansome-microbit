@@ -1309,6 +1309,27 @@
             },
             {
               "node_type": "item",
+              "title": "Sonic Pi OSC",
+              "description": "Send OpenSound Control (OSC) messages to Sonic Pi from a micro:bit using an ESP8266.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Sonic Pi OSC Extension for the micro:bit",
+                "homepage": null,
+                "id": 245010334,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2020-05-10T17:06:43Z",
+                "open_issues": 0,
+                "owner": "RBilsland",
+                "repo": "pxt-sonicpiosc",
+                "stars": 4,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T01:43:15.300Z"
+            },
+            {
+              "node_type": "item",
               "title": "Bluetooth Mouse",
               "description": "MakeCode extension for BLE HID Mouse module for micro:bit V1.",
               "children": [],
@@ -1331,27 +1352,6 @@
                   "mouse",
                   "pxt"
                 ]
-              },
-              "first_seen": "2026-08-29T01:43:15.300Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Sonic Pi OSC",
-              "description": "Send OpenSound Control (OSC) messages to Sonic Pi from a micro:bit using an ESP8266.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Sonic Pi OSC Extension for the micro:bit",
-                "homepage": null,
-                "id": 245010334,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2020-05-10T17:06:43Z",
-                "open_issues": 0,
-                "owner": "RBilsland",
-                "repo": "pxt-sonicpiosc",
-                "stars": 3,
-                "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
             },
@@ -2131,7 +2131,7 @@
                 "id": 165649886,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T18:31:49Z",
+                "last_commit": "2026-09-02T09:24:37Z",
                 "open_issues": 7,
                 "owner": "microbit-foundation",
                 "repo": "microbit-fs",
@@ -2154,7 +2154,7 @@
                 "id": 256492896,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T18:18:36Z",
+                "last_commit": "2026-09-02T09:24:26Z",
                 "open_issues": 14,
                 "owner": "microbit-foundation",
                 "repo": "microbit-universal-hex",
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T10:55:55Z",
-                "open_issues": 99,
+                "last_commit": "2026-09-02T05:03:51Z",
+                "open_issues": 100,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 890,
@@ -2873,8 +2873,8 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T19:38:05Z",
-                "open_issues": 200,
+                "last_commit": "2026-09-02T20:45:05Z",
+                "open_issues": 199,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6434,
@@ -3527,10 +3527,10 @@
             "language": "Swift",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-17T12:23:59Z",
-            "open_issues": 146,
+            "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13481,
+            "stars": 13484,
             "topics": [
               "airtag",
               "apple",
@@ -3582,7 +3582,7 @@
             "open_issues": 21,
             "owner": "RCayre",
             "repo": "mirage",
-            "stars": 319,
+            "stars": 320,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -4356,27 +4356,6 @@
         },
         {
           "node_type": "item",
-          "title": "LightBit",
-          "description": "This project lets you do things on your computer by sliding your hand left and right, just like in a Sci-Fi movie.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "LightBit is a little Python script that let's you do cool stuff by sliding your hand left and right, just like in a Sci-Fi movie!",
-            "homepage": "https://musab.netlify.app/projects/lightbit/",
-            "id": 222128594,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2021-03-02T20:32:40Z",
-            "open_issues": 0,
-            "owner": "musabkilic",
-            "repo": "lightbit",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:43:15.300Z"
-        },
-        {
-          "node_type": "item",
           "title": "micro:bit Sensor Network",
           "description": "Using micro:bits as educational sensors that will wirelessly talk back to a Raspberry Pi via a micro:bit gateway.",
           "children": [],
@@ -4391,6 +4370,27 @@
             "open_issues": 0,
             "owner": "RBilsland",
             "repo": "Microbit-Sensor-Network",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LightBit",
+          "description": "This project lets you do things on your computer by sliding your hand left and right, just like in a Sci-Fi movie.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "LightBit is a little Python script that let's you do cool stuff by sliding your hand left and right, just like in a Sci-Fi movie!",
+            "homepage": "https://musab.netlify.app/projects/lightbit/",
+            "id": 222128594,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2021-03-02T20:32:40Z",
+            "open_issues": 0,
+            "owner": "musabkilic",
+            "repo": "lightbit",
             "stars": 3,
             "topics": []
           },
@@ -4587,11 +4587,11 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T12:11:47Z",
+            "last_commit": "2026-09-02T13:04:56Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
-            "stars": 796,
+            "stars": 797,
             "topics": [
               "article",
               "educator",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T20:57:42.859Z",
+    "last_updated": "2026-09-02T20:57:44.823Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",

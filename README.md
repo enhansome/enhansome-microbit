@@ -17,7 +17,7 @@ This embedded board has a Bluetooth capable microcontroller, USB interface, acce
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) ⭐ 1,197 | 🐛 6 | 🌐 HTML | 📅 2026-05-21 "Watch" this repository if you'd like to get notifications when a new entry is added to the list.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Or follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 502,011 | 🐛 105 | 📅 2026-08-21.
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 502,369 | 🐛 105 | 📅 2026-09-02.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
 
@@ -179,8 +179,8 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 * [Bluetooth Gamepad](https://github.com/kshoji/pxt-bluetooth-gamepad) ⭐ 27 | 🐛 1 | 🌐 C++ | 📅 2018-03-01 - MakeCode extension for BLE HID Gamepad module for micro:bit V1.
 * [BlueDot](https://github.com/Microsoft/pxt-bluedot) ⭐ 6 | 🐛 0 | 🌐 C++ | 📅 2025-01-10 - PXT package to support the BlueDot app - beta.
 * [timeanddate](https://github.com/bsiever/microbit-pxt-timeanddate) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-25 -  Software Based Real Time Clock (Time & Date) for the micro:bit.
+* [Sonic Pi OSC](https://github.com/RBilsland/pxt-sonicpiosc) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2020-05-10 - Send OpenSound Control (OSC) messages to Sonic Pi from a micro:bit using an ESP8266.
 * [Bluetooth Mouse](https://github.com/kshoji/pxt-bluetooth-mouse) ⭐ 3 | 🐛 1 | 🌐 C++ | 📅 2023-08-30 - MakeCode extension for BLE HID Mouse module for micro:bit V1.
-* [Sonic Pi OSC](https://github.com/RBilsland/pxt-sonicpiosc) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2020-05-10 - Send OpenSound Control (OSC) messages to Sonic Pi from a micro:bit using an ESP8266.
 * [Bluetooth beacons](https://github.com/kshoji/pxt-bluetooth-beacons) ⭐ 2 | 🐛 2 | 🌐 C++ | 📅 2017-12-12 - Allows the micro:bit to act as iBeacon / AltBeacon advertiser.
 * [Music Helpers](https://github.com/jaustin/pxt-musichelpers/) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2024-08-15 - Modify how tones played by the original music blocks are played, adding interesting capabilities like pentatonics or custom tweaks to simulate other instruments.
 * [micro:bit Timers](https://github.com/robo-technical-group/pxt-microbit-timers/) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2022-07-09 - Provides timer based functions for debouncing, throttling, delaying and running code in the background.
@@ -222,8 +222,8 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 * [microBit.js](https://github.com/antefact/microBit.js) ⭐ 46 | 🐛 4 | 🌐 JavaScript | 📅 2017-07-24 - JavaScript library to interact with BBC micro:bit using web bluetooth API.
 * [node-bbc-microbit-io](https://github.com/sandeepmistry/node-bbc-microbit-io) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-02-16 - Johnny-Five (JavaScript Robotics and IoT programming framework) micro:bit plugin.
 * [microbit-web-components](https://github.com/thegecko/microbit-web-components) ⭐ 17 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-06 - Web Components for all the micro:bit features exposed via BLE.
-* [microbitFs](https://github.com/microbit-foundation/microbit-fs) ⭐ 15 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-01 - TypeScript library to manipulate files inside a micro:bit MicroPython hex file.
-* [microbitUh](https://github.com/microbit-foundation/microbit-universal-hex/) ⭐ 13 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-01 - TypeScript/JavaScript library to combine micro:bit Hex files into a Universal Hex that works in all versions of the micro:bit.
+* [microbitFs](https://github.com/microbit-foundation/microbit-fs) ⭐ 15 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-02 - TypeScript library to manipulate files inside a micro:bit MicroPython hex file.
+* [microbitUh](https://github.com/microbit-foundation/microbit-universal-hex/) ⭐ 13 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-02 - TypeScript/JavaScript library to combine micro:bit Hex files into a Universal Hex that works in all versions of the micro:bit.
 * [ubit.js](https://github.com/lyneca/ubit.js) ⭐ 0 | 🐛 6 | 🌐 TypeScript | 📅 2022-02-12 - Library for Node.js to interact with the on-device MicroPython file system via serial connection.
 
 ### 🗿 JavaScript Tools
@@ -269,7 +269,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 890 | 🐛 99 | 🌐 C | 📅 2026-09-01 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 890 | 🐛 100 | 🌐 C | 📅 2026-09-02 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 152 | 🐛 28 | 🌐 C | 📅 2026-04-08 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
@@ -301,7 +301,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,434 | 🐛 200 | 🌐 Rust | 📅 2026-09-01 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,434 | 🐛 199 | 🌐 Rust | 📅 2026-09-02 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -404,9 +404,9 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,481 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,484 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
 * [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,108 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
-* [Mirage](https://github.com/RCayre/mirage) ⭐ 319 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
+* [Mirage](https://github.com/RCayre/mirage) ⭐ 320 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
 * [OpenBeacon](https://github.com/meriac/openbeacon-ng) ⭐ 137 | 🐛 2 | 🌐 C | 📅 2020-12-20 - Provides Active 2.4 GHz RFID Realtime Proximity and Position Tracking using the nRF51822 BLE chip, with micro:bit specific instructions.
 
@@ -503,8 +503,8 @@ All these projects contain steps and resources required for reproduction.
 * [micro:bit TVPong](https://github.com/linker3000/Microbit-TVPong) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2018-03-20 - Play the classic Pong game on a TV - using BBC micro:bits as paddles, Bluetooth also supported.
 * [Robot Unicorn](https://github.com/helenleigh/robot-unicorn) ⭐ 4 | 🐛 0 | 📅 2019-06-11 - Gesture controlled robot unicorn made of cardboard, glitter, a 3D printed horn, and micro:bits.
 * [Robbit](https://github.com/gunhaxxor/robbit) ⭐ 4 | 🐛 24 | 🌐 TypeScript | 📅 2023-09-25 - An open source telepresence robot with micro:bit and an Android phone for students who can not attend school in person.
+* [micro:bit Sensor Network](https://github.com/RBilsland/Microbit-Sensor-Network) ⭐ 4 | 🐛 0 | 🌐 HTML | 📅 2022-07-27 - Using micro:bits as educational sensors that will wirelessly talk back to a Raspberry Pi via a micro:bit gateway.
 * [LightBit](https://github.com/musabkilic/lightbit) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-03-02 - This project lets you do things on your computer by sliding your hand left and right, just like in a Sci-Fi movie.
-* [micro:bit Sensor Network](https://github.com/RBilsland/Microbit-Sensor-Network) ⭐ 3 | 🐛 0 | 🌐 HTML | 📅 2022-07-27 - Using micro:bits as educational sensors that will wirelessly talk back to a Raspberry Pi via a micro:bit gateway.
 * [SonicPixels](https://github.com/jrmedd/SonicPixels) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2018-06-04 - BBC micro:bit and Max frameworks for triggering multiple speakers in a grid arrangement.
 * [micro:bit spectrum](https://github.com/linker3000/micro-bit_spectrum) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2020-10-19 - Circuit and code to display an audio spectrum bar chart on the BBC micro:bit.
 * [Racing Car Timing Gate](https://github.com/astrotutor9/Microbit-Racing-Car-Timing-Gate) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2019-05-06 - Create a speed trap for toy cars with three micro:bits, torches, radio and the MicroPython REPL.
@@ -707,7 +707,7 @@ Useful Articles for developing on the micro:bit.
 
 ## 🧑‍🏫 Teaching Resources
 
-* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 796 | 🐛 0 | 🌐 Python | 📅 2026-09-01 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
+* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 797 | 🐛 0 | 🌐 Python | 📅 2026-09-02 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
 * [micro:bit Lessons](https://github.com/PhonicCanine/microbit-lessons) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2021-06-01 - Basic lessons on Python programming with a BBC micro:bit.
 * [Learn micro:bit](https://github.com/LearnToProgramRoanoke/Learn-microbit) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2019-12-04 - Code and materials for learning to program with the BBC micro:bit.
 * [microbit.org Lessons](https://microbit.org/teach/lessons/) - Curriculum-linked units of work and design challenges for planning and teaching computing in primary and secondary schools.
@@ -826,4 +826,4 @@ This projects is not endorsed, sponsored or associated with the BBC. "BBC", "mic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
