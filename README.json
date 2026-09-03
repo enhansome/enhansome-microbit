@@ -2131,7 +2131,7 @@
                 "id": 165649886,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T09:24:37Z",
+                "last_commit": "2026-09-03T08:08:03Z",
                 "open_issues": 7,
                 "owner": "microbit-foundation",
                 "repo": "microbit-fs",
@@ -2154,7 +2154,7 @@
                 "id": 256492896,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-02T09:24:26Z",
+                "last_commit": "2026-09-03T08:08:15Z",
                 "open_issues": 14,
                 "owner": "microbit-foundation",
                 "repo": "microbit-universal-hex",
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T20:45:05Z",
-                "open_issues": 199,
+                "last_commit": "2026-09-03T20:48:56Z",
+                "open_issues": 203,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6434,
+                "stars": 6433,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13484,
+            "stars": 13492,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 140,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2798,
+            "stars": 2799,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4587,11 +4587,11 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T13:04:56Z",
+            "last_commit": "2026-09-03T11:37:12Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
-            "stars": 797,
+            "stars": 798,
             "topics": [
               "article",
               "educator",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T20:57:44.823Z",
+    "last_updated": "2026-09-03T20:55:35.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
