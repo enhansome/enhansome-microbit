@@ -2873,8 +2873,8 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T20:48:56Z",
-                "open_issues": 203,
+                "last_commit": "2026-09-04T20:22:30Z",
+                "open_issues": 204,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6433,
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13492,
+            "stars": 13505,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 140,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2799,
+            "stars": 2800,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T11:37:12Z",
+            "last_commit": "2026-09-04T13:16:13Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:55:35.940Z",
+    "last_updated": "2026-09-04T20:41:53.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4736,7 +4736,7 @@
       "open_issues": 6,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
-      "stars": 1197,
+      "stars": 1198,
       "topics": [
         "awesome",
         "awesome-list",
