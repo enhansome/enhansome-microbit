@@ -2874,7 +2874,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T20:22:30Z",
-                "open_issues": 204,
+                "open_issues": 207,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6433,
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13505,
+            "stars": 13508,
             "topics": [
               "airtag",
               "apple",
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T13:16:13Z",
+            "last_commit": "2026-09-05T13:20:33Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T20:41:53.216Z",
+    "last_updated": "2026-09-05T20:15:41.838Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
