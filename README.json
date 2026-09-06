@@ -51,7 +51,7 @@
                 "open_issues": 16,
                 "owner": "kawasaki",
                 "repo": "pyscrlink",
-                "stars": 126,
+                "stars": 127,
                 "topics": [
                   "bluetooth",
                   "bluetooth-low-energy",
@@ -2874,7 +2874,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T20:22:30Z",
-                "open_issues": 207,
+                "open_issues": 208,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6433,
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13508,
+            "stars": 13511,
             "topics": [
               "airtag",
               "apple",
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T13:20:33Z",
+            "last_commit": "2026-09-06T13:09:31Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T20:15:41.838Z",
+    "last_updated": "2026-09-06T20:20:07.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4736,7 +4736,7 @@
       "open_issues": 6,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
-      "stars": 1198,
+      "stars": 1199,
       "topics": [
         "awesome",
         "awesome-list",
