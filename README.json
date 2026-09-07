@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "openblockcc",
             "repo": "openblock-desktop",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "arduino",
               "esp32",
@@ -2131,7 +2131,7 @@
                 "id": 165649886,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T08:08:03Z",
+                "last_commit": "2026-09-07T10:12:49Z",
                 "open_issues": 7,
                 "owner": "microbit-foundation",
                 "repo": "microbit-fs",
@@ -2154,7 +2154,7 @@
                 "id": 256492896,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T08:08:15Z",
+                "last_commit": "2026-09-07T10:13:08Z",
                 "open_issues": 14,
                 "owner": "microbit-foundation",
                 "repo": "microbit-universal-hex",
@@ -2640,7 +2640,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-02T05:03:51Z",
-                "open_issues": 100,
+                "open_issues": 101,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 890,
@@ -2770,7 +2770,7 @@
                 "open_issues": 108,
                 "owner": "rust-embedded",
                 "repo": "discovery",
-                "stars": 1606,
+                "stars": 1607,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
@@ -2874,10 +2874,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-04T20:22:30Z",
-                "open_issues": 208,
+                "open_issues": 207,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6433,
+                "stars": 6435,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13511,
+            "stars": 13516,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 140,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2800,
+            "stars": 2803,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:20:07.051Z",
+    "last_updated": "2026-09-07T21:27:05.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
