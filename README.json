@@ -2639,7 +2639,7 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T05:05:00Z",
+                "last_commit": "2026-09-11T11:55:58Z",
                 "open_issues": 98,
                 "owner": "apache",
                 "repo": "mynewt-core",
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T20:37:36Z",
-                "open_issues": 217,
+                "last_commit": "2026-09-11T20:41:12Z",
+                "open_issues": 216,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6440,
+                "stars": 6441,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13530,
+            "stars": 13529,
             "topics": [
               "airtag",
               "apple",
@@ -3561,7 +3561,7 @@
             "open_issues": 28,
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2109,
+            "stars": 2108,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T13:26:57Z",
+            "last_commit": "2026-09-11T13:08:40Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T20:47:25.365Z",
+    "last_updated": "2026-09-11T20:53:31.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
