@@ -2643,7 +2643,7 @@
                 "open_issues": 98,
                 "owner": "apache",
                 "repo": "mynewt-core",
-                "stars": 890,
+                "stars": 891,
                 "topics": [
                   "mynewt"
                 ]
@@ -2873,8 +2873,8 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T20:27:55Z",
-                "open_issues": 217,
+                "last_commit": "2026-09-13T05:10:42Z",
+                "open_issues": 214,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6442,
@@ -2922,7 +2922,7 @@
             "open_issues": 23,
             "owner": "AdaCore",
             "repo": "Ada_Drivers_Library",
-            "stars": 284,
+            "stars": 285,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13533,
+            "stars": 13536,
             "topics": [
               "airtag",
               "apple",
@@ -4587,11 +4587,11 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-12T13:56:29Z",
+            "last_commit": "2026-09-13T13:21:38Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
-            "stars": 798,
+            "stars": 799,
             "topics": [
               "article",
               "educator",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T20:29:02.659Z",
+    "last_updated": "2026-09-13T20:41:53.237Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
