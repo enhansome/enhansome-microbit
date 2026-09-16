@@ -2213,7 +2213,7 @@
             "open_issues": 130,
             "owner": "sandeepmistry",
             "repo": "arduino-nRF5",
-            "stars": 953,
+            "stars": 954,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T05:03:49Z",
-                "open_issues": 99,
+                "last_commit": "2026-09-16T05:21:34Z",
+                "open_issues": 98,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 891,
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T19:19:41Z",
-                "open_issues": 219,
+                "last_commit": "2026-09-16T21:13:28Z",
+                "open_issues": 220,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6442,
+                "stars": 6445,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -2922,7 +2922,7 @@
             "open_issues": 23,
             "owner": "AdaCore",
             "repo": "Ada_Drivers_Library",
-            "stars": 285,
+            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13551,
+            "stars": 13553,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 140,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2804,
+            "stars": 2805,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-15T11:45:04Z",
+            "last_commit": "2026-09-16T13:25:05Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T21:14:26.462Z",
+    "last_updated": "2026-09-16T21:13:40.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
