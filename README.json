@@ -2213,7 +2213,7 @@
             "open_issues": 130,
             "owner": "sandeepmistry",
             "repo": "arduino-nRF5",
-            "stars": 954,
+            "stars": 955,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -2873,8 +2873,8 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T09:05:55Z",
-                "open_issues": 217,
+                "last_commit": "2026-09-19T23:50:48Z",
+                "open_issues": 215,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6444,
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13562,
+            "stars": 13566,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 140,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2805,
+            "stars": 2808,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T13:42:59Z",
+            "last_commit": "2026-09-20T14:00:07Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T20:31:40.311Z",
+    "last_updated": "2026-09-20T20:44:00.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
