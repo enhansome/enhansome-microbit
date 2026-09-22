@@ -1134,7 +1134,7 @@
                 "id": 393065215,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-17T07:13:52Z",
+                "last_commit": "2026-09-22T07:55:27Z",
                 "open_issues": 13,
                 "owner": "microbit-foundation",
                 "repo": "micropython-microbit-stubs",
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-19T23:50:48Z",
-                "open_issues": 216,
+                "last_commit": "2026-09-22T14:09:16Z",
+                "open_issues": 217,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6444,
+                "stars": 6445,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13567,
+            "stars": 13571,
             "topics": [
               "airtag",
               "apple",
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T12:46:11Z",
+            "last_commit": "2026-09-22T13:19:48Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:55:46.029Z",
+    "last_updated": "2026-09-22T21:12:43.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4736,7 +4736,7 @@
       "open_issues": 6,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
-      "stars": 1200,
+      "stars": 1199,
       "topics": [
         "awesome",
         "awesome-list",
