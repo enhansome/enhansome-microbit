@@ -17,7 +17,7 @@ This embedded board has a Bluetooth capable microcontroller, USB interface, acce
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) ⭐ 1,201 | 🐛 6 | 🌐 HTML | 📅 2026-05-21 "Watch" this repository if you'd like to get notifications when a new entry is added to the list.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Or follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 513,253 | 🐛 106 | 📅 2026-09-02.
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 513,707 | 🐛 106 | 📅 2026-09-02.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
 
@@ -74,7 +74,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 ### 🆚 Unofficial Scratch Extensions
 
 * [pyscrlink](https://github.com/kawasaki/pyscrlink) ⭐ 127 | 🐛 17 | 🌐 Python | 📅 2023-09-18 - A Scratch-link for Linux to connect Scratch 3.0 to Bluetooth devices such as the micro:bit.
-* [mbit-more](https://github.com/microbit-more/mbit-more-v2/) ⭐ 40 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-01 - A third party Scratch extension with extra features, including visualising sensor data and support for V1 and V2 micro:bit.
+* [mbit-more](https://github.com/microbit-more/mbit-more-v2/) ⭐ 40 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-02 - A third party Scratch extension with extra features, including visualising sensor data and support for V1 and V2 micro:bit.
 * [s2m](https://github.com/MrYsLab/s2m) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2019-08-28 - A Python program that acts as a bridge between the Scratch 2 off-line editor and the micro:bit via USB.
 * [s2microbit BLE](https://github.com/memakura/s2microbit-ble#English) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2024-05-09 - Scratch 2 (offline) extension for BBC micro:bit bluetooth connection with a Windows PC.
 
@@ -269,8 +269,8 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 891 | 🐛 100 | 🌐 C | 📅 2026-10-01 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
-* [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 152 | 🐛 29 | 🌐 C | 📅 2026-04-08 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 891 | 🐛 98 | 🌐 C | 📅 2026-10-02 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 152 | 🐛 30 | 🌐 C | 📅 2026-04-08 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
 
@@ -301,7 +301,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,451 | 🐛 210 | 🌐 Rust | 📅 2026-10-01 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,455 | 🐛 210 | 🌐 Rust | 📅 2026-10-02 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -404,7 +404,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,734 | 🐛 144 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,747 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
 * [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,113 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 321 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
@@ -414,7 +414,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 The USB Interface Chip is the microcontroller placed close to the battery connector. It provides all the USB functionality, like the `MICROBIT` USB drive (Mass Storage Device), WebUSB, serial, and HID debugger.
 
-* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,813 | 🐛 140 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
+* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,814 | 🐛 140 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
 * [DAP.js](https://github.com/ARMmbed/dapjs) ⭐ 134 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-29 - JavaScript (Node.js and WebUSB) interface to DAP-CMSIS over USB/HID, meant to provide a subset of the PyOCD functionality.
 * [microbit-webusb](https://github.com/bsiever/microbit-webusb) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-23 - A simple WebUSB library implementation to interact with the micro:bit, with a good README explanation, and a demo application.
 * [pyOCD](https://github.com/mbedmicro/pyOCD) ⭐ 1 | 🐛 0 | 📅 2025-08-06 - Python library for programming and debugging ARM Cortex-M microcontrollers, like the one included in the micro:bit, using the CMSIS-DAP provided by the Interface Chip.
@@ -497,7 +497,7 @@ The USB Interface Chip is the microcontroller placed close to the battery connec
 All these projects contain steps and resources required for reproduction.
 
 * [MicroBike](https://github.com/musabkilic/MicroBike) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2021-03-02 - Turn your micro:bit into a game controller.
-* [Smart Garden Ornaments](https://github.com/jimbobbennett/smart-garden-ornaments) ⭐ 29 | 🐛 3 | 🌐 Python | 📅 2021-04-30 - Track things happening in your garden, neighbourhood, or school using smart ornaments with the BBC micro:bit, Raspberry Pi, and a cloud-based IoT service.
+* [Smart Garden Ornaments](https://github.com/jimbobbennett/smart-garden-ornaments) ⭐ 30 | 🐛 3 | 🌐 Python | 📅 2021-04-30 - Track things happening in your garden, neighbourhood, or school using smart ornaments with the BBC micro:bit, Raspberry Pi, and a cloud-based IoT service.
 * [micro:bit Corona Scanner](https://github.com/znuh/microbit-corona-scanner) ⭐ 17 | 🐛 0 | 🌐 JavaScript | 📅 2020-07-28 - Using a micro:bit to listen to Bluetooth COVID-19 Exposure Notifications from COVID mobile apps.
 * [microbit-beacon-finder](https://github.com/kshoji/microbit-beacon-finder) ⭐ 11 | 🐛 2 | 🌐 C++ | 📅 2020-02-12 - The micro:bit finds various types of BLE Beacons, and displays their ID to the LEDs.
 * [micro:bit TVPong](https://github.com/linker3000/Microbit-TVPong) ⭐ 5 | 🐛 0 | 🌐 C++ | 📅 2018-03-20 - Play the classic Pong game on a TV - using BBC micro:bits as paddles, Bluetooth also supported.
@@ -707,7 +707,7 @@ Useful Articles for developing on the micro:bit.
 
 ## 🧑‍🏫 Teaching Resources
 
-* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 799 | 🐛 0 | 🌐 Python | 📅 2026-10-01 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
+* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 799 | 🐛 0 | 🌐 Python | 📅 2026-10-02 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
 * [micro:bit Lessons](https://github.com/PhonicCanine/microbit-lessons) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2021-06-01 - Basic lessons on Python programming with a BBC micro:bit.
 * [Learn micro:bit](https://github.com/LearnToProgramRoanoke/Learn-microbit) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2019-12-04 - Code and materials for learning to program with the BBC micro:bit.
 * [microbit.org Lessons](https://microbit.org/teach/lessons/) - Curriculum-linked units of work and design challenges for planning and teaching computing in primary and secondary schools.
@@ -826,4 +826,4 @@ This projects is not endorsed, sponsored or associated with the BBC. "BBC", "mic
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
