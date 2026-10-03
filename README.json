@@ -2874,10 +2874,10 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T15:52:08Z",
-                "open_issues": 210,
+                "open_issues": 211,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6455,
+                "stars": 6457,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13747,
+            "stars": 13749,
             "topics": [
               "airtag",
               "apple",
@@ -4674,7 +4674,7 @@
         {
           "node_type": "item",
           "title": "micro:bit Python mailing list (archived)",
-          "description": null,
+          "description": "ntoll/microbit_mailman_archive",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4724,15 +4724,15 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:06:20.730Z",
+    "last_updated": "2026-10-03T04:57:43.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
       "homepage": "https://bsky.app/profile/awesomemicrobit.bsky.social",
       "id": 65635555,
-      "language": "HTML",
+      "language": "CSS",
       "license": "CC0-1.0",
-      "last_commit": "2026-05-21T21:57:24Z",
+      "last_commit": "2026-10-02T22:43:29Z",
       "open_issues": 6,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
@@ -4744,7 +4744,7 @@
         "microbit"
       ]
     },
-    "original_repository_sha": "0d255de6d2551ad16e6dee8dee349d83dc4f8aea",
+    "original_repository_sha": "b88294f3bc2ff87f7ce2575dca6511306d4cdd09",
     "enhanced_repository": "enhansome/enhansome-microbit",
     "enhanced_repository_description": null,
     "title": "Awesome micro:bit with stars"
