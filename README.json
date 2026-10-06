@@ -2639,7 +2639,7 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T15:36:38Z",
+                "last_commit": "2026-10-06T05:04:15Z",
                 "open_issues": 97,
                 "owner": "apache",
                 "repo": "mynewt-core",
@@ -2874,7 +2874,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-04T18:48:06Z",
-                "open_issues": 216,
+                "open_issues": 218,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6461,
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13759,
+            "stars": 13763,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 140,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2814,
+            "stars": 2815,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:59:29.085Z",
+    "last_updated": "2026-10-06T10:58:14.206Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4732,7 +4732,7 @@
       "id": 65635555,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-05T21:29:36Z",
+      "last_commit": "2026-10-06T07:47:01Z",
       "open_issues": 6,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
@@ -4744,7 +4744,7 @@
         "microbit"
       ]
     },
-    "original_repository_sha": "7162decf85c301c26a05aeb5ab263379be4ee11f",
+    "original_repository_sha": "6c94c5e3df181bf39515cf53c28efc1e0aab975d",
     "enhanced_repository": "enhansome/enhansome-microbit",
     "enhanced_repository_description": null,
     "title": "Awesome micro:bit with stars"
