@@ -14,7 +14,7 @@ This embedded board has a Bluetooth microcontroller, USB interface, acceleromete
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) "Watch" this GitHub repository to get notifications on every new entry.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 515,619 | 🐛 106 | 📅 2026-09-02,
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 516,076 | 🐛 106 | 📅 2026-09-02,
 specialised collections of resources around a theme and organised by categories.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
@@ -264,7 +264,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 891 | 🐛 102 | 🌐 C | 📅 2026-10-06 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 891 | 🐛 97 | 🌐 C | 📅 2026-10-07 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 152 | 🐛 25 | 🌐 C | 📅 2026-10-04 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
@@ -282,7 +282,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 ### 🦀 Rust Guides
 
 * [The Discovery book](https://github.com/rust-embedded/discovery/) ⭐ 1,607 | 🐛 108 | 🌐 Rust | 📅 2026-03-21 - This book is an introductory course on microcontroller-based embedded systems, using micro:bit, that uses Rust as the teaching language rather than the usual C/C++.
-* [Running Rust code on a BBC micro:bit](https://github.com/SimonSapin/rust-on-bbc-microbit) ⭐ 195 | 🐛 3 | 📅 2025-09-02 - Article describing the experience and steps of compiling Rust code for the micro:bit with and without interaction with the runtime DAL.
+* [Running Rust code on a BBC micro:bit](https://github.com/SimonSapin/rust-on-bbc-microbit) ⭐ 194 | 🐛 3 | 📅 2025-09-02 - Article describing the experience and steps of compiling Rust code for the micro:bit with and without interaction with the runtime DAL.
 * [Rust on the micro:bit 101](https://www.eggers-club.de/blog/2018/05/31/rust-on-the-microbit-101-part-1/) - How to get started using the board support crate and start programming the BBC micro:bit in Rust.
 * [Rust on the BBC micro:bit](https://blog.drogue.io/rust-and-microbit/) - How to get started using Rust and BLE on the micro:bit, exposing temperature data as a Bluetooth Environment Sensing Service, and publishing it to the Drogue Cloud via a Bluetooth gateway.
 * [Welcome to Bare Metal Rust](https://google.github.io/comprehensive-rust/bare-metal.html) - Part of Google Android's team's [Comprehensive Rust](https://google.github.io/comprehensive-rust/index.html) course uses the micro:bit v2.
@@ -296,7 +296,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,461 | 🐛 218 | 🌐 Rust | 📅 2026-10-06 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,461 | 🐛 209 | 🌐 Rust | 📅 2026-10-07 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -399,8 +399,8 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,770 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
-* [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,115 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,781 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,116 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 321 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
 * [OpenBeacon](https://github.com/meriac/openbeacon-ng) ⭐ 138 | 🐛 2 | 🌐 C | 📅 2020-12-20 - Provides Active 2.4 GHz RFID Realtime Proximity and Position Tracking using the nRF51822 BLE chip, with micro:bit specific instructions.
@@ -424,7 +424,7 @@ The USB Interface Chip is the microcontroller placed close to the battery connec
 * [micro:bit V2 Hardware Design](https://github.com/microbit-foundation/microbit-v2-hardware) ⭐ 97 | 🐛 2 | 📅 2022-08-18 - Schematics and bill of materials for the BBC micro:bit V2.
 * [Kicad micro:bit Edge Connector Socket](https://github.com/anthonykirby/kicad_microbit_connector) ⭐ 18 | 🐛 0 | 📅 2021-11-09 - KiCad component library and footprint library for a micro:bit edge-connector socket.
 * [Sumo Robot](https://github.com/hansj66/micro-bot) ⭐ 13 | 🐛 3 | 🌐 C | 📅 2022-09-27 - Firmware and hardware design files for the TimeExpander.com micro:bit robot with 2 motor bridges, 3 time of flight sensors, 4 reflective object sensors, and a GPIO expander.
-* [micro:bit Kicad Edge Connector Socket](https://github.com/JordanElectronics/kicad-microbit-edge-connector) ⭐ 10 | 🐛 1 | 📅 2018-05-28 - BBC micro:bit Edge Connector component library and PCB footprint for Kicad.
+* [micro:bit Kicad Edge Connector Socket](https://github.com/JordanElectronics/kicad-microbit-edge-connector) ⭐ 11 | 🐛 1 | 📅 2018-05-28 - BBC micro:bit Edge Connector component library and PCB footprint for Kicad.
 * [SparkFun moto:bit](https://github.com/sparkfun/Micro_Bit_Moto_Bit) ⭐ 9 | 🐛 1 | 📅 2020-01-22 - Open source files for the SparkFun moto:bit, a board to provide a robotics platform.
 * [micro:bit Badge](https://github.com/makezurich/micro-bit-badge) ⚠️ Archived - Open Source PCB for the micro:bit with a battery holder, buzzer, extension edge connector and pins breaks out.
 * [SparkFun weather:bit](https://github.com/sparkfun/Micro_Bit_Weather_Bit) ⭐ 7 | 🐛 4 | 📅 2020-05-11 - Open source files for the SparkFun weather:bit, a board to provide a weather station.
@@ -698,7 +698,7 @@ Useful Articles for developing on the micro:bit.
 
 ## 🧑‍🏫 Teaching Resources
 
-* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 799 | 🐛 0 | 🌐 Python | 📅 2026-10-06 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
+* [Python For Kids](https://github.com/mytechnotalent/Python-For-Kids) ⭐ 799 | 🐛 0 | 🌐 Python | 📅 2026-10-07 - A comprehensive online Python development course for kids utilizing a BBC micro:bit going step-by-step into the world of Python for microcontrollers.
 * [micro:bit Lessons](https://github.com/PhonicCanine/microbit-lessons) ⭐ 8 | 🐛 0 | 🌐 Java | 📅 2021-06-01 - Basic lessons on Python programming with a BBC micro:bit.
 * [Learn micro:bit](https://github.com/LearnToProgramRoanoke/Learn-microbit) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2019-12-04 - Code and materials for learning to program with the BBC micro:bit.
 * [microbit.org Lessons](https://microbit.org/teach/lessons/) - Curriculum-linked units of work and design challenges for planning and teaching computing in primary and secondary schools.
@@ -813,8 +813,8 @@ To the extent possible under law, the authors have waived all copyright and rela
 
 ***
 
-This projects is not endorsed, sponsored or associated with the BBC. "BBC", "micro:bit", and their logos are trademarks of the BBC.
+This project is not endorsed, sponsored or associated with the BBC. "BBC", "micro:bit", and their logos are trademarks of the BBC.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
