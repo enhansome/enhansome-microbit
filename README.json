@@ -2639,11 +2639,11 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T12:43:52Z",
-                "open_issues": 97,
+                "last_commit": "2026-10-08T05:05:12Z",
+                "open_issues": 98,
                 "owner": "apache",
                 "repo": "mynewt-core",
-                "stars": 891,
+                "stars": 892,
                 "topics": [
                   "mynewt"
                 ]
@@ -2663,7 +2663,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-04T21:21:49Z",
-                "open_issues": 25,
+                "open_issues": 26,
                 "owner": "ChibiOS",
                 "repo": "ChibiOS-Contrib",
                 "stars": 152,
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T22:03:41Z",
-                "open_issues": 209,
+                "last_commit": "2026-10-08T21:51:47Z",
+                "open_issues": 211,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6461,
+                "stars": 6462,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13781,
+            "stars": 13789,
             "topics": [
               "airtag",
               "apple",
@@ -3561,7 +3561,7 @@
             "open_issues": 28,
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2116,
+            "stars": 2117,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3651,7 +3651,7 @@
             "open_issues": 140,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2816,
+            "stars": 2817,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T13:34:24Z",
+            "last_commit": "2026-10-08T13:45:46Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:00:44.006Z",
+    "last_updated": "2026-10-08T23:16:04.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4736,7 +4736,7 @@
       "open_issues": 6,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
-      "stars": 1201,
+      "stars": 1202,
       "topics": [
         "awesome",
         "awesome-list",
