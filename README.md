@@ -14,7 +14,7 @@ This embedded board has a Bluetooth microcontroller, USB interface, acceleromete
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) "Watch" this GitHub repository to get notifications on every new entry.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 517,203 | 🐛 106 | 📅 2026-09-02,
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 517,663 | 🐛 105 | 📅 2026-09-02,
 specialised collections of resources around a theme and organised by categories.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
@@ -58,7 +58,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 * [MakeCode](https://makecode.microbit.org) - Provides an in-browser emulator and a Blocks interface that generates JavaScript (TypeScript) code (part of Microsoft's PXT).
   * [MakeCode Beta](https://makecode.microbit.org/beta) - Beta version of the MakeCode editor to test the latest features.
   * [MakeCode Offline App](https://makecode.microbit.org/offline-app) - Stand alone offline app (note that MakeCode in the browser also works offline).
-  * [MakeCode Multi Editor](https://makecode.microbit.org/---multi) - Two MakeCode editors side by side to create, modify, and test two micro:bit programs at the same time, great for simulating radio with a transmitter and receiver.
+  * [MakeCode Multi Editor](https://makecode.microbit.org/---multi) - Two MakeCode editors side by side to simulate radio communication between two programmes.
 * [Scratch 3.0](https://scratch.mit.edu/microbit) - The new version of Scratch is officially compatible with the micro:bit via their Scratch Link plug-in.
 * [Open Roberta Lab](https://lab.open-roberta.org) - Block programming environment designed for programming robots, it also supports the micro:bit by generating MicroPython.
 * [EduBlocks](https://app.edublocks.org) - Blocks interface that provides a transitioning experience from Scratch to Python.
@@ -157,7 +157,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 * [MakeCode](https://makecode.microbit.org) - This block and text editor for the micro:bit provides an in-browser emulator, a Blocks interface, and JavaScript (TypeScript) editor.
   * [MakeCode Beta](https://makecode.microbit.org/beta) - Beta version of the MakeCode editor to test the latest features.
   * [MakeCode Offline App](https://makecode.microbit.org/offline-app) - Stand alone offline app (note that MakeCode in the browser also works offline).
-  * [MakeCode Multi Editor](https://makecode.microbit.org/---multi) - Two MakeCode editors side by side to create, modify, and test two micro:bit programs at the same time, great for simulating radio with a transmitter and receiver.
+  * [MakeCode Multi Editor](https://makecode.microbit.org/---multi) - Two MakeCode editors side by side to simulate radio communication between two programmes.
 * [Espruino JavaScript](https://www.espruino.com/MicroBit) - JavaScript interpreter for microcontrollers, supports Bluetooth LE and wireless programming. Also offers a WebIDE for written code and blocks.
 
 ### 🗿 MakeCode Extensions
@@ -296,7 +296,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,464 | 🐛 220 | 🌐 Rust | 📅 2026-10-10 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,464 | 🐛 222 | 🌐 Rust | 📅 2026-10-11 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -399,7 +399,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,804 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,810 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
 * [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,118 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 321 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
@@ -414,7 +414,7 @@ The USB Interface Chip is the microcontroller placed close to the battery connec
 * [microbit-webusb](https://github.com/bsiever/microbit-webusb) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-23 - A simple WebUSB library implementation to interact with the micro:bit, with a good README explanation, and a demo application.
 * [pyOCD](https://github.com/mbedmicro/pyOCD) ⭐ 1 | 🐛 0 | 📅 2025-08-06 - Python library for programming and debugging ARM Cortex-M microcontrollers, like the one included in the micro:bit, using the CMSIS-DAP provided by the Interface Chip.
 * [micro:bit Firmware](https://microbit.org/get-started/user-guide/firmware/) - General information about the firmware with instructions on how to update it to the latest version.
-* [microbit.org Developer Community Info](https://tech.microbit.org/software/daplink-interface/) - This micro:bit Developer Community page contains information about the Interface Chip DAPlink and the USB interface.
+* [microbit.org Developer Community Info](https://tech.microbit.org/firmware/daplink-interface/) - This micro:bit Developer Community page contains information about the Interface Chip DAPlink and the USB interface.
 * [J-Link OB Firmware](https://www.segger.com/bbc-micro-bit.html) - Offers the same flashing functionality than the DAPLink and expands it to include J-Link debugging.
 
 ## 🔩 Hardware
@@ -817,4 +817,4 @@ This project is not endorsed, sponsored or associated with the BBC. "BBC", "micr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

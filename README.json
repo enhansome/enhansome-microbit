@@ -2873,8 +2873,8 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T17:37:48Z",
-                "open_issues": 220,
+                "last_commit": "2026-10-11T17:31:55Z",
+                "open_issues": 222,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6464,
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13804,
+            "stars": 13810,
             "topics": [
               "airtag",
               "apple",
@@ -4587,7 +4587,7 @@
             "id": 296158004,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T13:46:00Z",
+            "last_commit": "2026-10-10T22:01:55Z",
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T21:33:02.531Z",
+    "last_updated": "2026-10-11T21:48:49.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4732,7 +4732,7 @@
       "id": 65635555,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-09T22:21:43Z",
+      "last_commit": "2026-10-11T20:00:14Z",
       "open_issues": 6,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
@@ -4744,7 +4744,7 @@
         "microbit"
       ]
     },
-    "original_repository_sha": "293051035e11b8e5dd6defe14127c24dc4d8e6e0",
+    "original_repository_sha": "4cf3c60dd44974167ddd9868ce3dd9046e72ed54",
     "enhanced_repository": "enhansome/enhansome-microbit",
     "enhanced_repository_description": null,
     "title": "Awesome micro:bit with stars"
