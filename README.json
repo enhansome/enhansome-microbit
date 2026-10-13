@@ -1134,7 +1134,7 @@
                 "id": 393065215,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T07:40:31Z",
+                "last_commit": "2026-10-13T13:14:15Z",
                 "open_issues": 14,
                 "owner": "microbit-foundation",
                 "repo": "micropython-microbit-stubs",
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T19:22:54Z",
-                "open_issues": 100,
+                "last_commit": "2026-10-13T19:01:37Z",
+                "open_issues": 102,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 892,
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T00:01:31Z",
-                "open_issues": 222,
+                "last_commit": "2026-10-13T22:04:40Z",
+                "open_issues": 221,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6463,
+                "stars": 6464,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13820,
+            "stars": 13827,
             "topics": [
               "airtag",
               "apple",
@@ -3561,7 +3561,7 @@
             "open_issues": 28,
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2118,
+            "stars": 2119,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3648,10 +3648,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-08-20T23:24:18Z",
-            "open_issues": 140,
+            "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2821,
+            "stars": 2822,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T00:32:32.957Z",
+    "last_updated": "2026-10-13T22:37:08.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",

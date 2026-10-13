@@ -14,7 +14,7 @@ This embedded board has a Bluetooth microcontroller, USB interface, acceleromete
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) "Watch" this GitHub repository to get notifications on every new entry.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 518,172 | 🐛 105 | 📅 2026-09-02,
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 518,640 | 🐛 105 | 📅 2026-09-02,
 specialised collections of resources around a theme and organised by categories.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
@@ -148,7 +148,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 * [uFlash](https://github.com/ntoll/uflash/) ⭐ 107 | 🐛 17 | 🌐 Python | 📅 2023-11-27 - Utility for flashing the micro:bit with Python scripts and the MicroPython runtime.
 * [MicroFs](https://github.com/ntoll/microfs) ⭐ 41 | 🐛 14 | 🌐 Python | 📅 2023-05-29 - Simple command line tool and module for interacting with the limited file system provided by MicroPython on the micro:bit.
 * [MicroREPL](https://github.com/ntoll/microrepl) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2022-10-11 - A REPL client for MicroPython running on the BBC micro:bit.
-* [micro:bit MicroPython stubs](https://github.com/microbit-foundation/micropython-microbit-stubs) ⭐ 6 | 🐛 14 | 🌐 Python | 📅 2026-10-05 - Type stubs for MicroPython for micro:bit to support the editor autocompletion.
+* [micro:bit MicroPython stubs](https://github.com/microbit-foundation/micropython-microbit-stubs) ⭐ 6 | 🐛 14 | 🌐 Python | 📅 2026-10-13 - Type stubs for MicroPython for micro:bit to support the editor autocompletion.
 * [micro:bit Stubs](https://github.com/oivron/microbit-stubs) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-10-12 - Python stubs with type hints to provide autocompletion in code editors.
 * [Combining micro:bit with TI calculators](https://education.ti.com/en/product-resources/microbit) - Connect and programme the BBC micro:bit in Python with several TI calculator models.
 
@@ -264,7 +264,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 892 | 🐛 100 | 🌐 C | 📅 2026-10-12 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 892 | 🐛 102 | 🌐 C | 📅 2026-10-13 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 152 | 🐛 26 | 🌐 C | 📅 2026-10-04 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
@@ -296,7 +296,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,463 | 🐛 222 | 🌐 Rust | 📅 2026-10-13 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,464 | 🐛 221 | 🌐 Rust | 📅 2026-10-13 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -399,8 +399,8 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,820 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
-* [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,118 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,827 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,119 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 321 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
 * [OpenBeacon](https://github.com/meriac/openbeacon-ng) ⭐ 138 | 🐛 2 | 🌐 C | 📅 2020-12-20 - Provides Active 2.4 GHz RFID Realtime Proximity and Position Tracking using the nRF51822 BLE chip, with micro:bit specific instructions.
@@ -409,7 +409,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 The USB Interface Chip is the microcontroller placed close to the battery connector. It provides all the USB functionality, like the `MICROBIT` USB drive (Mass Storage Device), WebUSB, serial, and HID debugger.
 
-* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,821 | 🐛 140 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
+* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,822 | 🐛 141 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
 * [DAP.js](https://github.com/ARMmbed/dapjs) ⭐ 134 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-29 - JavaScript (Node.js and WebUSB) interface to DAP-CMSIS over USB/HID, meant to provide a subset of the PyOCD functionality.
 * [microbit-webusb](https://github.com/bsiever/microbit-webusb) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-23 - A simple WebUSB library implementation to interact with the micro:bit, with a good README explanation, and a demo application.
 * [pyOCD](https://github.com/mbedmicro/pyOCD) ⭐ 1 | 🐛 0 | 📅 2025-08-06 - Python library for programming and debugging ARM Cortex-M microcontrollers, like the one included in the micro:bit, using the CMSIS-DAP provided by the Interface Chip.
