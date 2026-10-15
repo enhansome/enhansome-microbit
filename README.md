@@ -14,7 +14,7 @@ This embedded board has a Bluetooth microcontroller, USB interface, acceleromete
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) "Watch" this GitHub repository to get notifications on every new entry.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 518,973 | 🐛 105 | 📅 2026-09-02,
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 519,459 | 🐛 105 | 📅 2026-09-02,
 specialised collections of resources around a theme and organised by categories.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
@@ -148,7 +148,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 * [uFlash](https://github.com/ntoll/uflash/) ⭐ 107 | 🐛 17 | 🌐 Python | 📅 2023-11-27 - Utility for flashing the micro:bit with Python scripts and the MicroPython runtime.
 * [MicroFs](https://github.com/ntoll/microfs) ⭐ 41 | 🐛 14 | 🌐 Python | 📅 2023-05-29 - Simple command line tool and module for interacting with the limited file system provided by MicroPython on the micro:bit.
 * [MicroREPL](https://github.com/ntoll/microrepl) ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2022-10-11 - A REPL client for MicroPython running on the BBC micro:bit.
-* [micro:bit MicroPython stubs](https://github.com/microbit-foundation/micropython-microbit-stubs) ⭐ 6 | 🐛 14 | 🌐 Python | 📅 2026-10-14 - Type stubs for MicroPython for micro:bit to support the editor autocompletion.
+* [micro:bit MicroPython stubs](https://github.com/microbit-foundation/micropython-microbit-stubs) ⭐ 6 | 🐛 14 | 🌐 Python | 📅 2026-10-15 - Type stubs for MicroPython for micro:bit to support the editor autocompletion.
 * [micro:bit Stubs](https://github.com/oivron/microbit-stubs) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2021-10-12 - Python stubs with type hints to provide autocompletion in code editors.
 * [Combining micro:bit with TI calculators](https://education.ti.com/en/product-resources/microbit) - Connect and programme the BBC micro:bit in Python with several TI calculator models.
 
@@ -220,8 +220,8 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 * [microBit.js](https://github.com/antefact/microBit.js) ⭐ 46 | 🐛 4 | 🌐 JavaScript | 📅 2017-07-24 - JavaScript library to interact with BBC micro:bit using web bluetooth API.
 * [node-bbc-microbit-io](https://github.com/sandeepmistry/node-bbc-microbit-io) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-02-16 - Johnny-Five (JavaScript Robotics and IoT programming framework) micro:bit plugin.
 * [microbit-web-components](https://github.com/thegecko/microbit-web-components) ⭐ 17 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-06 - Web Components for all the micro:bit features exposed via BLE.
-* [microbitFs](https://github.com/microbit-foundation/microbit-fs) ⭐ 15 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-12 - TypeScript library to manipulate files inside a micro:bit MicroPython hex file.
-* [microbitUh](https://github.com/microbit-foundation/microbit-universal-hex/) ⭐ 13 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-12 - TypeScript/JavaScript library to combine micro:bit Hex files into a Universal Hex that works in all versions of the micro:bit.
+* [microbitFs](https://github.com/microbit-foundation/microbit-fs) ⭐ 15 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-15 - TypeScript library to manipulate files inside a micro:bit MicroPython hex file.
+* [microbitUh](https://github.com/microbit-foundation/microbit-universal-hex/) ⭐ 13 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-15 - TypeScript/JavaScript library to combine micro:bit Hex files into a Universal Hex that works in all versions of the micro:bit.
 * [ubit.js](https://github.com/lyneca/ubit.js) ⭐ 0 | 🐛 6 | 🌐 TypeScript | 📅 2022-02-12 - Library for Node.js to interact with the on-device MicroPython file system via serial connection.
 
 ### 🗿 JavaScript Tools
@@ -264,7 +264,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 892 | 🐛 105 | 🌐 C | 📅 2026-10-14 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 892 | 🐛 100 | 🌐 C | 📅 2026-10-15 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 152 | 🐛 27 | 🌐 C | 📅 2026-10-04 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
@@ -296,7 +296,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,464 | 🐛 215 | 🌐 Rust | 📅 2026-10-14 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,465 | 🐛 217 | 🌐 Rust | 📅 2026-10-15 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -399,7 +399,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,834 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,842 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
 * [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,119 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 321 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
@@ -817,4 +817,4 @@ This project is not endorsed, sponsored or associated with the BBC. "BBC", "micr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
