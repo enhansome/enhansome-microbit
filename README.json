@@ -48,7 +48,7 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2023-09-18T09:35:03Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "kawasaki",
                 "repo": "pyscrlink",
                 "stars": 127,
@@ -77,7 +77,7 @@
                 "id": 319152885,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T01:01:24Z",
+                "last_commit": "2026-10-17T09:05:10Z",
                 "open_issues": 7,
                 "owner": "microbit-more",
                 "repo": "mbit-more-v2",
@@ -2639,7 +2639,7 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T11:39:21Z",
+                "last_commit": "2026-10-17T05:04:03Z",
                 "open_issues": 97,
                 "owner": "apache",
                 "repo": "mynewt-core",
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-16T18:46:53Z",
-                "open_issues": 219,
+                "last_commit": "2026-10-17T15:11:14Z",
+                "open_issues": 221,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6466,
+                "stars": 6467,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13846,
+            "stars": 13854,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2823,
+            "stars": 2824,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T20:57:04.383Z",
+    "last_updated": "2026-10-17T20:29:10.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
