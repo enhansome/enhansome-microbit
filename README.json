@@ -81,7 +81,7 @@
                 "open_issues": 7,
                 "owner": "microbit-more",
                 "repo": "mbit-more-v2",
-                "stars": 40,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
@@ -221,7 +221,7 @@
                 "open_issues": 6,
                 "owner": "fizban99",
                 "repo": "microbit_ssd1306",
-                "stars": 61,
+                "stars": 62,
                 "topics": [
                   "microbit",
                   "oled-display-ssd1306",
@@ -2131,7 +2131,7 @@
                 "id": 165649886,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-15T14:53:05Z",
+                "last_commit": "2026-10-19T10:07:04Z",
                 "open_issues": 7,
                 "owner": "microbit-foundation",
                 "repo": "microbit-fs",
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T05:04:03Z",
-                "open_issues": 100,
+                "last_commit": "2026-10-19T21:16:16Z",
+                "open_issues": 106,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 892,
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-18T20:27:03Z",
-                "open_issues": 218,
+                "last_commit": "2026-10-19T18:27:18Z",
+                "open_issues": 217,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6468,
+                "stars": 6469,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13859,
+            "stars": 13865,
             "topics": [
               "airtag",
               "apple",
@@ -3561,7 +3561,7 @@
             "open_issues": 28,
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2118,
+            "stars": 2119,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3651,7 +3651,7 @@
             "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2825,
+            "stars": 2826,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T20:32:03.659Z",
+    "last_updated": "2026-10-19T22:16:23.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
