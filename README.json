@@ -2213,7 +2213,7 @@
             "open_issues": 130,
             "owner": "sandeepmistry",
             "repo": "arduino-nRF5",
-            "stars": 955,
+            "stars": 954,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T21:16:16Z",
-                "open_issues": 106,
+                "last_commit": "2026-10-20T12:01:17Z",
+                "open_issues": 110,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 892,
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T18:27:18Z",
-                "open_issues": 217,
+                "last_commit": "2026-10-20T18:58:45Z",
+                "open_issues": 216,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6469,
+                "stars": 6472,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13865,
+            "stars": 13867,
             "topics": [
               "airtag",
               "apple",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:16:23.368Z",
+    "last_updated": "2026-10-20T21:31:48.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
