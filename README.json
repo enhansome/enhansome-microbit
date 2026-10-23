@@ -998,7 +998,7 @@
                 "open_issues": 24,
                 "owner": "whaleygeek",
                 "repo": "bitio",
-                "stars": 99,
+                "stars": 100,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
@@ -2131,8 +2131,8 @@
                 "id": 165649886,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-19T10:07:04Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-23T07:18:02Z",
+                "open_issues": 8,
                 "owner": "microbit-foundation",
                 "repo": "microbit-fs",
                 "stars": 15,
@@ -2154,8 +2154,8 @@
                 "id": 256492896,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-22T16:34:20Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-23T13:05:10Z",
+                "open_issues": 12,
                 "owner": "microbit-foundation",
                 "repo": "microbit-universal-hex",
                 "stars": 13,
@@ -2639,11 +2639,11 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T17:06:54Z",
-                "open_issues": 104,
+                "last_commit": "2026-10-23T21:13:26Z",
+                "open_issues": 100,
                 "owner": "apache",
                 "repo": "mynewt-core",
-                "stars": 892,
+                "stars": 893,
                 "topics": [
                   "mynewt"
                 ]
@@ -2732,7 +2732,7 @@
                 "id": 353447874,
                 "language": "C",
                 "license": null,
-                "last_commit": "2026-05-08T15:08:11Z",
+                "last_commit": "2026-10-23T17:07:00Z",
                 "open_issues": 0,
                 "owner": "nu-ce346",
                 "repo": "nu-microbit-base",
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T19:37:44Z",
-                "open_issues": 218,
+                "last_commit": "2026-10-23T19:21:32Z",
+                "open_issues": 220,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6474,
+                "stars": 6476,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3651,7 +3651,7 @@
             "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2829,
+            "stars": 2830,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T21:27:51.377Z",
+    "last_updated": "2026-10-23T21:19:06.192Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4732,8 +4732,8 @@
       "id": 65635555,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-11T20:00:14Z",
-      "open_issues": 6,
+      "last_commit": "2026-10-23T18:28:49Z",
+      "open_issues": 7,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
       "stars": 1206,

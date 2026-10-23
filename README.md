@@ -14,7 +14,7 @@ This embedded board has a Bluetooth microcontroller, USB interface, acceleromete
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) "Watch" this GitHub repository to get notifications on every new entry.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 523,114 | 🐛 105 | 📅 2026-09-02,
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 523,617 | 🐛 105 | 📅 2026-09-02,
 specialised collections of resources around a theme and organised by categories.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
@@ -139,7 +139,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 ### 🐍 Python Libraries
 
 * [bluezero](https://github.com/ukBaz/python-bluezero) ⭐ 422 | 🐛 28 | 🌐 Python | 📅 2025-03-23 - Python package to interface with Bluetooth devices, with examples for the micro:bit.
-* [bitio](https://github.com/whaleygeek/bitio) ⭐ 99 | 🐛 24 | 🌐 Python | 📅 2022-11-26 - BBC micro:bit I/O library for Python. It allows you to run code in Python on a PC/Mac/Linux/Raspberry Pi and interact directly with the micro:bit.
+* [bitio](https://github.com/whaleygeek/bitio) ⭐ 100 | 🐛 24 | 🌐 Python | 📅 2022-11-26 - BBC micro:bit I/O library for Python. It allows you to run code in Python on a PC/Mac/Linux/Raspberry Pi and interact directly with the micro:bit.
 * [Kasper's micro:bit](https://github.com/janickr/kaspersmicrobit) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2025-11-11 - A Python package to connect to the Bluetooth LE GATT services of paired BBC micro:bit devices. Use your micro:bit as a wireless game controller!
 * [MicroPeri](https://github.com/ntoll/microperi) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2016-06-07 - Run Python programs on your computer with the same micro:bit MicroPython API and connecting a micro:bit as an external peripheral device or sensor.
 
@@ -220,8 +220,8 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 * [microBit.js](https://github.com/antefact/microBit.js) ⭐ 46 | 🐛 4 | 🌐 JavaScript | 📅 2017-07-24 - JavaScript library to interact with BBC micro:bit using web bluetooth API.
 * [node-bbc-microbit-io](https://github.com/sandeepmistry/node-bbc-microbit-io) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-02-16 - Johnny-Five (JavaScript Robotics and IoT programming framework) micro:bit plugin.
 * [microbit-web-components](https://github.com/thegecko/microbit-web-components) ⭐ 17 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-06 - Web Components for all the micro:bit features exposed via BLE.
-* [microbitFs](https://github.com/microbit-foundation/microbit-fs) ⭐ 15 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-19 - TypeScript library to manipulate files inside a micro:bit MicroPython hex file.
-* [microbitUh](https://github.com/microbit-foundation/microbit-universal-hex/) ⭐ 13 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-22 - TypeScript/JavaScript library to combine micro:bit Hex files into a Universal Hex that works in all versions of the micro:bit.
+* [microbitFs](https://github.com/microbit-foundation/microbit-fs) ⭐ 15 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-23 - TypeScript library to manipulate files inside a micro:bit MicroPython hex file.
+* [microbitUh](https://github.com/microbit-foundation/microbit-universal-hex/) ⭐ 13 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-23 - TypeScript/JavaScript library to combine micro:bit Hex files into a Universal Hex that works in all versions of the micro:bit.
 * [ubit.js](https://github.com/lyneca/ubit.js) ⭐ 0 | 🐛 6 | 🌐 TypeScript | 📅 2022-02-12 - Library for Node.js to interact with the on-device MicroPython file system via serial connection.
 
 ### 🗿 JavaScript Tools
@@ -264,7 +264,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 892 | 🐛 104 | 🌐 C | 📅 2026-10-22 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 893 | 🐛 100 | 🌐 C | 📅 2026-10-23 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 152 | 🐛 27 | 🌐 C | 📅 2026-10-04 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
@@ -273,7 +273,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 * [Bare metal examples](https://github.com/dwelch67/microbit) ⭐ 26 | 🐛 1 | 🌐 C | 📅 2021-12-31 - C bare metal examples for the BBC micro:bit.
 * [Zephyr BBC micro:bit V2](https://github.com/fduignan/zephyr_bbc_microbit_v2) ⭐ 19 | 🐛 0 | 🌐 C | 📅 2024-09-23 - Various examples for Zephyr RTOS running on the BBC micro:bit V2.
-* [nu-microbit-base](https://github.com/nu-ce346/nu-microbit-base) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2026-05-08 - C bare metal environment using the Nordic SDK with example applications.
+* [nu-microbit-base](https://github.com/nu-ce346/nu-microbit-base) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2026-10-23 - C bare metal environment using the Nordic SDK with example applications.
 * [ioprog Zephyr & micro:bit Articles](https://ioprog.com/tag/microbit-v2/) - A series of articles and tutorials using the micro:bit on board components with Zephyr.
 * [Bare metal micro:bit](https://spivey.oriel.ox.ac.uk/baremetal/Bare_metal_micro:bit) - Low level programming examples and tutorials.
 
@@ -296,7 +296,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,474 | 🐛 218 | 🌐 Rust | 📅 2026-10-22 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,476 | 🐛 220 | 🌐 Rust | 📅 2026-10-23 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -409,7 +409,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 The USB Interface Chip is the microcontroller placed close to the battery connector. It provides all the USB functionality, like the `MICROBIT` USB drive (Mass Storage Device), WebUSB, serial, and HID debugger.
 
-* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,829 | 🐛 141 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
+* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,830 | 🐛 141 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
 * [DAP.js](https://github.com/ARMmbed/dapjs) ⭐ 135 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-29 - JavaScript (Node.js and WebUSB) interface to DAP-CMSIS over USB/HID, meant to provide a subset of the PyOCD functionality.
 * [microbit-webusb](https://github.com/bsiever/microbit-webusb) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-23 - A simple WebUSB library implementation to interact with the micro:bit, with a good README explanation, and a demo application.
 * [pyOCD](https://github.com/mbedmicro/pyOCD) ⭐ 1 | 🐛 0 | 📅 2025-08-06 - Python library for programming and debugging ARM Cortex-M microcontrollers, like the one included in the micro:bit, using the CMSIS-DAP provided by the Interface Chip.
@@ -817,4 +817,4 @@ This project is not endorsed, sponsored or associated with the BBC. "BBC", "micr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
