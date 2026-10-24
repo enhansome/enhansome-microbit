@@ -14,7 +14,7 @@ This embedded board has a Bluetooth microcontroller, USB interface, acceleromete
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) "Watch" this GitHub repository to get notifications on every new entry.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 523,617 | 🐛 105 | 📅 2026-09-02,
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 524,107 | 🐛 105 | 📅 2026-09-02,
 specialised collections of resources around a theme and organised by categories.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
@@ -108,7 +108,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 * [ULN2003](https://github.com/IDWizard/uln2003) ⭐ 49 | 🐛 1 | 🌐 Python | 📅 2017-07-29 - Module to drive stepper motors via ULN2003 darlington transistors.
 * [PCA9685](https://github.com/gingemonster/PCA9685-Python-Microbit) ⭐ 26 | 🐛 3 | 🌐 Python | 📅 2017-01-28 - Class for using the PCA9685 16-Channel 12-bit PWM/Servo Driver via I2C.
 * [Servo](https://github.com/microbit-playground/microbit-servo-class) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2016-12-28 - Class for controlling servos on the micro:bit via PWM.
-* [HC-SR04](https://github.com/fizban99/microbit_hcsr04) ⭐ 18 | 🐛 2 | 🌐 Python | 📅 2021-07-24 - Library to read the distance from a HC-SR04 ultrasonic sensor using the SPI peripheral.
+* [HC-SR04](https://github.com/fizban99/microbit_hcsr04) ⭐ 18 | 🐛 3 | 🌐 Python | 📅 2021-07-24 - Library to read the distance from a HC-SR04 ultrasonic sensor using the SPI peripheral.
 * [TM1637](https://github.com/mcauser/microbit-tm1637) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2019-01-23 - Library for quad 7-segment LED display modules using the TM1637 LED driver.
 * [Nokia 5110 PCD8544 LCD](https://github.com/matneee/microbit-nokia5110-PCD8544-lcd) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2025-03-20 - Fast controller for Nokia 5110 LCDs.
 * [SSD1306 7seg](https://github.com/fizban99/microbit_ssd1306_7seg) ⭐ 9 | 🐛 1 | 🌐 Python | 📅 2021-07-24 - Library to use an SSD1306 OLED display as a 7 segment display.
@@ -220,7 +220,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 * [microBit.js](https://github.com/antefact/microBit.js) ⭐ 46 | 🐛 4 | 🌐 JavaScript | 📅 2017-07-24 - JavaScript library to interact with BBC micro:bit using web bluetooth API.
 * [node-bbc-microbit-io](https://github.com/sandeepmistry/node-bbc-microbit-io) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2017-02-16 - Johnny-Five (JavaScript Robotics and IoT programming framework) micro:bit plugin.
 * [microbit-web-components](https://github.com/thegecko/microbit-web-components) ⭐ 17 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-06 - Web Components for all the micro:bit features exposed via BLE.
-* [microbitFs](https://github.com/microbit-foundation/microbit-fs) ⭐ 15 | 🐛 8 | 🌐 TypeScript | 📅 2026-10-23 - TypeScript library to manipulate files inside a micro:bit MicroPython hex file.
+* [microbitFs](https://github.com/microbit-foundation/microbit-fs) ⭐ 15 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-24 - TypeScript library to manipulate files inside a micro:bit MicroPython hex file.
 * [microbitUh](https://github.com/microbit-foundation/microbit-universal-hex/) ⭐ 13 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-23 - TypeScript/JavaScript library to combine micro:bit Hex files into a Universal Hex that works in all versions of the micro:bit.
 * [ubit.js](https://github.com/lyneca/ubit.js) ⭐ 0 | 🐛 6 | 🌐 TypeScript | 📅 2022-02-12 - Library for Node.js to interact with the on-device MicroPython file system via serial connection.
 
@@ -264,8 +264,8 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 893 | 🐛 100 | 🌐 C | 📅 2026-10-23 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
-* [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 152 | 🐛 27 | 🌐 C | 📅 2026-10-04 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 893 | 🐛 100 | 🌐 C | 📅 2026-10-24 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 152 | 🐛 28 | 🌐 C | 📅 2026-10-04 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
 
@@ -399,8 +399,8 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,874 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
-* [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,120 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,876 | 🐛 145 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,121 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 321 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
 * [OpenBeacon](https://github.com/meriac/openbeacon-ng) ⭐ 138 | 🐛 2 | 🌐 C | 📅 2020-12-20 - Provides Active 2.4 GHz RFID Realtime Proximity and Position Tracking using the nRF51822 BLE chip, with micro:bit specific instructions.
@@ -409,7 +409,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 The USB Interface Chip is the microcontroller placed close to the battery connector. It provides all the USB functionality, like the `MICROBIT` USB drive (Mass Storage Device), WebUSB, serial, and HID debugger.
 
-* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,830 | 🐛 141 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
+* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,831 | 🐛 141 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
 * [DAP.js](https://github.com/ARMmbed/dapjs) ⭐ 135 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-29 - JavaScript (Node.js and WebUSB) interface to DAP-CMSIS over USB/HID, meant to provide a subset of the PyOCD functionality.
 * [microbit-webusb](https://github.com/bsiever/microbit-webusb) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-23 - A simple WebUSB library implementation to interact with the micro:bit, with a good README explanation, and a demo application.
 * [pyOCD](https://github.com/mbedmicro/pyOCD) ⭐ 1 | 🐛 0 | 📅 2025-08-06 - Python library for programming and debugging ARM Cortex-M microcontrollers, like the one included in the micro:bit, using the CMSIS-DAP provided by the Interface Chip.
@@ -769,7 +769,7 @@ Useful Articles for developing on the micro:bit.
 * [microbit.org Posters](https://www.microbit.org/teach/classroom-resources/?filters=9891baf2-873c-4c17-9550-798cbd9842e0) - All the posters from microbit.org, showcasing the device, editors, and projects.
 * [micro:bit V1 Element 14 Poster](https://community.element14.com/learn/learning-center/stem-academy/microbit/m/files/550) - Detailed, beautifully rendered, cross-section micro:bit poster highlighting all of the V1 key functions and components.
 * [micro:bit V2 Element 14 Poster](https://community.element14.com/learn/learning-center/stem-academy/microbit/m/files/2028) - Updated micro:bit V2 poster highlighting all of the device key functions, components, and example projects.
-* [Tactile micro:bit poster](https://microbit.org/teach/classroom-resources/microbit-tactile-diagram/) - Print this poster on swell paper or edit the tactile graphic to help your students with visual impairments familiarise themselves with the features of the BBC micro:bit.
+* [Tactile micro:bit poster](https://microbit.org/teach/classroom-resources/microbit-tactile-diagram/) - Print this poster on swell paper or edit the tactile graphic to help students with visual impairments learn the features of the micro:bit.
 
 ## 👪 Community
 
@@ -817,4 +817,4 @@ This project is not endorsed, sponsored or associated with the BBC. "BBC", "micr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

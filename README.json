@@ -328,7 +328,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2021-07-24T16:29:23Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "fizban99",
                 "repo": "microbit_hcsr04",
                 "stars": 18,
@@ -2131,8 +2131,8 @@
                 "id": 165649886,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-23T07:18:02Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-24T11:59:44Z",
+                "open_issues": 7,
                 "owner": "microbit-foundation",
                 "repo": "microbit-fs",
                 "stars": 15,
@@ -2639,7 +2639,7 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T21:13:26Z",
+                "last_commit": "2026-10-24T05:27:49Z",
                 "open_issues": 100,
                 "owner": "apache",
                 "repo": "mynewt-core",
@@ -2663,7 +2663,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-04T21:21:49Z",
-                "open_issues": 27,
+                "open_issues": 28,
                 "owner": "ChibiOS",
                 "repo": "ChibiOS-Contrib",
                 "stars": 152,
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13874,
+            "stars": 13876,
             "topics": [
               "airtag",
               "apple",
@@ -3561,7 +3561,7 @@
             "open_issues": 28,
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2120,
+            "stars": 2121,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3651,7 +3651,7 @@
             "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2830,
+            "stars": 2831,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T21:19:06.192Z",
+    "last_updated": "2026-10-24T20:39:33.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4732,7 +4732,7 @@
       "id": 65635555,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-23T18:28:49Z",
+      "last_commit": "2026-10-24T19:36:57Z",
       "open_issues": 7,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
@@ -4744,7 +4744,7 @@
         "microbit"
       ]
     },
-    "original_repository_sha": "4cf3c60dd44974167ddd9868ce3dd9046e72ed54",
+    "original_repository_sha": "1a0a60d64503b5c1c66466124d1f4c204ab458c2",
     "enhanced_repository": "enhansome/enhansome-microbit",
     "enhanced_repository_description": null,
     "title": "Awesome micro:bit with stars"
