@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T05:27:49Z",
-                "open_issues": 100,
+                "last_commit": "2026-10-25T20:09:41Z",
+                "open_issues": 102,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 893,
@@ -2663,7 +2663,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-04T21:21:49Z",
-                "open_issues": 28,
+                "open_issues": 30,
                 "owner": "ChibiOS",
                 "repo": "ChibiOS-Contrib",
                 "stars": 152,
@@ -2873,8 +2873,8 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-23T19:21:32Z",
-                "open_issues": 220,
+                "last_commit": "2026-10-25T17:51:35Z",
+                "open_issues": 221,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6476,
@@ -3530,7 +3530,7 @@
             "open_issues": 145,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13876,
+            "stars": 13881,
             "topics": [
               "airtag",
               "apple",
@@ -3582,7 +3582,7 @@
             "open_issues": 21,
             "owner": "RCayre",
             "repo": "mirage",
-            "stars": 321,
+            "stars": 322,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -4030,6 +4030,27 @@
         },
         {
           "node_type": "item",
+          "title": "micro:bit PCB Edge Connector",
+          "description": "A reproduction of the micro:bit V2 PCB edge connector for KiCAD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A reproduction of the Micro:bit v2 PCB edge connector for KiCAD",
+            "homepage": null,
+            "id": 635728918,
+            "language": null,
+            "license": "NOASSERTION",
+            "last_commit": "2024-06-26T11:08:59Z",
+            "open_issues": 2,
+            "owner": "JohnVidler",
+            "repo": "kicad-microbit-v2-edge-connector",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:43:15.300Z"
+        },
+        {
+          "node_type": "item",
           "title": "solder:bit Gamepad",
           "description": "Open source micro:bit gamepad with RGB LEDs, designed as a kit to learn how to solder with surface-mount components.",
           "children": [],
@@ -4050,27 +4071,6 @@
               "pcb",
               "soldering"
             ]
-          },
-          "first_seen": "2026-08-29T01:43:15.300Z"
-        },
-        {
-          "node_type": "item",
-          "title": "micro:bit PCB Edge Connector",
-          "description": "A reproduction of the micro:bit V2 PCB edge connector for KiCAD.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A reproduction of the Micro:bit v2 PCB edge connector for KiCAD",
-            "homepage": null,
-            "id": 635728918,
-            "language": null,
-            "license": "NOASSERTION",
-            "last_commit": "2024-06-26T11:08:59Z",
-            "open_issues": 1,
-            "owner": "JohnVidler",
-            "repo": "kicad-microbit-v2-edge-connector",
-            "stars": 3,
-            "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
         },
@@ -4714,7 +4714,7 @@
             "open_issues": 3,
             "owner": "dakota-mewt",
             "repo": "mewt",
-            "stars": 64,
+            "stars": 65,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T20:39:33.986Z",
+    "last_updated": "2026-10-25T20:44:04.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
