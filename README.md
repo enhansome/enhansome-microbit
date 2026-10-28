@@ -14,7 +14,7 @@ This embedded board has a Bluetooth microcontroller, USB interface, acceleromete
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) "Watch" this GitHub repository to get notifications on every new entry.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 525,698 | 🐛 105 | 📅 2026-09-02,
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 526,289 | 🐛 105 | 📅 2026-09-02,
 specialised collections of resources around a theme and organised by categories.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
@@ -54,7 +54,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 
 ## 🆚 Visual Programming
 
-* [OpenBlock](https://github.com/openblockcc/openblock-desktop) ⭐ 301 | 🐛 10 | 🌐 JavaScript | 📅 2025-06-12 - Block programming with hardware device support, including micro:bit, with code generation, compilation, flashing, and serial connection.
+* [OpenBlock](https://github.com/openblockcc/openblock-desktop) ⭐ 302 | 🐛 10 | 🌐 JavaScript | 📅 2025-06-12 - Block programming with hardware device support, including micro:bit, with code generation, compilation, flashing, and serial connection.
 * [MakeCode](https://makecode.microbit.org) - Provides an in-browser emulator and a Blocks interface that generates JavaScript (TypeScript) code (part of Microsoft's PXT).
   * [MakeCode Beta](https://makecode.microbit.org/beta) - Beta version of the MakeCode editor to test the latest features.
   * [MakeCode Offline App](https://makecode.microbit.org/offline-app) - Stand alone offline app (note that MakeCode in the browser also works offline).
@@ -264,7 +264,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 893 | 🐛 99 | 🌐 C | 📅 2026-10-27 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 893 | 🐛 97 | 🌐 C | 📅 2026-10-28 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 152 | 🐛 30 | 🌐 C | 📅 2026-10-04 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
@@ -296,7 +296,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,478 | 🐛 229 | 🌐 Rust | 📅 2026-10-26 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,482 | 🐛 231 | 🌐 Rust | 📅 2026-10-28 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -399,7 +399,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,892 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,895 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
 * [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,121 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 322 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
@@ -409,7 +409,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 The USB Interface Chip is the microcontroller placed close to the battery connector. It provides all the USB functionality, like the `MICROBIT` USB drive (Mass Storage Device), WebUSB, serial, and HID debugger.
 
-* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,833 | 🐛 141 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
+* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,836 | 🐛 141 | 🌐 C | 📅 2026-08-20 - Source code for DAPLink, the firmware running on the Interface Chip.
 * [DAP.js](https://github.com/ARMmbed/dapjs) ⭐ 135 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-29 - JavaScript (Node.js and WebUSB) interface to DAP-CMSIS over USB/HID, meant to provide a subset of the PyOCD functionality.
 * [microbit-webusb](https://github.com/bsiever/microbit-webusb) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-23 - A simple WebUSB library implementation to interact with the micro:bit, with a good README explanation, and a demo application.
 * [pyOCD](https://github.com/mbedmicro/pyOCD) ⭐ 1 | 🐛 0 | 📅 2025-08-06 - Python library for programming and debugging ARM Cortex-M microcontrollers, like the one included in the micro:bit, using the CMSIS-DAP provided by the Interface Chip.
@@ -713,7 +713,6 @@ Useful Articles for developing on the micro:bit.
 * [BBC micro:bit and Kodu Interact](http://www.kodugamelab.com/resources/#microbit) - Kodu is a visual programming language made specifically for creating games and allow interaction with the micro:bit.
 * [Build A Robot Wars Buggy](https://kitronik.co.uk/blogs/resources/robot-buggy-part-1-build-robot-wars-buggy-introduction) - This fun learning resource has been put together to provide teachers with an all in one design & technology challenge that you can set for your students.
 * [Kitronik Inventors Kit Resources](https://kitronik.co.uk/blogs/resources/kitronik-inventors-kit-resources) - A a great way to get started with programming and hardware interaction with the micro:bit. Includes 12 experiments using LEDs, motors, LDRs and capacitors.
-* [CLOQQ Activities](https://cloqq.com/newtomorrowtogether2017) - ([more](https://cloqq.com/tecnologia?id=14777677)) Activities with different difficulty levels, target age, and duration.
 * [First steps in using micro:bits with PCs](https://www.computingatschool.org.uk/resources/2018/january/first-steps-in-using-microbits-with-pcs/) - This very comprehensive article explores ways in which the micro:bit can send data via USB cable or wirelessly to PC applications.
 * [Science Experiment Lessons](https://makecode.microbit.org/courses/ucp-science) - Geared for students in middle and early high school, these Science Experiment lessons are designed help gain a greater understanding of the forces and behaviour of the physical world.
 * [micro:bit Basics for Teachers](https://www.hackster.io/kkristoff/micro-bit-basics-for-teachers-part-1-the-hardware-768229) - ([Part 2](https://www.hackster.io/monica/micro-bit-basics-for-teachers-part-2-javascript-blocks-6eaed5), [Part 3](https://www.hackster.io/monica/micro-bit-basics-for-teachers-part-3-micropython-c3fde0)) - Are you a teacher who wants to use micro:bit in your classroom, but doesn't know where to start? We'll show you how!
@@ -817,4 +816,4 @@ This project is not endorsed, sponsored or associated with the BBC. "BBC", "micr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

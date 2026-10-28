@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "openblockcc",
             "repo": "openblock-desktop",
-            "stars": 301,
+            "stars": 302,
             "topics": [
               "arduino",
               "esp32",
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-27T15:27:26Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-28T18:36:55Z",
+                "open_issues": 97,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 893,
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T21:40:36Z",
-                "open_issues": 229,
+                "last_commit": "2026-10-28T22:09:32Z",
+                "open_issues": 231,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6478,
+                "stars": 6482,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13892,
+            "stars": 13895,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2833,
+            "stars": 2836,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T22:06:08.548Z",
+    "last_updated": "2026-10-28T22:29:37.926Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4732,11 +4732,11 @@
       "id": 65635555,
       "language": "Python",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-24T19:36:57Z",
-      "open_issues": 7,
+      "last_commit": "2026-10-28T19:52:32Z",
+      "open_issues": 8,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
-      "stars": 1209,
+      "stars": 1210,
       "topics": [
         "awesome",
         "awesome-list",
@@ -4744,7 +4744,7 @@
         "microbit"
       ]
     },
-    "original_repository_sha": "1a0a60d64503b5c1c66466124d1f4c204ab458c2",
+    "original_repository_sha": "ca536cf17583d9ca690ebd85c7c1186e2161d72a",
     "enhanced_repository": "enhansome/enhansome-microbit",
     "enhanced_repository_description": null,
     "title": "Awesome micro:bit with stars"
