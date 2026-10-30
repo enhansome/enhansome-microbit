@@ -1134,7 +1134,7 @@
                 "id": 393065215,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T07:21:09Z",
+                "last_commit": "2026-10-30T10:57:26Z",
                 "open_issues": 14,
                 "owner": "microbit-foundation",
                 "repo": "micropython-microbit-stubs",
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T17:00:21Z",
-                "open_issues": 97,
+                "last_commit": "2026-10-30T05:28:21Z",
+                "open_issues": 102,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 893,
@@ -2877,7 +2877,7 @@
                 "open_issues": 230,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6484,
+                "stars": 6485,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3651,7 +3651,7 @@
             "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2837,
+            "stars": 2840,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T22:40:53.957Z",
+    "last_updated": "2026-10-30T22:13:07.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
