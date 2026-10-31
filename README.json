@@ -2640,7 +2640,7 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T05:28:21Z",
-                "open_issues": 102,
+                "open_issues": 108,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 893,
@@ -2873,8 +2873,8 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T02:34:52Z",
-                "open_issues": 230,
+                "last_commit": "2026-10-31T20:46:30Z",
+                "open_issues": 231,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6485,
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13896,
+            "stars": 13897,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2840,
+            "stars": 2841,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T22:13:07.672Z",
+    "last_updated": "2026-10-31T21:24:45.654Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
