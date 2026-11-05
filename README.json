@@ -1251,7 +1251,7 @@
                 "open_issues": 1,
                 "owner": "kshoji",
                 "repo": "pxt-bluetooth-gamepad",
-                "stars": 26,
+                "stars": 25,
                 "topics": [
                   "ble",
                   "gamepad",
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T17:29:24Z",
-                "open_issues": 102,
+                "last_commit": "2026-11-05T20:11:18Z",
+                "open_issues": 101,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 893,
@@ -2873,8 +2873,8 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T19:46:06Z",
-                "open_issues": 230,
+                "last_commit": "2026-11-05T22:14:52Z",
+                "open_issues": 229,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6487,
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13906,
+            "stars": 13911,
             "topics": [
               "airtag",
               "apple",
@@ -3561,7 +3561,7 @@
             "open_issues": 28,
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2122,
+            "stars": 2123,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3651,7 +3651,7 @@
             "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2843,
+            "stars": 2844,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T23:33:46.626Z",
+    "last_updated": "2026-11-05T23:33:11.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
