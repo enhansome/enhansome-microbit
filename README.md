@@ -14,7 +14,7 @@ This embedded board has a Bluetooth microcontroller, USB interface, acceleromete
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) "Watch" this GitHub repository to get notifications on every new entry.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 532,462 | 🐛 103 | 📅 2026-09-02,
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 533,143 | 🐛 103 | 📅 2026-09-02,
 specialised collections of resources around a theme and organised by categories.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
@@ -264,8 +264,8 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 894 | 🐛 99 | 🌐 C | 📅 2026-11-06 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
-* [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 154 | 🐛 31 | 🌐 C | 📅 2026-10-04 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 894 | 🐛 99 | 🌐 C | 📅 2026-11-07 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 154 | 🐛 33 | 🌐 C | 📅 2026-10-04 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
 
@@ -296,12 +296,12 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,491 | 🐛 231 | 🌐 Rust | 📅 2026-11-06 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,492 | 🐛 233 | 🌐 Rust | 📅 2026-11-07 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
 
-* [Ada Drivers](https://github.com/AdaCore/Ada_Drivers_Library/tree/master/examples/MicroBit) ⭐ 287 | 🐛 24 | 🌐 Ada | 📅 2026-08-19 - Drivers for the micro:bit on-board components and instruction on how to setup the Ada development environment.
+* [Ada Drivers](https://github.com/AdaCore/Ada_Drivers_Library/tree/master/examples/MicroBit) ⭐ 288 | 🐛 24 | 🌐 Ada | 📅 2026-08-19 - Drivers for the micro:bit on-board components and instruction on how to setup the Ada development environment.
 * [Ada micro:bit Examples](https://github.com/Fabien-Chouteau/microbit_examples) ⭐ 0 | 🐛 0 | 🌐 Ada | 📅 2020-10-02 - Examples and tutorials for Ada on the BBC micro:bit.
 * [Ada for micro:bit Getting Started](https://www.adacore.com/blog/ada-for-microbit-part-1-getting-started) -  How to setup an Ada development environment for the micro:bit.
 * [Ada for micro:bit articles](https://www.adacore.com/blog/ada-for-microbit-part-2-push-buttons) - ([Part 3](https://www.adacore.com/blog/ada-for-microbit-part-3-pin-output), [Part 4](https://www.adacore.com/blog/ada-for-microbit-part-4-pin-input), [Part 5](https://www.adacore.com/blog/ada-for-microbit-part-5-analog-output), [Part 6](https://www.adacore.com/blog/ada-for-microbit-part-6-analog-input), [Part 7](https://www.adacore.com/blog/ada-for-microbit-part-7-accelerometer), [Part 8](https://www.adacore.com/blog/ada-for-microbit-part-8-music)) A series of articles and tutorials about using Ada on the micro:bit.
@@ -399,7 +399,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,926 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 13,959 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
 * [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,123 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 322 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
@@ -816,4 +816,4 @@ This project is not endorsed, sponsored or associated with the BBC. "BBC", "micr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._

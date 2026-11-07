@@ -2639,7 +2639,7 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T20:22:02Z",
+                "last_commit": "2026-11-07T05:21:33Z",
                 "open_issues": 99,
                 "owner": "apache",
                 "repo": "mynewt-core",
@@ -2663,7 +2663,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-04T21:21:49Z",
-                "open_issues": 31,
+                "open_issues": 33,
                 "owner": "ChibiOS",
                 "repo": "ChibiOS-Contrib",
                 "stars": 154,
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T05:54:04Z",
-                "open_issues": 231,
+                "last_commit": "2026-11-07T01:47:38Z",
+                "open_issues": 233,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6491,
+                "stars": 6492,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -2922,7 +2922,7 @@
             "open_issues": 24,
             "owner": "AdaCore",
             "repo": "Ada_Drivers_Library",
-            "stars": 287,
+            "stars": 288,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13926,
+            "stars": 13959,
             "topics": [
               "airtag",
               "apple",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:59:40.167Z",
+    "last_updated": "2026-11-07T21:43:37.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
