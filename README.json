@@ -2639,7 +2639,7 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T18:38:20Z",
+                "last_commit": "2026-11-12T05:21:39Z",
                 "open_issues": 99,
                 "owner": "apache",
                 "repo": "mynewt-core",
@@ -2663,7 +2663,7 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-04T21:21:49Z",
-                "open_issues": 34,
+                "open_issues": 35,
                 "owner": "ChibiOS",
                 "repo": "ChibiOS-Contrib",
                 "stars": 154,
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-11T22:54:44Z",
-                "open_issues": 223,
+                "last_commit": "2026-11-12T21:55:42Z",
+                "open_issues": 221,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6495,
+                "stars": 6494,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -2922,7 +2922,7 @@
             "open_issues": 24,
             "owner": "AdaCore",
             "repo": "Ada_Drivers_Library",
-            "stars": 288,
+            "stars": 286,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 13992,
+            "stars": 13996,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 140,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2845,
+            "stars": 2846,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T00:31:05.213Z",
+    "last_updated": "2026-11-12T23:29:56.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4736,7 +4736,7 @@
       "open_issues": 8,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
-      "stars": 1211,
+      "stars": 1212,
       "topics": [
         "awesome",
         "awesome-list",
