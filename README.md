@@ -14,7 +14,7 @@ This embedded board has a Bluetooth microcontroller, USB interface, acceleromete
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) "Watch" this GitHub repository to get notifications on every new entry.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 536,919 | 🐛 104 | 📅 2026-09-02,
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 537,476 | 🐛 104 | 📅 2026-09-02,
 specialised collections of resources around a theme and organised by categories.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
@@ -173,7 +173,7 @@ The link below contains a list of the officially approved extensions, and they c
 The following extensions can be added into MakeCode by copying the GitHub URL and pasting it into the search box of the "Extensions" screen.
 
 * [Bluetooth Keyboard](https://github.com/kshoji/pxt-bluetooth-keyboard) ⭐ 52 | 🐛 3 | 🌐 C++ | 📅 2017-09-29 - MakeCode extension for BLE HID Keyboard module for micro:bit V1.
-* [blehid](https://github.com/bsiever/microbit-pxt-blehid) ⭐ 50 | 🐛 2 | 🌐 C++ | 📅 2024-04-21 - Set up the micro:bit V2 as a Bluetooth HID device, like a keyboard, mouse, or gamepad.
+* [blehid](https://github.com/bsiever/microbit-pxt-blehid) ⭐ 49 | 🐛 2 | 🌐 C++ | 📅 2024-04-21 - Set up the micro:bit V2 as a Bluetooth HID device, like a keyboard, mouse, or gamepad.
 * [Bluetooth Gamepad](https://github.com/kshoji/pxt-bluetooth-gamepad) ⭐ 25 | 🐛 1 | 🌐 C++ | 📅 2018-03-01 - MakeCode extension for BLE HID Gamepad module for micro:bit V1.
 * [BlueDot](https://github.com/Microsoft/pxt-bluedot) ⭐ 7 | 🐛 0 | 🌐 C++ | 📅 2025-01-10 - PXT package to support the BlueDot app - beta.
 * [timeanddate](https://github.com/bsiever/microbit-pxt-timeanddate) ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-25 -  Software Based Real Time Clock (Time & Date) for the micro:bit.
@@ -241,7 +241,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ Libraries
 
-* [blehid](https://github.com/bsiever/microbit-pxt-blehid) ⭐ 50 | 🐛 2 | 🌐 C++ | 📅 2024-04-21 - Set up the micro:bit V2 as a Bluetooth HID device, like a keyboard, mouse, or gamepad.
+* [blehid](https://github.com/bsiever/microbit-pxt-blehid) ⭐ 49 | 🐛 2 | 🌐 C++ | 📅 2024-04-21 - Set up the micro:bit V2 as a Bluetooth HID device, like a keyboard, mouse, or gamepad.
 * [nRF51 Radio](https://github.com/tipih/NRF51_Radio_library) ⭐ 8 | 🐛 2 | 🌐 C++ | 📅 2022-12-17 - Arduino library based on the micro:bit DAL radio implementation.
 * [micro:bit Video](https://github.com/blogmywiki/microbit-video) ⭐ 8 | 🐛 0 | 🌐 C++ | 📅 2021-10-22 - C++ programs for generating NTSC video from a V1 micro:bit to connect to a TV.
 * [micro:bit Screen](https://github.com/ht-deko/microbit_Screen) ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2017-11-30 - Arduino LED Screen library for micro:bit.
@@ -264,7 +264,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 894 | 🐛 103 | 🌐 C | 📅 2026-11-14 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 894 | 🐛 106 | 🌐 C | 📅 2026-11-15 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 154 | 🐛 36 | 🌐 C | 📅 2026-10-04 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
@@ -296,7 +296,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,495 | 🐛 227 | 🌐 Rust | 📅 2026-11-14 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,500 | 🐛 227 | 🌐 Rust | 📅 2026-11-14 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -399,7 +399,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 14,012 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 14,021 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
 * [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,123 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 324 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
@@ -816,4 +816,4 @@ This project is not endorsed, sponsored or associated with the BBC. "BBC", "micr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
