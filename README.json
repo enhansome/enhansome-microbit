@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T21:49:29Z",
-                "open_issues": 106,
+                "last_commit": "2026-11-16T14:22:57Z",
+                "open_issues": 98,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 894,
@@ -2663,10 +2663,10 @@
                 "language": "C",
                 "license": null,
                 "last_commit": "2026-10-04T21:21:49Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "ChibiOS",
                 "repo": "ChibiOS-Contrib",
-                "stars": 154,
+                "stars": 155,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-14T19:00:13Z",
-                "open_issues": 227,
+                "last_commit": "2026-11-16T23:27:07Z",
+                "open_issues": 223,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6500,
+                "stars": 6498,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 14021,
+            "stars": 14026,
             "topics": [
               "airtag",
               "apple",
@@ -3582,7 +3582,7 @@
             "open_issues": 21,
             "owner": "RCayre",
             "repo": "mirage",
-            "stars": 324,
+            "stars": 325,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T22:44:09.960Z",
+    "last_updated": "2026-11-17T01:49:51.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
