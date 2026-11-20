@@ -973,7 +973,7 @@
                 "open_issues": 28,
                 "owner": "ukBaz",
                 "repo": "python-bluezero",
-                "stars": 423,
+                "stars": 422,
                 "topics": [
                   "bluetooth",
                   "bluetooth-low-energy",
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T05:22:50Z",
-                "open_issues": 98,
+                "last_commit": "2026-11-19T15:35:06Z",
+                "open_issues": 97,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 894,
@@ -2770,7 +2770,7 @@
                 "open_issues": 108,
                 "owner": "rust-embedded",
                 "repo": "discovery",
-                "stars": 1606,
+                "stars": 1605,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:43:15.300Z"
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T23:42:09Z",
-                "open_issues": 213,
+                "last_commit": "2026-11-19T22:52:29Z",
+                "open_issues": 212,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6501,
+                "stars": 6506,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -2970,7 +2970,7 @@
             "open_issues": 43,
             "owner": "kekyo",
             "repo": "IL2C",
-            "stars": 450,
+            "stars": 449,
             "topics": [
               "aot",
               "arduino",
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 14126,
+            "stars": 14148,
             "topics": [
               "airtag",
               "apple",
@@ -3561,7 +3561,7 @@
             "open_issues": 28,
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2124,
+            "stars": 2123,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3582,7 +3582,7 @@
             "open_issues": 21,
             "owner": "RCayre",
             "repo": "mirage",
-            "stars": 325,
+            "stars": 324,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3651,7 +3651,7 @@
             "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2852,
+            "stars": 2851,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4591,7 +4591,7 @@
             "open_issues": 0,
             "owner": "mytechnotalent",
             "repo": "Python-For-Kids",
-            "stars": 802,
+            "stars": 800,
             "topics": [
               "article",
               "educator",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:14:47.320Z",
+    "last_updated": "2026-11-20T00:33:13.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4736,7 +4736,7 @@
       "open_issues": 9,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
-      "stars": 1213,
+      "stars": 1212,
       "topics": [
         "awesome",
         "awesome-list",
