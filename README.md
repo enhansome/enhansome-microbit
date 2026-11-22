@@ -14,7 +14,7 @@ This embedded board has a Bluetooth microcontroller, USB interface, acceleromete
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) "Watch" this GitHub repository to get notifications on every new entry.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 540,515 | 🐛 103 | 📅 2026-09-02,
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 541,096 | 🐛 103 | 📅 2026-09-02,
 specialised collections of resources around a theme and organised by categories.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
@@ -139,7 +139,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 ### 🐍 Python Libraries
 
 * [bluezero](https://github.com/ukBaz/python-bluezero) ⭐ 422 | 🐛 28 | 🌐 Python | 📅 2025-03-23 - Python package to interface with Bluetooth devices, with examples for the micro:bit.
-* [bitio](https://github.com/whaleygeek/bitio) ⭐ 100 | 🐛 24 | 🌐 Python | 📅 2022-11-26 - BBC micro:bit I/O library for Python. It allows you to run code in Python on a PC/Mac/Linux/Raspberry Pi and interact directly with the micro:bit.
+* [bitio](https://github.com/whaleygeek/bitio) ⭐ 99 | 🐛 24 | 🌐 Python | 📅 2022-11-26 - BBC micro:bit I/O library for Python. It allows you to run code in Python on a PC/Mac/Linux/Raspberry Pi and interact directly with the micro:bit.
 * [Kasper's micro:bit](https://github.com/janickr/kaspersmicrobit) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2025-11-11 - A Python package to connect to the Bluetooth LE GATT services of paired BBC micro:bit devices. Use your micro:bit as a wireless game controller!
 * [MicroPeri](https://github.com/ntoll/microperi) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2016-06-07 - Run Python programs on your computer with the same micro:bit MicroPython API and connecting a micro:bit as an external peripheral device or sensor.
 
@@ -296,7 +296,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### 🦀 Rust RTOS targeting micro:bit
 
-* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,512 | 🐛 218 | 🌐 Rust | 📅 2026-11-20 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
+* [Tock](https://github.com/tock/tock/blob/master/boards/microbit_v2/README.md) ⭐ 6,514 | 🐛 218 | 🌐 Rust | 📅 2026-11-20 - An embedded operating system designed for running multiple concurrent, mutually distrustful applications on low-memory and low-power microcontrollers, with support for the BBC micro:bit.
 * [Ariel OS](https://ariel-os.github.io/ariel-os/dev/docs/book/boards/bbc-micro-bit-v2.html) - A Rust operating system for secure, memory-safe, networked applications running on low-power microcontrollers, with support for the BBC micro:bit.
 
 ## 🐦 Ada
@@ -399,7 +399,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 14,245 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 14,259 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
 * [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,123 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 324 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
@@ -409,7 +409,7 @@ These languages do not program the micro:bit directly, but can be used to create
 
 The USB Interface Chip is the microcontroller placed close to the battery connector. It provides all the USB functionality, like the `MICROBIT` USB drive (Mass Storage Device), WebUSB, serial, and HID debugger.
 
-* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,852 | 🐛 141 | 🌐 C | 📅 2026-11-09 - Source code for DAPLink, the firmware running on the Interface Chip.
+* [DAPLink source code](https://github.com/ARMmbed/DAPLink) ⭐ 2,853 | 🐛 141 | 🌐 C | 📅 2026-11-09 - Source code for DAPLink, the firmware running on the Interface Chip.
 * [DAP.js](https://github.com/ARMmbed/dapjs) ⭐ 135 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-08 - JavaScript (Node.js and WebUSB) interface to DAP-CMSIS over USB/HID, meant to provide a subset of the PyOCD functionality.
 * [microbit-webusb](https://github.com/bsiever/microbit-webusb) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2023-09-23 - A simple WebUSB library implementation to interact with the micro:bit, with a good README explanation, and a demo application.
 * [pyOCD](https://github.com/mbedmicro/pyOCD) ⭐ 1 | 🐛 0 | 📅 2025-08-06 - Python library for programming and debugging ARM Cortex-M microcontrollers, like the one included in the micro:bit, using the CMSIS-DAP provided by the Interface Chip.
@@ -816,4 +816,4 @@ This project is not endorsed, sponsored or associated with the BBC. "BBC", "micr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
