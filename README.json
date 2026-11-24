@@ -2213,7 +2213,7 @@
             "open_issues": 129,
             "owner": "sandeepmistry",
             "repo": "arduino-nRF5",
-            "stars": 954,
+            "stars": 955,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-21T05:21:22Z",
-                "open_issues": 97,
+                "last_commit": "2026-11-23T10:32:45Z",
+                "open_issues": 96,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 894,
@@ -2873,11 +2873,11 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T21:50:14Z",
-                "open_issues": 218,
+                "last_commit": "2026-11-23T21:59:45Z",
+                "open_issues": 216,
                 "owner": "tock",
                 "repo": "tock",
-                "stars": 6514,
+                "stars": 6515,
                 "topics": [
                   "arm",
                   "cortex-m",
@@ -2919,7 +2919,7 @@
             "language": "Ada",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-19T11:27:59Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "AdaCore",
             "repo": "Ada_Drivers_Library",
             "stars": 286,
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 14259,
+            "stars": 14266,
             "topics": [
               "airtag",
               "apple",
@@ -3561,7 +3561,7 @@
             "open_issues": 28,
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2123,
+            "stars": 2124,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -3651,7 +3651,7 @@
             "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2853,
+            "stars": 2854,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -3793,7 +3793,7 @@
             "open_issues": 2,
             "owner": "microbit-foundation",
             "repo": "microbit-v2-hardware",
-            "stars": 97,
+            "stars": 98,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T23:32:29.386Z",
+    "last_updated": "2026-11-24T03:55:46.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
@@ -4736,7 +4736,7 @@
       "open_issues": 9,
       "owner": "carlosperate",
       "repo": "awesome-microbit",
-      "stars": 1213,
+      "stars": 1214,
       "topics": [
         "awesome",
         "awesome-list",
