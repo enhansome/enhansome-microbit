@@ -2639,11 +2639,11 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-24T05:22:35Z",
-                "open_issues": 96,
+                "last_commit": "2026-11-25T09:47:55Z",
+                "open_issues": 95,
                 "owner": "apache",
                 "repo": "mynewt-core",
-                "stars": 894,
+                "stars": 895,
                 "topics": [
                   "mynewt"
                 ]
@@ -2873,8 +2873,8 @@
                 "id": 36428094,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-25T00:51:04Z",
-                "open_issues": 217,
+                "last_commit": "2026-11-25T03:52:10Z",
+                "open_issues": 219,
                 "owner": "tock",
                 "repo": "tock",
                 "stars": 6517,
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 14271,
+            "stars": 14277,
             "topics": [
               "airtag",
               "apple",
@@ -3651,7 +3651,7 @@
             "open_issues": 141,
             "owner": "ARMmbed",
             "repo": "DAPLink",
-            "stars": 2854,
+            "stars": 2855,
             "topics": [
               "arm",
               "cmsis-dap",
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T02:16:26.916Z",
+    "last_updated": "2026-11-26T01:44:30.008Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",
