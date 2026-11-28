@@ -77,7 +77,7 @@
                 "id": 319152885,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-26T23:36:13Z",
+                "last_commit": "2026-11-27T04:05:38Z",
                 "open_issues": 7,
                 "owner": "microbit-more",
                 "repo": "mbit-more-v2",
@@ -2639,8 +2639,8 @@
                 "id": 45165993,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T13:08:43Z",
-                "open_issues": 94,
+                "last_commit": "2026-11-27T05:22:50Z",
+                "open_issues": 98,
                 "owner": "apache",
                 "repo": "mynewt-core",
                 "stars": 895,
@@ -3530,7 +3530,7 @@
             "open_issues": 146,
             "owner": "seemoo-lab",
             "repo": "openhaystack",
-            "stars": 14286,
+            "stars": 14291,
             "topics": [
               "airtag",
               "apple",
@@ -3561,7 +3561,7 @@
             "open_issues": 28,
             "owner": "virtualabs",
             "repo": "btlejack",
-            "stars": 2125,
+            "stars": 2126,
             "topics": []
           },
           "first_seen": "2026-08-29T01:43:15.300Z"
@@ -4724,7 +4724,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:39:56.109Z",
+    "last_updated": "2026-11-28T01:22:05.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of BBC micro:bit resources.",

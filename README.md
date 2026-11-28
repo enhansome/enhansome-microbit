@@ -14,7 +14,7 @@ This embedded board has a Bluetooth microcontroller, USB interface, acceleromete
 * [![watch badge](https://img.shields.io/github/watchers/carlosperate/awesome-microbit.svg?label=Watch\&style=social)](https://github.com/carlosperate/awesome-microbit/watchers) "Watch" this GitHub repository to get notifications on every new entry.
 * [![Bluesky Follow](https://img.shields.io/badge/\(Bluesky\)-@awesomemicrobit-8A2BE2?style=social\&logo=bluesky)](https://bsky.app/profile/awesomemicrobit.bsky.social) Follow [@awesomemicrobit.bsky.social](https://bsky.app/profile/awesomemicrobit.bsky.social) on Bluesky. 📣
 
-Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 543,459 | 🐛 103 | 📅 2026-09-02,
+Inspired by the [Awesome lists](https://github.com/sindresorhus/awesome) ⭐ 543,967 | 🐛 103 | 📅 2026-09-02,
 specialised collections of resources around a theme and organised by categories.
 
 Contributions are welcome! Not sure how to submit a contribution? Have a look at our [guide](contributing.md#adding-something-to-an-awesome-list).
@@ -72,7 +72,7 @@ Contributions are welcome! Not sure how to submit a contribution? Have a look at
 ### 🆚 Unofficial Scratch Extensions
 
 * [pyscrlink](https://github.com/kawasaki/pyscrlink) ⭐ 127 | 🐛 18 | 🌐 Python | 📅 2023-09-18 - A Scratch-link for Linux to connect Scratch 3.0 to Bluetooth devices such as the micro:bit.
-* [mbit-more](https://github.com/microbit-more/mbit-more-v2/) ⭐ 41 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-26 - A third party Scratch extension with extra features, including visualising sensor data and support for V1 and V2 micro:bit.
+* [mbit-more](https://github.com/microbit-more/mbit-more-v2/) ⭐ 41 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-27 - A third party Scratch extension with extra features, including visualising sensor data and support for V1 and V2 micro:bit.
 * [s2m](https://github.com/MrYsLab/s2m) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2019-08-28 - A Python program that acts as a bridge between the Scratch 2 off-line editor and the micro:bit via USB.
 * [s2microbit BLE](https://github.com/memakura/s2microbit-ble#English) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2024-05-09 - Scratch 2 (offline) extension for BBC micro:bit bluetooth connection with a Windows PC.
 
@@ -264,7 +264,7 @@ The following extensions can be added into MakeCode by copying the GitHub URL an
 
 ### ©️ C/C++ RTOS targeting micro:bit
 
-* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 895 | 🐛 94 | 🌐 C | 📅 2026-11-26 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
+* [Mynewt](https://github.com/apache/mynewt-core) ⭐ 895 | 🐛 98 | 🌐 C | 📅 2026-11-27 - Open-source operating system for tiny embedded devices. Its goal is to make it easy to develop applications for microcontroller environments where power and cost are driving factors.
 * [ChibiOS](https://github.com/ChibiOS/ChibiOS-Contrib) ⭐ 155 | 🐛 36 | 🌐 C | 📅 2026-11-18 - A complete development environment for embedded applications including RTOS, a HAL, peripheral drivers, support files, and tools.
 * [RIOT](https://api.riot-os.org/group__boards__microbit__v2.html) - A friendly, real-time, multi-threading operating system that supports a range of devices that are typically found in the Internet of Things (IoT).
 * [Zephyr](https://docs.zephyrproject.org/latest/boards/bbc/microbit_v2/doc/index.html) - A scalable real-time operating system (RTOS) supporting multiple hardware architectures, optimized for resource constrained devices, and built with security in mind.
@@ -399,8 +399,8 @@ These languages do not program the micro:bit directly, but can be used to create
 
 ## ♻️ Projects Using micro:bit as a Dev Board
 
-* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 14,286 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
-* [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,125 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
+* [OpenHaystack](https://github.com/seemoo-lab/openhaystack) ⭐ 14,291 | 🐛 146 | 🌐 Swift | 📅 2026-08-17 - Framework for tracking personal Bluetooth devices via Apple's massive Find My network. Build your own 'AirTags' with a micro:bit.
+* [BtleJack](https://github.com/virtualabs/btlejack) ⭐ 2,126 | 🐛 28 | 🌐 Python | 📅 2024-08-04 - Based on the micro:bit, it provides everything you need to sniff, jam and hijack Bluetooth Low Energy devices.
 * [Mirage](https://github.com/RCayre/mirage) ⭐ 324 | 🐛 21 | 🌐 Python | 📅 2025-04-13 - A powerful and modular framework dedicated to the security analysis of wireless communications.
 * [Radiobit, a BBC micro:Bit RF firmware](https://github.com/virtualabs/radiobit) ⭐ 152 | 🐛 8 | 🌐 C | 📅 2022-10-27 - Custom MicroPython & tools allowing security researchers to sniff, receive and send data over Nordic's ShockBurst protocol, Bluetooth Smart Link Layer, and more.
 * [OpenBeacon](https://github.com/meriac/openbeacon-ng) ⭐ 138 | 🐛 2 | 🌐 C | 📅 2020-12-20 - Provides Active 2.4 GHz RFID Realtime Proximity and Position Tracking using the nRF51822 BLE chip, with micro:bit specific instructions.
@@ -816,4 +816,4 @@ This project is not endorsed, sponsored or associated with the BBC. "BBC", "micr
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
